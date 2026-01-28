@@ -1,0 +1,29 @@
+{% assign related = site.posts | where_exp: "post", "post.url != page.url" | slice: 0, 3 %}
+{% if related.size > 0 %}
+<section class="related-posts">
+    <div class="container">
+        <h2 class="section-title">You Might Also Like</h2>
+        <div class="posts-grid">
+            {% for post in related %}
+            <article class="post-card">
+                <a href="{{ post.url | relative_url }}" class="post-image">
+                    {% if post.image %}
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                    {% else %}
+                    <div class="placeholder-image"></div>
+                    {% endif %}
+                </a>
+                <div class="post-card-content">
+                    <div class="post-meta">
+                        {% for category in post.categories limit:1 %}
+                        <a href="{{ '/category/' | append: category | downcase | relative_url }}" class="category-tag">{{ category }}</a>
+                        {% endfor %}
+                    </div>
+                    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}

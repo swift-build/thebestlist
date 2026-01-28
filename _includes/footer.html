@@ -1,0 +1,44 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-about">
+                <a href="{{ '/' | relative_url }}" class="footer-logo">
+                    <span class="logo-text">TheBestList</span><span class="logo-dot">.in</span>
+                </a>
+                <p>Curated recommendations for the best products, places, and experiences. We help you discover what's truly worth your time and money.</p>
+            </div>
+            
+            <div class="footer-links">
+                <h4>Categories</h4>
+                <ul>
+                    <li><a href="{{ '/category/lifestyle/' | relative_url }}">Lifestyle</a></li>
+                    <li><a href="{{ '/category/tech/' | relative_url }}">Tech</a></li>
+                    <li><a href="{{ '/category/food/' | relative_url }}">Food</a></li>
+                    <li><a href="{{ '/category/travel/' | relative_url }}">Travel</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="{{ '/about/' | relative_url }}">About Us</a></li>
+                    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+                    <li><a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-newsletter">
+                <h4>Newsletter</h4>
+                <p>Get the best recommendations delivered to your inbox.</p>
+                <form class="newsletter-form">
+                    <input type="email" placeholder="Your email address" required>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: "%Y" }} TheBestList.in. All rights reserved.</p>
+        </div>
+    </div>
+</footer>

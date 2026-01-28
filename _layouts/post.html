@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<article class="post-full">
+    <header class="post-header">
+        <div class="post-meta">
+            {% for category in page.categories %}
+            <a href="{{ '/category/' | append: category | downcase | relative_url }}" class="category-tag">{{ category }}</a>
+            {% endfor %}
+            <span class="post-date">{{ page.date | date: "%B %d, %Y" }}</span>
+        </div>
+        <h1 class="post-title">{{ page.title }}</h1>
+        {% if page.excerpt %}
+        <p class="post-excerpt">{{ page.excerpt | strip_html }}</p>
+        {% endif %}
+        <div class="post-author">
+            <span>By {{ page.author | default: "TheBestList Team" }}</span>
+        </div>
+    </header>
+    
+    {% if page.image %}
+    <div class="post-featured-image">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+    
+    <div class="post-content">
+        {{ content }}
+    </div>
+    
+    <footer class="post-footer">
+        <div class="post-tags">
+            {% for tag in page.tags %}
+            <span class="tag">#{{ tag }}</span>
+            {% endfor %}
+        </div>
+        
+        <div class="share-buttons">
+            <span>Share:</span>
+            <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}" target="_blank" rel="noopener">Twitter</a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" rel="noopener">Facebook</a>
+        </div>
+    </footer>
+</article>
+
+{% include related-posts.html %}
