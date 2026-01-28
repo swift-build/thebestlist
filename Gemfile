@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# GitHub Pages gem includes Jekyll and all supported plugins
-gem "github-pages", "~> 232", group: :jekyll_plugins
-
-gem "webrick" # Required for Ruby 3.0+
+gem "jekyll", "~> 4.2"
+gem "jekyll-paginate"
+gem "jekyll-seo-tag"
+gem "webrick"
