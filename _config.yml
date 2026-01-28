@@ -1,8 +1,14 @@
 # Site settings
 title: TheBestList.in
 description: "Curated recommendations for the best products, places, and experiences"
-url: "https://thebestlist.in"
-baseurl: ""
+
+# FOR GITHUB PAGES (swift-build.github.io/thebestlist)
+url: "https://swift-build.github.io"
+baseurl: "/thebestlist"
+
+# FOR CUSTOM DOMAIN (uncomment these and comment above when domain is set up)
+# url: "https://thebestlist.in"
+# baseurl: ""
 
 # Build settings
 markdown: kramdown
