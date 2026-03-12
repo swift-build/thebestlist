@@ -5,9 +5,9 @@ backend:
   name: github
   repo: swift-build/thebestlist
   branch: main
-  # Netlify acts as a free OAuth2 proxy — no Netlify hosting needed
-  # See SETUP INSTRUCTIONS below for the one-time auth configuration
   base_url: https://api.netlify.com
+  # site_id tells Netlify which site's OAuth credentials to use
+  site_id: verdant-cannoli-70ecad.netlify.app
 
 # Site preview links inside the admin
 site_url: https://thebestlistindia.com
