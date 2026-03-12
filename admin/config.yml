@@ -6,8 +6,9 @@ backend:
   repo: swift-build/thebestlist
   branch: main
   base_url: https://api.netlify.com
-  # site_id tells Netlify which site's OAuth credentials to use
   site_id: verdant-cannoli-70ecad.netlify.app
+  # repo scope is required to read/write files in the GitHub repository
+  auth_scope: repo
 
 # Site preview links inside the admin
 site_url: https://thebestlistindia.com
