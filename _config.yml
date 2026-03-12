@@ -1,10 +1,10 @@
 # Site settings
-title: TheBestList.in
-description: "Curated recommendations for the best products, places, and experiences"
+title: The Best List India
+description: "Curating the best of Fashion, Weddings, Travel, Beauty, Pop Culture & Food — all in one place."
 
 # FOR GITHUB PAGES (swift-build.github.io/thebestlist)
-url: "https://swift-build.github.io"
-baseurl: "/thebestlist"
+url: "https://thebestlistindia.com"
+baseurl: ""
 
 # FOR CUSTOM DOMAIN (uncomment these and comment above when domain is set up)
 # url: "https://thebestlist.in"
@@ -33,7 +33,10 @@ defaults:
       layout: "post"
       author: "TheBestList Team"
 
-# Plugins
+# Plugins (gems for Jekyll 3, plugins for Jekyll 4)
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag

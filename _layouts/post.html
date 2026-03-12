@@ -18,24 +18,66 @@ layout: default
             <span>By {{ page.author | default: "TheBestList Team" }}</span>
         </div>
     </header>
-    
+
     {% if page.image %}
     <div class="post-featured-image">
         <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
     </div>
     {% endif %}
-    
+
     <div class="post-content">
         {{ content }}
     </div>
-    
+
+    <!-- ── YouTube Embed ─────────────────────────────────── -->
+    {% if page.youtube_url %}
+    <div class="post-embed post-embed--youtube">
+        <h3 class="embed-label">Watch the Video</h3>
+        {% assign yt_url = page.youtube_url %}
+        {% if yt_url contains 'youtu.be/' %}
+            {% assign yt_id = yt_url | split: 'youtu.be/' | last | split: '?' | first %}
+        {% elsif yt_url contains 'v=' %}
+            {% assign yt_id = yt_url | split: 'v=' | last | split: '&' | first %}
+        {% elsif yt_url contains '/embed/' %}
+            {% assign yt_id = yt_url | split: '/embed/' | last | split: '?' | first %}
+        {% else %}
+            {% assign yt_id = yt_url %}
+        {% endif %}
+        <div class="embed-responsive">
+            <iframe
+                src="https://www.youtube.com/embed/{{ yt_id }}"
+                title="YouTube video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- ── Instagram Embed ───────────────────────────────── -->
+    {% if page.instagram_url %}
+    <div class="post-embed post-embed--instagram">
+        <h3 class="embed-label">See it on Instagram</h3>
+        <div class="instagram-embed-wrapper">
+            <blockquote
+                class="instagram-media"
+                data-instgrm-permalink="{{ page.instagram_url }}"
+                data-instgrm-version="14"
+                style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:0 auto; max-width:540px; padding:0; width:100%;">
+            </blockquote>
+        </div>
+        <script async defer src="//www.instagram.com/embed.js"></script>
+    </div>
+    {% endif %}
+
     <footer class="post-footer">
         <div class="post-tags">
             {% for tag in page.tags %}
             <span class="tag">#{{ tag }}</span>
             {% endfor %}
         </div>
-        
+
         <div class="share-buttons">
             <span>Share:</span>
             <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}" target="_blank" rel="noopener">Twitter</a>

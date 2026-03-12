@@ -1,44 +1,73 @@
 <footer class="site-footer">
-    <div class="container">
-        <div class="footer-grid">
-            <div class="footer-about">
-                <a href="{{ '/' | relative_url }}" class="footer-logo">
-                    <span class="logo-text">TheBestList</span><span class="logo-dot">.in</span>
-                </a>
-                <p>Curated recommendations for the best products, places, and experiences. We help you discover what's truly worth your time and money.</p>
-            </div>
-            
-            <div class="footer-links">
-                <h4>Categories</h4>
-                <ul>
-                    <li><a href="{{ '/category/lifestyle/' | relative_url }}">Lifestyle</a></li>
-                    <li><a href="{{ '/category/tech/' | relative_url }}">Tech</a></li>
-                    <li><a href="{{ '/category/food/' | relative_url }}">Food</a></li>
-                    <li><a href="{{ '/category/travel/' | relative_url }}">Travel</a></li>
-                </ul>
-            </div>
-            
-            <div class="footer-links">
-                <h4>Quick Links</h4>
-                <ul>
-                    <li><a href="{{ '/about/' | relative_url }}">About Us</a></li>
-                    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-                    <li><a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a></li>
-                </ul>
-            </div>
-            
-            <div class="footer-newsletter">
-                <h4>Newsletter</h4>
-                <p>Get the best recommendations delivered to your inbox.</p>
-                <form class="newsletter-form">
-                    <input type="email" placeholder="Your email address" required>
-                    <button type="submit">Subscribe</button>
-                </form>
-            </div>
-        </div>
-        
-        <div class="footer-bottom">
-            <p>&copy; {{ 'now' | date: "%Y" }} TheBestList.in. All rights reserved.</p>
-        </div>
+  <div class="footer-top">
+
+    <div>
+      <span class="footer-logo-main">The Best List</span>
+      <span class="footer-logo-sub">India</span>
+      <p class="footer-tagline">Curating the best of Fashion, Weddings, Travel, Beauty, Pop Culture &amp; Food — all in one place.</p>
+      <div class="footer-social">
+        <a href="#" class="social-link" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <rect x="2" y="2" width="20" height="20" rx="5"/>
+            <circle cx="12" cy="12" r="5"/>
+            <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+          </svg>
+        </a>
+        <a href="#" class="social-link" aria-label="YouTube">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <rect x="2" y="5" width="20" height="14" rx="4"/>
+            <polygon points="10 9 15 12 10 15" fill="currentColor" stroke="none"/>
+          </svg>
+        </a>
+        <a href="#" class="social-link" aria-label="Pinterest">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M12 2C6.48 2 2 6.48 2 12c0 4.24 2.65 7.86 6.4 9.29-.09-.78-.17-1.98.03-2.83.19-.77 1.26-5.33 1.26-5.33s-.32-.65-.32-1.6c0-1.5.87-2.62 1.95-2.62.92 0 1.37.69 1.37 1.52 0 .93-.59 2.31-.9 3.59-.25 1.07.54 1.94 1.59 1.94 1.9 0 3.37-2.01 3.37-4.91 0-2.57-1.84-4.36-4.48-4.36-3.05 0-4.84 2.29-4.84 4.65 0 .92.35 1.9.79 2.44.09.1.1.2.07.3l-.29 1.2c-.05.19-.16.23-.37.14C6.84 15.4 6 13.64 6 12.17 6 9.04 8.28 6.1 12.35 6.1c3.29 0 5.85 2.34 5.85 5.47 0 3.27-2.06 5.9-4.91 5.9-.96 0-1.86-.5-2.17-1.09l-.59 2.21c-.21.82-.78 1.85-1.17 2.48.88.27 1.81.42 2.77.42 5.52 0 10-4.48 10-10S17.52 2 12 2z"/>
+          </svg>
+        </a>
+      </div>
     </div>
+
+    <div>
+      <p class="footer-col-title">Sections</p>
+      <ul class="footer-links">
+        <li><a href="{{ '/category/fashion/' | relative_url }}">Fashion</a></li>
+        <li><a href="{{ '/category/weddings/' | relative_url }}">Weddings</a></li>
+        <li><a href="{{ '/category/travel/' | relative_url }}">Travel</a></li>
+        <li><a href="{{ '/category/beauty/' | relative_url }}">Beauty</a></li>
+        <li><a href="{{ '/category/pop-culture/' | relative_url }}">Pop Culture</a></li>
+        <li><a href="{{ '/category/food/' | relative_url }}">Food</a></li>
+        <li><a href="{{ '/category/tech/' | relative_url }}">Tech</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <p class="footer-col-title">Company</p>
+      <ul class="footer-links">
+        <li><a href="{{ '/about/' | relative_url }}">About Us</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+        <li><a href="#">Advertise</a></li>
+        <li><a href="#">Careers</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <p class="footer-col-title">More</p>
+      <ul class="footer-links">
+        <li><a href="#">Newsletter</a></li>
+        <li><a href="#">Submit a Story</a></li>
+        <li><a href="#">Brand Collabs</a></li>
+        <li><a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p class="footer-legal">&copy; {{ 'now' | date: "%Y" }} The Best List India. All rights reserved.</p>
+    <div class="footer-legal-links">
+      <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+      <a href="#">Terms</a>
+      <a href="#">Sitemap</a>
+    </div>
+  </div>
 </footer>

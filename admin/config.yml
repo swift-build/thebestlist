@@ -1,0 +1,127 @@
+# ─────────────────────────────────────────────────────────────
+# Decap CMS — Backend (GitHub repo via Netlify OAuth proxy)
+# ─────────────────────────────────────────────────────────────
+backend:
+  name: github
+  repo: swift-build/thebestlist
+  branch: main
+  # Netlify acts as a free OAuth2 proxy — no Netlify hosting needed
+  # See SETUP INSTRUCTIONS below for the one-time auth configuration
+  base_url: https://api.netlify.com
+
+# Site preview links inside the admin
+site_url: https://thebestlistindia.com
+display_url: https://thebestlistindia.com
+
+# ─────────────────────────────────────────────────────────────
+# Media / Image Uploads
+# ─────────────────────────────────────────────────────────────
+# Images are saved into the repo at assets/images/posts/
+# public_folder is the URL path used inside post content & front matter
+media_folder: assets/images/posts
+public_folder: /assets/images/posts
+
+# ─────────────────────────────────────────────────────────────
+# Collections — Posts
+# ─────────────────────────────────────────────────────────────
+collections:
+  - name: posts
+    label: "Blog Posts"
+    label_singular: "Post"
+    folder: _posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{categories}}/{{title}}"
+    summary: "{{title}} — {{date | date('DD MMM YYYY')}}"
+
+    fields:
+
+      # Hidden — always "post"
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+
+      # ── Core ──────────────────────────────────────────────
+      - label: "Title"
+        name: title
+        widget: string
+        hint: "The main headline for your post"
+
+      - label: "Publish Date"
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD HH:mm:ss ZZ"
+        date_format: "DD MMM YYYY"
+        time_format: "HH:mm"
+
+      - label: "Author"
+        name: author
+        widget: string
+        default: "TheBestList Team"
+
+      # ── Taxonomy ──────────────────────────────────────────
+      - label: "Categories"
+        name: categories
+        widget: select
+        multiple: true
+        options:
+          - Food
+          - Travel
+          - Tech
+          - Fashion
+          - Health
+          - Lifestyle
+          - Entertainment
+          - Beauty
+          - Home
+          - Finance
+        hint: "Pick one or more categories"
+
+      - label: "Tags"
+        name: tags
+        widget: list
+        allow_add: true
+        hint: "Type a tag and press Enter (e.g. mumbai, weekend-trips, coffee)"
+        field:
+          label: Tag
+          name: tag
+          widget: string
+
+      # ── Images ────────────────────────────────────────────
+      - label: "Banner Image"
+        name: image
+        widget: image
+        required: false
+        hint: "Main image shown at the very top of the post (recommended: 1200×630px)"
+
+      - label: "Featured Post?"
+        name: featured
+        widget: boolean
+        default: false
+        hint: "Turn on to highlight this post on the homepage"
+
+      # ── SEO ───────────────────────────────────────────────
+      - label: "Meta Description"
+        name: excerpt
+        widget: text
+        hint: "Shown in Google search results and post preview cards. Keep under 160 characters."
+
+      # ── Embeds ────────────────────────────────────────────
+      - label: "YouTube Video URL"
+        name: youtube_url
+        widget: string
+        required: false
+        hint: "Paste a YouTube URL (e.g. https://youtu.be/xxxxx or https://www.youtube.com/watch?v=xxxxx). The video will be embedded after the post content."
+
+      - label: "Instagram Post URL"
+        name: instagram_url
+        widget: string
+        required: false
+        hint: "Paste an Instagram post URL (e.g. https://www.instagram.com/p/xxxxx/). The post will be embedded after the content."
+
+      # ── Content ───────────────────────────────────────────
+      - label: "Content"
+        name: body
+        widget: markdown
+        hint: "Write your full post here. Use the toolbar to add headings, bold/italic text, bullet lists, links, and images anywhere in the post."

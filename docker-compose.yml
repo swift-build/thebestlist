@@ -1,0 +1,13 @@
+version: '3'
+services:
+  jekyll:
+    image: jekyll/jekyll:3.9.0
+    container_name: thebestlist-jekyll
+    command: jekyll serve --force_polling --livereload --config _config.yml,_config_dev.yml
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
