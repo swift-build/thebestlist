@@ -2,8 +2,7 @@
 # Decap CMS — Backend (GitHub repo via Netlify OAuth proxy)
 # ─────────────────────────────────────────────────────────────
 backend:
-  name: github
-  repo: swift-build/thebestlist
+  name: git-gateway
   branch: main
 
 # Site preview links inside the admin

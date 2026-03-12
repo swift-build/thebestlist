@@ -14,6 +14,9 @@
   <!-- Styles -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
+  <!-- Netlify Identity — handles CMS login redirect -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   {% seo %}
 </head>
 <body>
@@ -24,6 +27,19 @@
   </main>
 
   {% include footer.html %}
+
+  <!-- After login, redirect to /admin/ -->
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on('init', function(user) {
+        if (!user) {
+          window.netlifyIdentity.on('login', function() {
+            document.location.href = '/admin/';
+          });
+        }
+      });
+    }
+  </script>
 
   {% if site.baseurl != "" %}
   <script>
