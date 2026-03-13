@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}The Best List India</title>
+  <title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }} | The Best List India{% else %}The Best List India{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
 
   <!-- Fonts -->
