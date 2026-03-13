@@ -6,34 +6,20 @@ permalink: /about/
 
 <div class="page-header">
     <div class="container">
-        <h1>About TheBestList.in</h1>
+        <h1>About The Best List India</h1>
     </div>
 </div>
 
 <div class="page-content">
 
-## Our Mission
+The Best List India is a culture-forward platform for those who move between worlds. We curate the finest in fashion, weddings, travel, beauty, pop culture, food & more through a lens that is equal parts global and unmistakably Indian.
 
-At **TheBestList.in**, we believe everyone deserves access to honest, well-researched recommendations. Our mission is to cut through the noise and bring you curated lists of the best products, places, and experiences across India.
+Not a trend report. Not a roundup. **An edit.**
 
-## What We Do
+For a generation that is discerning by nature, borderless by choice, and always, always, ahead.
 
-We spend countless hours researching, testing, and reviewing to bring you:
+## Contact
 
-- **Product Reviews** - From tech gadgets to lifestyle essentials
-- **Restaurant Guides** - The best dining experiences in every city
-- **Travel Recommendations** - Hidden gems and must-visit destinations
-- **Lifestyle Tips** - Making everyday life better
-
-## Why Trust Us?
-
-- **Independent Reviews** - We're not paid to recommend anything
-- **Real Testing** - We actually use and test what we recommend
-- **Community Driven** - Your feedback shapes our recommendations
-- **Regular Updates** - We keep our lists fresh and relevant
-
-## Contact Us
-
-Have a suggestion or want to collaborate? Reach out to us at **hello@thebestlist.in**
+Reach us at **kiran@thebestlistindia.com** or **+91 8608949297**
 
 </div>

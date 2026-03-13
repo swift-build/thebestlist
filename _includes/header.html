@@ -37,7 +37,7 @@
   <!-- Category Nav -->
   <nav class="cat-nav">
     <div class="cat-nav-inner">
-      <a href="{{ '/' | relative_url }}" class="cat-link {% if page.url == '/' %}active{% endif %}">All</a>
+      <a href="{{ '/' | relative_url }}" class="cat-link {% if page.url == '/' %}active{% endif %}">Home</a>
       <a href="{{ '/category/fashion/' | relative_url }}" class="cat-link {% if page.categories contains 'Fashion' %}active{% endif %}">Fashion</a>
       <a href="{{ '/category/weddings/' | relative_url }}" class="cat-link {% if page.categories contains 'Weddings' %}active{% endif %}">Weddings</a>
       <a href="{{ '/category/travel/' | relative_url }}" class="cat-link {% if page.categories contains 'Travel' %}active{% endif %}">Travel</a>
@@ -59,7 +59,7 @@
   </button>
   <div class="mobile-logo">The Best List</div>
   <nav class="mobile-nav">
-    <a href="{{ '/' | relative_url }}" onclick="closeMenu()">All</a>
+    <a href="{{ '/' | relative_url }}" onclick="closeMenu()">Home</a>
     <a href="{{ '/category/fashion/' | relative_url }}" onclick="closeMenu()">Fashion</a>
     <a href="{{ '/category/weddings/' | relative_url }}" onclick="closeMenu()">Weddings</a>
     <a href="{{ '/category/travel/' | relative_url }}" onclick="closeMenu()">Travel</a>

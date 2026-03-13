@@ -5,6 +5,12 @@
       <span class="footer-logo-main">The Best List</span>
       <span class="footer-logo-sub">India</span>
       <p class="footer-tagline">Curating the best of Fashion, Weddings, Travel, Beauty, Pop Culture &amp; Food — all in one place.</p>
+      {% if site.contact %}
+      <p class="footer-contact">
+        <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a><br>
+        <a href="tel:{{ site.contact.phone | replace: ' ', '' }}">{{ site.contact.phone }}</a>
+      </p>
+      {% endif %}
       <div class="footer-social">
         {% if site.social.instagram %}
         <a href="{{ site.social.instagram }}" class="social-link" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
@@ -58,6 +64,8 @@
       <ul class="footer-links">
         <li><a href="{{ '/about/' | relative_url }}">About Us</a></li>
         <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+        <li><a href="{{ '/advertise/' | relative_url }}">Advertise</a></li>
+        <li><a href="{{ '/brand-collabs/' | relative_url }}">Brand Collabs</a></li>
       </ul>
     </div>
 
@@ -66,6 +74,7 @@
       <ul class="footer-links">
         <li><a href="{{ '/' | relative_url }}#newsletter">Newsletter</a></li>
         <li><a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a></li>
+        <li><a href="{{ '/terms/' | relative_url }}">Terms of Use</a></li>
       </ul>
     </div>
 
@@ -75,6 +84,7 @@
     <p class="footer-legal">&copy; {{ 'now' | date: "%Y" }} The Best List India. All rights reserved.</p>
     <div class="footer-legal-links">
       <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+      <a href="{{ '/terms/' | relative_url }}">Terms</a>
       <a href="{{ '/sitemap.xml' | relative_url }}">Sitemap</a>
     </div>
   </div>

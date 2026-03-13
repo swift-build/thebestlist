@@ -144,6 +144,11 @@ layout: default
     <div class="cat-block-name">Food</div>
     <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Food'" | size }} stories</div>
   </a>
+  <a href="{{ '/category/tech/' | relative_url }}" class="cat-block">
+    <span class="cat-block-icon">◆</span>
+    <div class="cat-block-name">Tech</div>
+    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Tech'" | size }} stories</div>
+  </a>
 </div>
 
 <hr class="divider">

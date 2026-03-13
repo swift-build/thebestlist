@@ -73,6 +73,12 @@ collections:
         widget: string
         default: "TheBestList Team"
 
+      - label: "Author Image"
+        name: author_image
+        widget: image
+        required: false
+        hint: "Optional profile photo for the author"
+
       # ── Taxonomy ──────────────────────────────────────────────
       - label: "Categories"
         name: categories
@@ -106,7 +112,7 @@ collections:
         name: image
         widget: image
         required: false
-        hint: "Main image at top of post. Use high-res: 1200×630px min (2400×1260px for retina). JPG/PNG, under 500KB."
+        hint: "Main image at top of post. Drag & drop or click to upload. Use high-res: 1200×630px min."
 
       - label: "Featured Post?"
         name: featured
@@ -144,7 +150,7 @@ collections:
         name: gallery
         widget: list
         required: false
-        hint: "Use for multiple images. Upload high-res (1200px wide min). Click + to add, drag to reorder."
+        hint: "Use for multiple images. Drag & drop to upload, drag to reorder."
         fields:
           - { label: Image, name: image, widget: image }
           - { label: Caption, name: caption, widget: string, required: false }
@@ -154,4 +160,4 @@ collections:
         name: body
         widget: markdown
         default: "## Introduction\n\nWrite a brief intro here.\n\n## 1. First Item\n\n...\n\n## 2. Second Item\n\n...\n\n## 3. Third Item\n\n...\n\n## Summary\n\nWrap up with key takeaways."
-        hint: "Undo: Ctrl+Z · Redo: Ctrl+Shift+Z. For multiple images, use the Image Gallery field above."
+        hint: "Undo: Ctrl+Z · Redo: Ctrl+Shift+Z. To embed Instagram in content, add: {% instagram https://www.instagram.com/p/xxxxx/ %}"

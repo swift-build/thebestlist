@@ -14,7 +14,9 @@ permalink: /contact/
 
 Have a suggestion, story idea, or want to collaborate? We'd love to hear from you.
 
-**Email:** [hello@thebestlist.in](mailto:hello@thebestlist.in)
+**Email:** [kiran@thebestlistindia.com](mailto:kiran@thebestlistindia.com)
+
+**Phone:** [+91 8608949297](tel:+918608949297)
 
 **Follow us:**
 - [Instagram](https://www.instagram.com/thebestlist_in/)

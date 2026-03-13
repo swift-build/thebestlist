@@ -1,0 +1,23 @@
+{
+  "name": "The Best List India",
+  "short_name": "The Best List",
+  "description": "Curating the best of Fashion, Weddings, Travel, Beauty, Pop Culture & Food — all in one place.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf8",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

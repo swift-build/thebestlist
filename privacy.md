@@ -35,7 +35,7 @@ Our site may use services like Netlify (hosting) and Google Analytics. These hav
 
 ## Your Rights
 
-You can request access to or deletion of any personal data we hold. Contact us at **hello@thebestlist.in**.
+You can request access to or deletion of any personal data we hold. Contact us at **kiran@thebestlistindia.com**.
 
 ## Changes
 

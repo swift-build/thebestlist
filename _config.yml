@@ -10,6 +10,11 @@ google_site_verification: ""
 # Leave empty to disable. Example: "G-XXXXXXXXXX"
 google_analytics: ""
 
+# Contact (used in footer, contact page)
+contact:
+  email: "kiran@thebestlistindia.com"
+  phone: "+91 8608949297"
+
 # Social links (used in footer)
 social:
   instagram: "https://www.instagram.com/thebestlist_in/"

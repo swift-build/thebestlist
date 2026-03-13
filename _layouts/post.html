@@ -45,6 +45,9 @@ layout: default
         <p class="post-excerpt">{{ page.excerpt | strip_html }}</p>
         {% endif %}
         <div class="post-author">
+            {% if page.author_image %}
+            <img src="{{ page.author_image | relative_url }}" alt="{{ page.author }}" class="post-author-image">
+            {% endif %}
             <span>By {{ page.author | default: "TheBestList Team" }}</span>
             {% assign words = page.content | number_of_words %}
             {% assign mins = words | divided_by: 200 %}
@@ -103,7 +106,7 @@ layout: default
     </div>
     {% endif %}
 
-    <!-- ── Instagram Embed ───────────────────────────────── -->
+    <!-- ── Instagram Embed (from field) ───────────────────── -->
     {% if page.instagram_url %}
     <div class="post-embed post-embed--instagram">
         <h3 class="embed-label">See it on Instagram</h3>
@@ -115,9 +118,9 @@ layout: default
                 style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:0 auto; max-width:540px; padding:0; width:100%;">
             </blockquote>
         </div>
-        <script async defer src="//www.instagram.com/embed.js"></script>
     </div>
     {% endif %}
+    <script async defer src="//www.instagram.com/embed.js"></script>
 
     <footer class="post-footer">
         <div class="post-tags">

@@ -6,6 +6,12 @@
   RUBY_VERSION = "3.2.0"
   JEKYLL_ENV   = "production"
 
+# Safari looks for /favicon.ico at root — redirect to our PNG
+[[redirects]]
+  from   = "/favicon.ico"
+  to     = "/assets/favicon.png"
+  status = 302
+
 # Redirect www → apex
 [[redirects]]
   from   = "https://www.thebestlistindia.com/*"
