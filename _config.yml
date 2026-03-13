@@ -33,10 +33,6 @@ defaults:
       layout: "post"
       author: "TheBestList Team"
 
-# Plugins (gems for Jekyll 3, plugins for Jekyll 4)
-gems:
-  - jekyll-paginate
-  - jekyll-seo-tag
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
