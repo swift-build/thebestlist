@@ -3,7 +3,7 @@ layout: post
 title: "Film school said no, Bollywood embraced him: Anil Kapoor talks cinema,
   fitness "
 slug: anil-kapoor-entry-to-bollywood
-date: 2026-03-13 21:28:00 +0530
+date: 2026-03-13 17:28:00 +0530
 author: Divya Alluri
 categories:
   - Pop Culture
