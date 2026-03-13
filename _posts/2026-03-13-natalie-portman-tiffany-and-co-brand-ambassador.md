@@ -9,7 +9,7 @@ categories:
 tags:
   - Jewellery
   - Global
-image: /assets/images/posts/13132208-icons-2026-onfigure-natalie-hw-landmark-4x5_cover_1080x1350.jpg
+image: /assets/images/posts/smukti-blog-thumbnail.png
 featured: false
 meta_title: Natalie Portman Named Tiffany & Co. Global Brand Ambassador
 excerpt: Academy Award-winning actress Natalie Portman is the newest face of
