@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "7 Perfect Weekend Getaways from Mumbai Under 300km"
+title: 7 Perfect Weekend Getaways from Mumbai Under 3000km
 date: 2026-01-20 09:00:00 +0530
-categories: [Travel]
-tags: [mumbai, weekend-trips, travel, nature]
-author: "TheBestList Team"
+author: TheBestList Team
+categories:
+  - Travel
+tags:
+  - mumbai
+  - weekend-trips
+  - travel
+  - nature
 image: /assets/images/posts/weekend-getaway.jpg
 featured: false
-excerpt: "Escape the chaos of Mumbai with these handpicked weekend destinations. From misty hills to pristine beaches, all within a comfortable 4-hour drive."
+excerpt: Escape the chaos of Mumbai with these handpicked weekend destinations.
+  From misty hills to pristine beaches, all within a comfortable 4-hour drive.
 ---
 
 Mumbai's relentless pace can be exhausting. Sometimes, you need to escape – and you don't need to go far to find paradise. Here are our top picks for weekend getaways that are close enough for a spontaneous trip.
