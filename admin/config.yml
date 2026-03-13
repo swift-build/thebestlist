@@ -119,4 +119,4 @@ collections:
       - label: "Content"
         name: body
         widget: markdown
-        hint: "Write your full post here. Use the toolbar to add headings, bold/italic, bullet lists, links, and inline images."
+        hint: "Write your full post here. Use the toolbar to add headings, bold/italic, bullet lists, links, and images. Tip: Add 2+ images in a row (one per line) to display them as a gallery grid."
