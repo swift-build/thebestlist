@@ -41,6 +41,38 @@
     }
   </script>
 
+  <script>
+    (function() {
+      var content = document.querySelector('.post-content');
+      if (!content) return;
+      var children = Array.from(content.children);
+      var i = 0;
+      while (i < children.length) {
+        var el = children[i];
+        var isImgP = el.tagName === 'P' && el.children.length === 1 && el.children[0].tagName === 'IMG';
+        if (isImgP) {
+          var start = i;
+          var gallery = document.createElement('div');
+          gallery.className = 'content-gallery';
+          while (i < children.length) {
+            var cur = children[i];
+            if (cur.tagName === 'P' && cur.children.length === 1 && cur.children[0].tagName === 'IMG') {
+              gallery.appendChild(cur.children[0]);
+              i++;
+            } else break;
+          }
+          if (gallery.children.length > 0) {
+            content.replaceChild(gallery, children[start]);
+            for (var j = start + 1; j < i; j++) {
+              content.removeChild(children[j]);
+            }
+          }
+        } else {
+          i++;
+        }
+      }
+    })();
+  </script>
   {% if site.baseurl != "" %}
   <script>
     (function() {
