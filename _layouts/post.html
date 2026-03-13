@@ -35,6 +35,18 @@ layout: default
         {{ content }}
     </div>
 
+    <!-- ── Image Gallery (from CMS field) ─────────────────── -->
+    {% if page.gallery and page.gallery.size > 0 %}
+    <div class="content-gallery content-gallery--field">
+        {% for item in page.gallery %}
+        <figure>
+            <img src="{{ item.image | relative_url }}" alt="{{ item.caption | default: '' }}" loading="lazy">
+            {% if item.caption %}<figcaption>{{ item.caption }}</figcaption>{% endif %}
+        </figure>
+        {% endfor %}
+    </div>
+    {% endif %}
+
     <!-- ── YouTube Embed ─────────────────────────────────── -->
     {% if page.youtube_url %}
     <div class="post-embed post-embed--youtube">

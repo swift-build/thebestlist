@@ -30,6 +30,7 @@ collections:
       - { label: Meta Description, name: excerpt, widget: text }
       - { label: YouTube URL, name: youtube_url, widget: string, required: false }
       - { label: Instagram URL, name: instagram_url, widget: string, required: false }
+      - { label: Image Gallery, name: gallery, widget: list, required: false, fields: [{ label: Image, name: image, widget: image }, { label: Caption, name: caption, widget: string, required: false }] }
       - { label: Content, name: body, widget: markdown, hint: "When ready to publish, create a new post in Blog Posts and copy this content." }
 
   - name: posts
@@ -138,9 +139,19 @@ collections:
         required: false
         hint: "Paste a full Instagram post URL (e.g. https://www.instagram.com/p/xxxxx/). Embedded automatically after the content."
 
+      # ── Gallery (multiple images) ───────────────────────────────
+      - label: "Image Gallery"
+        name: gallery
+        widget: list
+        required: false
+        hint: "Add multiple images here for a gallery. Drag to reorder."
+        fields:
+          - { label: Image, name: image, widget: image }
+          - { label: Caption, name: caption, widget: string, required: false }
+
       # ── Content ───────────────────────────────────────────────
       - label: "Content"
         name: body
         widget: markdown
         default: "## Introduction\n\nWrite a brief intro here.\n\n## 1. First Item\n\n...\n\n## 2. Second Item\n\n...\n\n## 3. Third Item\n\n...\n\n## Summary\n\nWrap up with key takeaways."
-        hint: "Write your full post here. New posts start with a listicle template — edit or replace as needed. Use the toolbar for headings, bold/italic, lists, links, images. Tip: Add 2+ images in a row for a gallery. Use image 'alt text' as the caption."
+        hint: "Undo: Ctrl+Z (Cmd+Z on Mac). Redo: Ctrl+Shift+Z. Use the Image Gallery field above for multiple images."

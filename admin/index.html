@@ -5,11 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>The Best List India — Content Manager</title>
+    <style>
+      #cms-undo-hint {
+        position: fixed; bottom: 12px; right: 12px; z-index: 9999;
+        font-family: -apple-system, sans-serif; font-size: 11px; color: #666;
+        background: #fff; padding: 6px 10px; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+      }
+    </style>
   </head>
   <body>
-    <!-- Netlify Identity handles email/password login -->
+    <div id="cms-undo-hint" style="display:none;">Undo: Ctrl+Z · Redo: Ctrl+Shift+Z</div>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <!-- Decap CMS editor -->
     <script src="https://unpkg.com/decap-cms@^3.3.3/dist/decap-cms.js"></script>
+    <script>
+      document.addEventListener('keydown', function(e) {
+        if (!e.ctrlKey && !e.metaKey) return;
+        if (e.key === 'z') {
+          e.preventDefault();
+          if (e.shiftKey) {
+            try { document.execCommand('redo'); } catch (_) {}
+          } else {
+            try { document.execCommand('undo'); } catch (_) {}
+          }
+        }
+      });
+      setTimeout(function() {
+        var h = document.getElementById('cms-undo-hint');
+        if (h && document.querySelector('[data-slate-editor]')) h.style.display = 'block';
+      }, 3000);
+    </script>
   </body>
 </html>

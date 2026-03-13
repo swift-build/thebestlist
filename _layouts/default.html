@@ -49,6 +49,24 @@
       var i = 0;
       while (i < children.length) {
         var el = children[i];
+        var imgs = el.querySelectorAll && el.querySelectorAll('img');
+        if (imgs && imgs.length >= 2) {
+          var gallery = document.createElement('div');
+          gallery.className = 'content-gallery';
+          Array.from(imgs).forEach(function(img) {
+            var alt = img.getAttribute('alt') || '';
+            var fig = document.createElement('figure');
+            fig.appendChild(img);
+            if (alt) {
+              var cap = document.createElement('figcaption');
+              cap.textContent = alt;
+              fig.appendChild(cap);
+            }
+            gallery.appendChild(fig);
+          });
+          content.replaceChild(gallery, el);
+          continue;
+        }
         var isImgP = el.tagName === 'P' && el.children.length === 1 && el.children[0].tagName === 'IMG';
         if (isImgP) {
           var start = i;
