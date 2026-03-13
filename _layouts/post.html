@@ -8,11 +8,11 @@ layout: default
   "@type": "BlogPosting",
   "headline": {{ page.title | jsonify }},
   "description": {{ page.excerpt | default: site.description | strip_html | truncate: 160 | jsonify }},
-  {% if page.image %}"image": "{{ page.image | absolute_url }}",{% endif %}
+  {% if page.image %}"image": ["{{ page.image | absolute_url }}"],{% endif %}
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "author": {
-    "@type": "Organization",
+    "@type": "Person",
     "name": {{ page.author | default: "TheBestList Team" | jsonify }}
   },
   "publisher": {
@@ -20,7 +20,9 @@ layout: default
     "name": {{ site.title | jsonify }},
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ '/assets/favicon.png' | absolute_url }}"
+      "url": "{{ '/assets/favicon.png' | absolute_url }}",
+      "width": 1080,
+      "height": 1080
     }
   },
   "mainEntityOfPage": {
