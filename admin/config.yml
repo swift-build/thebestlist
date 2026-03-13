@@ -144,7 +144,7 @@ collections:
         name: gallery
         widget: list
         required: false
-        hint: "Add multiple images here for a gallery. Drag to reorder."
+        hint: "Use this for multiple images. Click + to add, drag to reorder. Each image can have a caption."
         fields:
           - { label: Image, name: image, widget: image }
           - { label: Caption, name: caption, widget: string, required: false }
@@ -154,4 +154,4 @@ collections:
         name: body
         widget: markdown
         default: "## Introduction\n\nWrite a brief intro here.\n\n## 1. First Item\n\n...\n\n## 2. Second Item\n\n...\n\n## 3. Third Item\n\n...\n\n## Summary\n\nWrap up with key takeaways."
-        hint: "Undo: Ctrl+Z (Cmd+Z on Mac). Redo: Ctrl+Shift+Z. Use the Image Gallery field above for multiple images."
+        hint: "Undo: Ctrl+Z · Redo: Ctrl+Shift+Z. For multiple images, use the Image Gallery field above."
