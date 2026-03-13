@@ -57,7 +57,16 @@
           while (i < children.length) {
             var cur = children[i];
             if (cur.tagName === 'P' && cur.children.length === 1 && cur.children[0].tagName === 'IMG') {
-              gallery.appendChild(cur.children[0]);
+              var img = cur.children[0];
+              var alt = img.getAttribute('alt') || '';
+              var fig = document.createElement('figure');
+              fig.appendChild(img);
+              if (alt) {
+                var cap = document.createElement('figcaption');
+                cap.textContent = alt;
+                fig.appendChild(cap);
+              }
+              gallery.appendChild(fig);
               i++;
             } else break;
           }
@@ -71,6 +80,19 @@
           i++;
         }
       }
+      Array.from(content.querySelectorAll('p')).forEach(function(p) {
+        if (p.children.length !== 1 || p.children[0].tagName !== 'IMG') return;
+        var img = p.children[0];
+        var alt = img.getAttribute('alt');
+        if (alt) {
+          var fig = document.createElement('figure');
+          fig.appendChild(img);
+          var cap = document.createElement('figcaption');
+          cap.textContent = alt;
+          fig.appendChild(cap);
+          p.parentNode.replaceChild(fig, p);
+        }
+      });
     })();
   </script>
   {% if site.baseurl != "" %}

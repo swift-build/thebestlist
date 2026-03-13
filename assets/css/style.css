@@ -872,6 +872,11 @@ img { display: block; max-width: 100%; }
   text-transform: uppercase;
   color: var(--mid);
 }
+.post-reading-time {
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0.5px;
+}
 
 .post-featured-image {
   margin: 0 -32px 48px;
@@ -937,6 +942,22 @@ img { display: block; max-width: 100%; }
   margin: 32px 0;
 }
 
+/* Image captions — figcaption from alt text */
+.post-content figure {
+  margin: 32px 0;
+}
+.post-content figure img {
+  margin: 0 0 8px 0;
+}
+.post-content figcaption {
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--mid);
+  font-style: italic;
+  text-align: center;
+}
+
 /* Gallery — multiple images in a row display as a grid */
 .content-gallery {
   display: grid;
@@ -944,12 +965,19 @@ img { display: block; max-width: 100%; }
   gap: 16px;
   margin: 32px 0;
 }
+.content-gallery figure {
+  margin: 0;
+}
 .content-gallery img {
   width: 100%;
   height: 220px;
   object-fit: cover;
   margin: 0;
   border-radius: 4px;
+}
+.content-gallery figcaption {
+  font-size: 12px;
+  margin-top: 6px;
 }
 @media (min-width: 640px) {
   .content-gallery {
@@ -960,6 +988,41 @@ img { display: block; max-width: 100%; }
     height: 280px;
   }
 }
+
+/* Table of contents */
+.post-toc {
+  background: #f8f8f6;
+  border-left: 3px solid var(--black);
+  padding: 20px 24px;
+  margin-bottom: 40px;
+  border-radius: 0 4px 4px 0;
+}
+.post-toc:empty { display: none; }
+.toc-title {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin: 0 0 12px 0;
+}
+.toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.toc-list li { margin-bottom: 6px; }
+.toc-list li:last-child { margin-bottom: 0; }
+.toc-list a {
+  font-family: var(--font-body);
+  font-size: 15px;
+  color: var(--black);
+  text-decoration: none;
+  border-bottom: none;
+  transition: color 0.2s;
+}
+.toc-list a:hover { color: var(--mid); }
+.toc-list .toc-h3 { padding-left: 16px; font-size: 14px; }
 
 .post-content hr {
   border: none;

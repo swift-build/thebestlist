@@ -16,6 +16,10 @@ layout: default
         {% endif %}
         <div class="post-author">
             <span>By {{ page.author | default: "TheBestList Team" }}</span>
+            {% assign words = page.content | number_of_words %}
+            {% assign mins = words | divided_by: 200 %}
+            {% if mins < 1 %}{% assign mins = 1 %}{% endif %}
+            <span class="post-reading-time"> · {{ mins }} min read</span>
         </div>
     </header>
 
@@ -24,6 +28,8 @@ layout: default
         <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
     </div>
     {% endif %}
+
+    <nav class="post-toc" id="postToc" aria-label="Table of contents"></nav>
 
     <div class="post-content">
         {{ content }}
@@ -87,3 +93,31 @@ layout: default
 </article>
 
 {% include related-posts.html %}
+
+<script>
+(function() {
+  var content = document.querySelector('.post-content');
+  var toc = document.getElementById('postToc');
+  if (!content || !toc) return;
+  var headings = content.querySelectorAll('h2, h3');
+  if (headings.length < 2) { toc.remove(); return; }
+  var list = document.createElement('ul');
+  list.className = 'toc-list';
+  headings.forEach(function(h) {
+    var id = h.id || h.textContent.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    if (!h.id) h.id = id;
+    var li = document.createElement('li');
+    li.className = 'toc-' + h.tagName.toLowerCase();
+    var a = document.createElement('a');
+    a.href = '#' + id;
+    a.textContent = h.textContent.trim();
+    li.appendChild(a);
+    list.appendChild(li);
+  });
+  var title = document.createElement('h3');
+  title.className = 'toc-title';
+  title.textContent = 'In this article';
+  toc.appendChild(title);
+  toc.appendChild(list);
+})();
+</script>

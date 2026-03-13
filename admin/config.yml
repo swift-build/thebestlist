@@ -9,13 +9,36 @@ media_folder: assets/images/posts
 public_folder: /assets/images/posts
 
 collections:
+  - name: drafts
+    label: "Drafts"
+    label_singular: "Draft"
+    folder: _drafts
+    create: true
+    slug: "{{fields.slug}}"
+    summary: "{{title}} (draft)"
+    fields:
+      - { label: Layout, name: layout, widget: hidden, default: post }
+      - { label: Title, name: title, widget: string }
+      - { label: URL Slug, name: slug, widget: string, hint: "Use for the final post URL when you publish" }
+      - { label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ss ZZ" }
+      - { label: Author, name: author, widget: string, default: "TheBestList Team" }
+      - { label: Categories, name: categories, widget: select, multiple: true, options: [Fashion, Weddings, Travel, Beauty, Pop Culture, Food, Tech, Lifestyle, Health, Finance] }
+      - { label: Tags, name: tags, widget: list, field: { label: Tag, name: tag, widget: string } }
+      - { label: Banner Image, name: image, widget: image, required: false }
+      - { label: Featured?, name: featured, widget: boolean, default: false }
+      - { label: SEO Title, name: meta_title, widget: string, required: false }
+      - { label: Meta Description, name: excerpt, widget: text }
+      - { label: YouTube URL, name: youtube_url, widget: string, required: false }
+      - { label: Instagram URL, name: instagram_url, widget: string, required: false }
+      - { label: Content, name: body, widget: markdown, hint: "When ready to publish, create a new post in Blog Posts and copy this content." }
+
   - name: posts
     label: "Blog Posts"
     label_singular: "Post"
     folder: _posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
-    preview_path: "{{categories}}/{{fields.slug}}"
+    preview_path: "{{categories.0}}/{{fields.slug}}"
     summary: "{{title}} — {{date | date('DD MMM YYYY')}}"
 
     fields:
@@ -119,4 +142,5 @@ collections:
       - label: "Content"
         name: body
         widget: markdown
-        hint: "Write your full post here. Use the toolbar to add headings, bold/italic, bullet lists, links, and images. Tip: Add 2+ images in a row (one per line) to display them as a gallery grid."
+        default: "## Introduction\n\nWrite a brief intro here.\n\n## 1. First Item\n\n...\n\n## 2. Second Item\n\n...\n\n## 3. Third Item\n\n...\n\n## Summary\n\nWrap up with key takeaways."
+        hint: "Write your full post here. New posts start with a listicle template — edit or replace as needed. Use the toolbar for headings, bold/italic, lists, links, images. Tip: Add 2+ images in a row for a gallery. Use image 'alt text' as the caption."
