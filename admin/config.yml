@@ -106,7 +106,7 @@ collections:
         name: image
         widget: image
         required: false
-        hint: "Main image shown at the top of the post (recommended: 1200×630px)"
+        hint: "Main image at top of post. Use high-res: 1200×630px min (2400×1260px for retina). JPG/PNG, under 500KB."
 
       - label: "Featured Post?"
         name: featured
@@ -144,7 +144,7 @@ collections:
         name: gallery
         widget: list
         required: false
-        hint: "Use this for multiple images. Click + to add, drag to reorder. Each image can have a caption."
+        hint: "Use for multiple images. Upload high-res (1200px wide min). Click + to add, drag to reorder."
         fields:
           - { label: Image, name: image, widget: image }
           - { label: Caption, name: caption, widget: string, required: false }

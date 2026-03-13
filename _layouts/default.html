@@ -7,6 +7,9 @@
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
 
+  <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,6 +20,17 @@
 
   <!-- Netlify Identity — handles CMS login redirect -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  {% if site.google_analytics %}
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+  {% endif %}
 
   {% seo %}
 </head>
@@ -111,6 +125,9 @@
           fig.appendChild(cap);
           p.parentNode.replaceChild(fig, p);
         }
+      });
+      content.querySelectorAll('img').forEach(function(img) {
+        if (!img.getAttribute('loading')) img.setAttribute('loading', 'lazy');
       });
     })();
   </script>

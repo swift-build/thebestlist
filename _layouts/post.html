@@ -2,6 +2,34 @@
 layout: default
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.excerpt | default: site.description | strip_html | truncate: 160 | jsonify }},
+  {% if page.image %}"image": "{{ page.image | absolute_url }}",{% endif %}
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Organization",
+    "name": {{ page.author | default: "TheBestList Team" | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/favicon.png' | absolute_url }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
+
 <article class="post-full">
     <header class="post-header">
         <div class="post-meta">
@@ -25,7 +53,7 @@ layout: default
 
     {% if page.image %}
     <div class="post-featured-image">
-        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy">
     </div>
     {% endif %}
 

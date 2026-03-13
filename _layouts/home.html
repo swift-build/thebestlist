@@ -2,6 +2,24 @@
 layout: default
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "url": "{{ '/' | absolute_url }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/favicon.png' | absolute_url }}"
+    }
+  }
+}
+</script>
+
 {% comment %} ── Assign posts to sections ────────────────────────────── {% endcomment %}
 {% assign featured = site.posts | where: "featured", true | first %}
 {% unless featured %}{% assign featured = site.posts | first %}{% endunless %}
@@ -220,12 +238,13 @@ layout: default
 {% endif %}
 
 <!-- ── Newsletter ─────────────────────────────────────────── -->
-<div style="border-top: 1px solid var(--border);">
+<div id="newsletter" style="border-top: 1px solid var(--border);">
   <div class="newsletter-section">
     <h2 class="newsletter-title">The Weekly Edit</h2>
     <p class="newsletter-sub">India's best stories, curated for you every week.</p>
-    <form class="newsletter-form" onsubmit="return false;">
-      <input class="newsletter-input" type="email" placeholder="your@email.com"/>
+    <form name="newsletter" method="POST" data-netlify="true" action="/thank-you/" class="newsletter-form">
+      <input type="hidden" name="form-name" value="newsletter">
+      <input class="newsletter-input" type="email" name="email" placeholder="your@email.com" required>
       <button class="newsletter-btn" type="submit">Subscribe</button>
     </form>
   </div>

@@ -6,10 +6,16 @@ description: "Curating the best of Fashion, Weddings, Travel, Beauty, Pop Cultur
 # Leave empty until you add your site. Example: "abc123xyz"
 google_site_verification: ""
 
+# Google Analytics 4 — paste your Measurement ID from analytics.google.com
+# Leave empty to disable. Example: "G-XXXXXXXXXX"
+google_analytics: ""
+
 # Social links (used in footer)
 social:
   instagram: "https://www.instagram.com/thebestlist_in/"
   facebook: "https://www.facebook.com/profile.php?id=61587448350874"
+  # youtube: ""    # Add URL to show in footer
+  # pinterest: ""  # Add URL to show in footer
 
 # FOR GITHUB PAGES (swift-build.github.io/thebestlist)
 url: "https://thebestlistindia.com"
@@ -46,6 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 # Exclude from build
 exclude:
