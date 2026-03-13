@@ -19,8 +19,6 @@ For those with evolved couple goals, chocolates and roses simply don’t cut it.
 
 ![](/assets/images/posts/phulay-bay.jpg)
 
-![]()
-
 Krabi remains one of Thailand’s most enchanting luxury destinations, where dramatic limestone cliffs rise from emerald waters of the Andaman Sea. Overlooking this spectacular landscape, **Phulay Bay, a Ritz-Carlton Reserve** offers a deeply personalised luxury retreat. A standout experience is a bespoke candlelit dinner at Sala Srichan, where an open-air setting is transformed by the glow of 2,000 candles, creating a dramatic yet intimate evening. Days unfold with leisurely beach walks and end with private long-tail boat excursions and island-hopping adventures.
 
 ![](/assets/images/posts/movenpick-resort.jpg)
