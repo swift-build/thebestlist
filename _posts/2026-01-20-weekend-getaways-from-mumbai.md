@@ -10,8 +10,8 @@ tags:
   - weekend-trips
   - travel
   - nature
-image: /assets/images/posts/weekend-getaway.jpg
-featured: false
+image: /assets/images/posts/amanzi-866x563.webp
+featured: true
 excerpt: Escape the chaos of Mumbai with these handpicked weekend destinations.
   From misty hills to pristine beaches, all within a comfortable 4-hour drive.
 ---
