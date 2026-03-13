@@ -13,7 +13,7 @@ tags:
   - cafes
   - food
 image: /assets/images/posts/these-benefits-of-black-coffee-will-make-you-want-to-convert.webp
-featured: true
+featured: false
 excerpt: From specialty brews to cozy corners, we've curated the ultimate guide
   to Bangalore's finest coffee experiences. Whether you're a coffee connoisseur
   or just looking for the perfect work-from-cafe spot, this list has you
