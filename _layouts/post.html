@@ -6,7 +6,7 @@ layout: default
     <header class="post-header">
         <div class="post-meta">
             {% for category in page.categories %}
-            <a href="{{ '/category/' | append: category | downcase | relative_url }}" class="category-tag">{{ category }}</a>
+            <a href="{{ '/category/' | append: category | downcase | replace: ' ', '-' | relative_url }}" class="category-tag">{{ category }}</a>
             {% endfor %}
             <span class="post-date">{{ page.date | date: "%B %d, %Y" }}</span>
         </div>

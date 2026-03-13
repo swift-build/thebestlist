@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% assign cat_posts = site.posts | where_exp: "p", "p.categories contains page.category" %}
+
+<article class="category-page">
+  <header class="category-header">
+    <h1 class="category-title">{{ page.category }}</h1>
+    <p class="category-count">{% if cat_posts.size == 1 %}1 post{% else %}{{ cat_posts.size }} posts{% endif %}</p>
+  </header>
+
+  {% if cat_posts.size > 0 %}
+  <div class="section">
+    <div class="grid-4">
+      {% for post in cat_posts %}
+      <div class="card">
+        <div class="card-img">
+          <a href="{{ post.url | relative_url }}">
+            {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+            {% else %}
+            <div class="card-img-inner"></div>
+            {% endif %}
+          </a>
+        </div>
+        {% for cat in post.categories limit:1 %}<div class="card-tag">{{ cat }}</div>{% endfor %}
+        <h3 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        {% if post.excerpt %}<p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 100 }}</p>{% endif %}
+        <div class="card-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="section">
+    <p class="category-empty">No posts in this category yet.</p>
+  </div>
+  {% endif %}
+</article>

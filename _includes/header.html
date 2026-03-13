@@ -80,14 +80,15 @@
     </svg>
   </button>
   <div class="search-inner">
-    <span class="search-label">Search The Best List</span>
-    <input class="search-field" id="searchField" type="text" placeholder="Discover..." autocomplete="off"/>
-    <div class="search-suggestions">
-      <span class="suggestion-pill">Fashion Trends</span>
-      <span class="suggestion-pill">Mumbai Restaurants</span>
-      <span class="suggestion-pill">Travel India</span>
-      <span class="suggestion-pill">Beauty Picks</span>
-      <span class="suggestion-pill">Weddings 2026</span>
+    <span class="search-label">Search posts</span>
+    <input class="search-field" id="searchField" type="text" placeholder="Search blogs..." autocomplete="off"/>
+    <div class="search-results" id="searchResults"></div>
+    <div class="search-suggestions" id="searchSuggestions">
+      <span class="suggestion-pill" data-query="travel">Travel</span>
+      <span class="suggestion-pill" data-query="fashion">Fashion</span>
+      <span class="suggestion-pill" data-query="food">Food</span>
+      <span class="suggestion-pill" data-query="beauty">Beauty</span>
+      <span class="suggestion-pill" data-query="weddings">Weddings</span>
     </div>
   </div>
 </div>
@@ -113,4 +114,65 @@
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') { closeMenu(); closeSearch(); }
   });
+
+  (function() {
+    var searchIndex = [];
+    var searchField = document.getElementById('searchField');
+    var searchResults = document.getElementById('searchResults');
+    var searchSuggestions = document.getElementById('searchSuggestions');
+    var base = '{{ site.baseurl }}' || '';
+
+    function loadIndex() {
+      if (searchIndex.length) return Promise.resolve();
+      return fetch(base + '/search.json').then(function(r) { return r.json(); }).then(function(data) {
+        searchIndex = data;
+      });
+    }
+
+    function search(q) {
+      q = (q || '').trim().toLowerCase();
+      if (!q) { searchResults.innerHTML = ''; searchResults.style.display = 'none'; searchSuggestions.style.display = 'flex'; return; }
+      searchSuggestions.style.display = 'none';
+      searchResults.style.display = 'block';
+      var matches = searchIndex.filter(function(p) {
+        var text = (p.title + ' ' + (p.excerpt || '') + ' ' + (p.categories || []).join(' ') + ' ' + (p.tags || []).join(' ')).toLowerCase();
+        return text.indexOf(q) !== -1;
+      });
+      if (matches.length === 0) {
+        searchResults.innerHTML = '<p class="search-no-results">No posts found.</p>';
+        return;
+      }
+      searchResults.innerHTML = matches.slice(0, 8).map(function(p) {
+        return '<a href="' + p.url + '" class="search-result-item" onclick="closeSearch()">' +
+          '<span class="search-result-title">' + escapeHtml(p.title) + '</span>' +
+          (p.excerpt ? '<span class="search-result-excerpt">' + escapeHtml(p.excerpt) + '</span>' : '') +
+          '</a>';
+      }).join('');
+    }
+
+    function escapeHtml(s) {
+      var d = document.createElement('div');
+      d.textContent = s;
+      return d.innerHTML;
+    }
+
+    searchField.addEventListener('input', function() {
+      loadIndex().then(function() { search(searchField.value); });
+    });
+
+    searchField.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        var first = searchResults.querySelector('a');
+        if (first) { first.click(); }
+      }
+    });
+
+    document.querySelectorAll('.suggestion-pill').forEach(function(pill) {
+      pill.addEventListener('click', function() {
+        var q = pill.getAttribute('data-query');
+        searchField.value = q;
+        loadIndex().then(function() { search(q); });
+      });
+    });
+  })();
 </script>

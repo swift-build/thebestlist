@@ -2,6 +2,15 @@
 title: The Best List India
 description: "Curating the best of Fashion, Weddings, Travel, Beauty, Pop Culture & Food — all in one place."
 
+# Google Search Console — paste your verification code from search.google.com/search-console
+# Leave empty until you add your site. Example: "abc123xyz"
+google_site_verification: ""
+
+# Social links (used in footer)
+social:
+  instagram: "https://www.instagram.com/thebestlist_in/"
+  facebook: "https://www.facebook.com/profile.php?id=61587448350874"
+
 # FOR GITHUB PAGES (swift-build.github.io/thebestlist)
 url: "https://thebestlistindia.com"
 baseurl: ""
@@ -36,6 +45,7 @@ defaults:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from build
 exclude:

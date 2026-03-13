@@ -282,6 +282,46 @@ img { display: block; max-width: 100%; }
 }
 .suggestion-pill:hover { border-color: var(--black); color: var(--black); }
 
+.search-results {
+  margin-top: 24px;
+  display: none;
+  flex-direction: column;
+  gap: 0;
+  max-height: 320px;
+  overflow-y: auto;
+}
+.search-result-item {
+  display: block;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  text-decoration: none;
+  color: var(--black);
+  transition: background 0.2s;
+}
+.search-result-item:hover { background: #f5f5f2; }
+.search-result-item:last-child { border-bottom: none; }
+.search-result-title {
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 4px;
+}
+.search-result-excerpt {
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--mid);
+  display: block;
+  line-height: 1.4;
+}
+.search-no-results {
+  font-family: var(--font-body);
+  font-size: 15px;
+  color: var(--mid);
+  font-style: italic;
+  padding: 12px 0;
+}
+
 
 /* ============================================================
    HERO
@@ -987,6 +1027,31 @@ img { display: block; max-width: 100%; }
   .content-gallery img {
     height: 280px;
   }
+}
+
+/* Category page */
+.category-page { padding: 60px 32px 80px; max-width: 1400px; margin: 0 auto; }
+.category-header { margin-bottom: 48px; border-bottom: 1px solid var(--border); padding-bottom: 24px; }
+.category-title {
+  font-family: var(--font-display);
+  font-size: clamp(28px, 4vw, 42px);
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.category-count {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+.category-empty {
+  font-family: var(--font-body);
+  font-size: 18px;
+  color: var(--mid);
+  font-style: italic;
 }
 
 /* Table of contents */
