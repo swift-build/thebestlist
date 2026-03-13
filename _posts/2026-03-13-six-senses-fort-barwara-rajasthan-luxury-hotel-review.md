@@ -5,12 +5,13 @@ title: "Inside Six Senses Fort Barwara: Rajasthan's Most Extraordinary Place to
 slug: six-senses-fort-barwara-rajasthan-luxury-hotel-review
 date: 2026-03-13 19:50:00 +0530
 author: Kiran
-author_image: /assets/images/posts/19e6ce9a84fb11ec9db20a58a9feac02.avif
+author_image: /assets/images/posts/kiran.jpg
 categories:
   - Travel
 tags:
   - Luxury Hotel
   - Rajasthan
+image: /assets/images/posts/19e6ce9a84fb11ec9db20a58a9feac02.avif
 featured: false
 meta_title: "Six Senses Fort Barwara Review: Rajasthan's Ultimate Luxury Fort Hotel"
 excerpt: A 14th-century Rajasthani fort turned into a Six Senses sanctuary of
