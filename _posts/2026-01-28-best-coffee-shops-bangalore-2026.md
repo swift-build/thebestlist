@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "The 10 Best Coffee Shops in Bangalore for 2026"
+title: The 10 Best Coffee Shops in Bangalore for 2026
+slug: best-coffee-shops-bangalore-2026
 date: 2026-01-28 10:00:00 +0530
-categories: [Food, Lifestyle]
-tags: [coffee, bangalore, cafes, food]
-author: "TheBestList Team"
-image: /assets/images/posts/coffee-shops-bangalore.jpg
+author: "Suraj "
+categories:
+  - Food
+  - Lifestyle
+tags:
+  - coffee
+  - bangalore
+  - cafes
+  - food
+image: /assets/images/posts/these-benefits-of-black-coffee-will-make-you-want-to-convert.webp
 featured: true
-excerpt: "From specialty brews to cozy corners, we've curated the ultimate guide to Bangalore's finest coffee experiences. Whether you're a coffee connoisseur or just looking for the perfect work-from-cafe spot, this list has you covered."
+excerpt: From specialty brews to cozy corners, we've curated the ultimate guide
+  to Bangalore's finest coffee experiences. Whether you're a coffee connoisseur
+  or just looking for the perfect work-from-cafe spot, this list has you
+  covered.
 ---
 
 Bangalore's coffee culture has exploded in recent years, with new specialty cafes popping up across the city. As the startup capital of India, the city runs on caffeine, and we've done the hard work of finding the absolute best spots for your daily brew.
