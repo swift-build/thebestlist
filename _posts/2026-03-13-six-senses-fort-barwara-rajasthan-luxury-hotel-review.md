@@ -12,7 +12,7 @@ tags:
   - Luxury Hotel
   - Rajasthan
 image: /assets/images/posts/19e6ce9a84fb11ec9db20a58a9feac02.avif
-featured: false
+featured: true
 meta_title: "Six Senses Fort Barwara Review: Rajasthan's Ultimate Luxury Fort Hotel"
 excerpt: A 14th-century Rajasthani fort turned into a Six Senses sanctuary of
   wellness and wonder. Here is why Six Senses Fort Barwara belongs at the very
