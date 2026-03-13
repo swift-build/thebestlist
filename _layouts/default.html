@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | absolute_url }}">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }} | The Best List India{% else %}The Best List India{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
 
-  <link rel="icon" href="{{ '/favicon.ico' | absolute_url }}">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | absolute_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon-16.png' | absolute_url }}">
   <link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon-32.png' | absolute_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/favicon.png' | absolute_url }}">

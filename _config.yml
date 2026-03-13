@@ -1,6 +1,7 @@
 # Site settings
 title: The Best List India
 description: "Curating the best of Fashion, Weddings, Travel, Beauty, Pop Culture & Food — all in one place."
+logo: "/assets/favicon.png"
 
 # Google Search Console — paste your verification code from search.google.com/search-console
 # Leave empty until you add your site. Example: "abc123xyz"
