@@ -3,7 +3,7 @@ layout: post
 title: Beauty Products That Sound Fake But Are Actually Very Real
 slug: weird-genius-beauty-products-tongue-tint-collagen-jelly-led
 date: 2026-03-13 13:16:00 +0530
-author: TheBestList Team
+author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Beauty
