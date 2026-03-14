@@ -20,11 +20,7 @@ You do not book a table at Farmlore. You book an experience that will quietly re
 
 Drive forty minutes north of Bengaluru, past the city's sprawling tech corridors and into a quieter, greener world, and you will eventually arrive at a 37-acre working farm where peacocks cross the path without a glance in your direction. Somewhere in the middle of it all, past the mango groves and the lemongrass planted to keep the mosquitoes at bay, is an 18-seat dining room with floor-to-ceiling glass windows and a kitchen that runs entirely on wood fire. This is Farmlore. And it is unlike anywhere else in the country.
 
-
-
 ![](/assets/images/posts/farmlore-team.jpg)
-
-
 
 **The Name Says Everything**
 
@@ -32,11 +28,7 @@ The name is not accidental. A portmanteau of folklore and locavore, it signals e
 
 Ebenezer returned to India in 2019 after years cooking abroad, launching Lore in Bengaluru before the pandemic redirected everything. What emerged from that disruption was something more ambitious: a restaurant that does not just source from a farm but physically lives on one. The farm does not exist to serve the restaurant. The restaurant exists to tell the story of what the farm grows. That reversal is everything.
 
-
-
 ![](/assets/images/posts/secret-tables-india-farmlore-atmosphere-1.jpg)
-
-
 
 **Eighteen Seats. No Signatures. No Apologies.**
 
@@ -44,15 +36,9 @@ Ask Ebenezer about his signature dish and the conversation goes on a long time b
 
 What you get is a ten-course degustation that could feature Malabar oysters one evening and a jackfruit preparation the next, depending entirely on what the farm and its network of local suppliers have to offer. The only constant is Ebenezer's wood-fired oven, named Kannagi after a wronged Tamil woman from ancient legend who, the story goes, cursed an entire city to flames. It is the only oven on the property. Fuelled by pruned mango wood, it gives everything a depth of warmth that a gas kitchen simply cannot replicate.
 
-
-
 ![](/assets/images/posts/farmlore-kurippu.jpg)
 
-
-
 ![](/assets/images/posts/016f53953256947eb8594a75b83a9f0c.avif)
-
-
 
 **When a Dish Tells a Story**
 
@@ -60,11 +46,7 @@ Farmlore's most talked-about dish, Seataphor, is a masterclass in what it looks 
 
 This is food as conscience. Food as conversation. Not in the self-congratulatory way that can make certain fine dining rooms feel like a lecture, but in the quietly devastating way that great art works.
 
-
-
 ![](/assets/images/posts/farmlore-side-view.jpg)
-
-
 
 **The Farm as Philosophy**
 
@@ -77,6 +59,23 @@ This is not sustainability as a marketing strategy. It is sustainability as the 
 The accolades have arrived in a steady and deserved stream. Farmlore earned its place on La Liste's Top 1000 Restaurants of the World in 2024, won the ET Hospitality Restaurant of the Year: South in 2023, and landed at number 24 in Conde Nast Traveller's Top Restaurant Awards the same year. Most recently, it was named the American Express One To Watch Award winner as part of Asia's 50 Best Restaurants 2025. For a restaurant with 18 seats on a farm north of Bengaluru, that is a statement about where the world's appetite for meaningful, place-driven dining is heading.
 
 India's fine dining conversation has long been dominated by the metros and their sleek city-centre addresses. Farmlore has politely, brilliantly ignored all of that and built something more enduring out in the fields instead.
+
+
+
+![](/assets/images/posts/farmlore-chef-johnson.jpg)
+
+
+
+**The Chef Speaks**
+
+> *Lore was the initial plan but it turned to be Farmlore 
+>
+> Storytelling was always my fascination, but survival was my necessity. Farmlore is the transcendence of that desperation—a place where the land, the people, and the culture are no longer just history, but the very soul of the plate."
+> It was also covid which pushed me and Kaushik this way 
+>
+> When COVID left us with only the instinct to survive, we turned to the earth. Farmlore is the result: a space where every dish is a narrative of the land, and every flavor is a tribute to the people who tend it*
+
+
 
 **Go. Soon. And Go Hungry.**
 
