@@ -8,7 +8,7 @@ categories:
   - Fashion
 tags:
   - fashion
-image: /assets/images/posts/image-3-.png
+image: /assets/images/posts/runway-show-fw26-summary-desktop.avif
 featured: true
 meta_title: Staged on the legendary Philippe Chatrier court at Roland-Garros
   stadium, Lacoste’s
