@@ -10,7 +10,7 @@ categories:
 tags:
   - Bridal Outfit
   - Wedding Fashion
-image: /assets/images/posts/smukti-blog-thumbnail-1-.png
+image: /assets/images/posts/qwdxqwsx.png
 featured: false
 meta_title: Named after the Urdu word for waves, Lehren draws from the quiet
   rhythm and movement of the sea
