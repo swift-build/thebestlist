@@ -5,7 +5,7 @@ title: Why Pokémon Cards Are the New Blue-Chip Investment and India Is Just
 slug: pokemon-trading-cards-investment-india-collectors-guide
 date: 2026-03-15 09:33:00 +0530
 author: Suraj
-author_image: ""
+author_image: /assets/images/posts/screenshot-2026-03-15-at-9.45.18 am.png
 categories:
   - Lifestyle
   - Pop Culture
