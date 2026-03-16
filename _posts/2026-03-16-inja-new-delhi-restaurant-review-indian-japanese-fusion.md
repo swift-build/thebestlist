@@ -58,7 +58,7 @@ And then there is the bread course: Mangalore buns with filter coffee butter. A 
 
 The Panch Indri cocktail list, designed by Supradeep Dey and inspired by the five senses, is its own reason to arrive early and linger late. Each cocktail weaves Indian spices and Japanese elements into something visually stunning and aromatically layered. They are potent without being aggressive, and each one arrives with a note of freshness, citrus, a spice addition, something that keeps the palate awake.
 
-![](/assets/images/posts/adwait.webp)
+![](/assets/images/posts/chef-adwaith-2.webp)
 
 **The Chef and the Context**
 
