@@ -10,6 +10,7 @@ categories:
   - Food
 tags:
   - New Delhi
+image: /assets/images/posts/inja_720.webp
 featured: false
 meta_title: "Inja New Delhi Review: Chef Adwait Anantwar's Indian-Japanese
   Fusion at The Manor Hotel"
