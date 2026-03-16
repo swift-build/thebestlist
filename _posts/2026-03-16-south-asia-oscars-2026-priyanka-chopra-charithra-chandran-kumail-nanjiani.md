@@ -26,51 +26,29 @@ This was not a token moment. This was not a diversity initiative with a press re
 
 She has been here before, but every time Priyanka Chopra Jonas walks into a room of this magnitude, it registers differently. At the 2026 Oscars, she was not a guest or a novelty. She was a presenter, a fixture, a global star who has spent years building the kind of cross-cultural career that the industry is only now building the language to describe. The girl from Bareilly who became Miss World, who became Bollywood royalty, who became a Marvel character, who became an Oscars presenter. The throughline is not luck. It is relentless, disciplined ambition.
 
-
-
 ![](/assets/images/posts/c2137142-1858-40a4-b72d-bf2d27b45d31.avif)
-
-
 
 **Charithra Chandran**
 
 The British-Tamil actress who made the world fall in love with her in Bridgerton was at the Oscars this year, and her presence there is its own kind of statement. She represents a generation of South Asian talent that is not asking for permission to occupy space in global storytelling. She is simply occupying it, with grace, with warmth, and with the kind of screen presence that makes casting directors take note and audiences follow.
 
-
-
-![](/assets/images/posts/107158939-15649109-image-a-13_1773620916168.avif)
-
-
+![](/assets/images/posts/gettyimages-2266303408-kumail-nanjiani-oscars-2026-h.webp)
 
 **Kumail Nanjiani**
 
 Few people in Hollywood have navigated the space between comedy and genuine pathos with as much self-awareness as Kumail Nanjiani. From The Big Sick, the semi-autobiographical film that earned him an Oscar nomination for Best Original Screenplay, to Eternals, to his ongoing presence as one of the sharpest voices in the industry, Nanjiani has spent years making the case that South Asian stories are universal stories. At the Oscars this year, he was there not as an exception but as a peer.
 
-
-
 ![](/assets/images/posts/bela-bajaria-pow.webp)
-
-
 
 **Bela Bajaria**
 
 If you want to understand how South Asian influence in Hollywood actually works at the structural level, look at Bela Bajaria. As Netflix's Chief Content Officer, she is one of the most powerful people in global entertainment, overseeing the content strategy of a platform with over 300 million subscribers. She does not just attend the Oscars. She shapes what gets made, what gets seen, and what wins. Her presence in that room is a different kind of South Asian visibility, quieter than a red carpet moment, and considerably more consequential.
 
-
-
 ![](/assets/images/posts/gg-1-2026-03-c18c65999d7ff0597c9450f2884d31a9.avif)
-
-
-
-
 
 **Geeta Gandbhir**
 
 A documentary filmmaker and editor whose work has earned Emmy recognition and whose storytelling sits at the intersection of race, justice, and humanity. Geeta Gandbhir being part of the Oscars conversation is a reminder that South Asian presence in Hollywood is not confined to acting or producing. It runs through every discipline, every craft, every room where stories are shaped and told.
-
-
-
-
 
 ![](/assets/images/posts/hero-image.webp)
 
@@ -78,11 +56,7 @@ A documentary filmmaker and editor whose work has earned Emmy recognition and wh
 
 A conceptual artist and writer whose work defies easy categorisation, Singh's presence at the Oscars is a signal of something broader: the South Asian creative voice operating not just in mainstream entertainment but at the edges of culture where the most interesting things tend to happen first.
 
-
-
 ![](/assets/images/posts/neal-mohan-youtube-ceo.webp)
-
-
 
 **Neal Mohan**
 
