@@ -10,7 +10,7 @@ categories:
   - Food
 tags:
   - New Delhi
-image: /assets/images/posts/inja_720.webp
+image: /assets/images/posts/inja-206.webp
 featured: false
 meta_title: "Inja New Delhi Review: Chef Adwait Anantwar's Indian-Japanese
   Fusion at The Manor Hotel"
@@ -24,11 +24,7 @@ Inja does that. Repeatedly. Across an entire meal.
 
 Tucked inside The Manor Hotel in Friends Colony West, in one of New Delhi's leafier, quieter neighbourhoods, Inja is not trying to be the loudest restaurant in the city. It does not need to be. The food does that work with a precision and confidence that most fine dining rooms spend years trying to achieve.
 
-
-
 ![](/assets/images/posts/09921ddb91aaed141d5c8b0251f92394_featured_v2.avif)
-
-
 
 **The Name, The Idea**
 
@@ -36,11 +32,7 @@ IN from India. JA from Japan. The portmanteau is clean and the concept behind it
 
 Anantwar conceived the idea during the lockdown, inspired by years spent working under Chef Himanshu Saini in Dubai, developing a deep understanding of Japanese technique and marrying it in his imagination with the bold, complex flavour profiles he grew up with in Nagpur. The result is not a restaurant that compromises between two cuisines. It is a restaurant that finds the place where both cuisines are already, quietly, pointing toward each other.
 
-
-
 ![](/assets/images/posts/018ed93c12d33134313af43ed8f47dfe.avif)
-
-
 
 **The Room**
 
@@ -48,15 +40,11 @@ The interior is its own argument for the concept. Japanese minimalism, wooden su
 
 The sixty-odd covers fill up quickly. Book ahead. This is not the kind of restaurant that has empty tables on a Friday night.
 
-
-
 ![](/assets/images/posts/inja-food-819x1024.jpg)
 
 ![](/assets/images/posts/inja-206.webp)
 
-![](/assets/images/posts/inja-202-1-.webp)
-
-
+![]()
 
 **What Arrives at the Table**
 
@@ -72,11 +60,7 @@ And then there is the bread course: Mangalore buns with filter coffee butter. A 
 
 The Panch Indri cocktail list, designed by Supradeep Dey and inspired by the five senses, is its own reason to arrive early and linger late. Each cocktail weaves Indian spices and Japanese elements into something visually stunning and aromatically layered. They are potent without being aggressive, and each one arrives with a note of freshness, citrus, a spice addition, something that keeps the palate awake.
 
-
-
 ![](/assets/images/posts/adwait.webp)
-
-
 
 **The Chef and the Context**
 
