@@ -42,7 +42,7 @@ The sixty-odd covers fill up quickly. Book ahead. This is not the kind of restau
 
 ![](/assets/images/posts/inja-food-819x1024.jpg)
 
-![]()
+![](/assets/images/posts/inja-202-1-.webp)
 
 **What Arrives at the Table**
 
