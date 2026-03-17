@@ -7,6 +7,8 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Lifestyle
+tags:
+  - Music
 image: /assets/images/posts/rishan-bh-blog.png
 featured: false
 meta_title: " Rishab Rikhiram Sharma Sitar for Mental Health Tour Bengaluru
