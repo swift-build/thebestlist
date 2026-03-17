@@ -23,15 +23,11 @@ The crowd that gathered told its own story before a single note was played. Stud
 
 That is the Rishab Rikhiram Sharma effect. And it is something genuinely rare.
 
-![](/assets/images/posts/_-sitara-~-a-fully-electric-sitar-powered-by-640-leds-build-by-my-father-sanjayrikhiram-thank-y-5-.jpg)
-
-
+![](/assets/images/posts/_-sitara-~-a-fully-electric-sitar-powered-by-640-leds-build-by-my-father-sanjayrikhiram-thank-y.jpg)
 
 **The Artist**
 
 Rishab  picked up the sitar at ten. He has performed at the White House Diwali celebrations, played to 60,000-person stadiums as a solo sitarist, and taken the instrument to Burning Man. He has spent the last two years selling out venues across North America, Europe, the Middle East, and the United Kingdom. The 2025 India leg of this tour was postponed in solidarity with the country during a period of geopolitical tension, which meant that by the time he finally arrived in Bengaluru, the anticipation had been building for over a year. The room felt every bit of that.
-
-
 
 ![](/assets/images/posts/_-sitara-~-a-fully-electric-sitar-powered-by-640-leds-build-by-my-father-sanjayrikhiram-thank-y-9-.jpg)
 
@@ -45,11 +41,7 @@ The set moved through moods the way a great album does, from introspection to jo
 
 The younger members of the audience were watching with the specific intensity of people who have found something they did not know they were looking for. There is a generation in India right now that has grown up between streaming playlists and Carnatic practice at home, and Rishab Rikhiram Sharma has become, for many of them, the artist who makes both worlds feel not just compatible but inevitable. The phones that came out during the concert were not a sign of distraction. They were a sign of wanting to hold onto something.
 
-
-
 ![](/assets/images/posts/_-sitara-~-a-fully-electric-sitar-powered-by-640-leds-build-by-my-father-sanjayrikhiram-thank-y-2-.jpg)
-
-
 
 **SITARA**
 
