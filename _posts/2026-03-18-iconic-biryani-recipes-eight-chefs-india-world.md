@@ -12,15 +12,17 @@ tags:
 image: /assets/images/posts/raman-2hptxgfy6pg-unsplash-1-.webp
 featured: false
 meta_title: "8 Iconic Biryani Recipes From 8 Iconic Chefs: From Kolkata to
-  Tokyo, Dindigul to London"
+  Bengaluru, Dindigul to London"
 excerpt: Eight chefs. Eight biryanis. Eight stories of obsession, memory, and
-  mastery. From Asma Khan's saffron-sealed Calcutta classic to a Japanese
-  Michelin Bib Gourmand winner who crossed continents for one dish. Here are the
-  only biryani recipes you will ever need.
+  mastery. From Asma Khan's saffron-sealed Calcutta classic to a Donne Biryani
+  rooted in Karnataka's culinary soul. Here are the only biryani recipes you
+  will ever need.
 ---
 There is no dish in the world quite like biryani. Not because of what it is, but because of what it means. To the child who grew up smelling it cook from the next room. To the home cook who has spent years trying to crack their grandmother's recipe. To the chef who has built an entire identity around perfecting it. Biryani is not just food. It is memory, identity, and love, layered and sealed and cooked low and slow until everything inside becomes something greater than the sum of its parts.
 
 We found eight chefs who understand that completely. Their biryanis are as different as the cities that shaped them. What they share is the conviction that there is no shortcut worth taking.
+
+
 
 ![](/assets/images/posts/125_ammuchickenbiryani_fotor.whqc_768x512q90.jpg)
 
@@ -126,20 +128,71 @@ The Safed Biryani is built on the purity of its ingredients rather than the comp
 
 His rule: subtlety is the highest form of skill. Any cook can add more spice. The real art is knowing how little you need.
 
-**07. Takamasa Osawa — Biryani with a Japanese Soul (Tokyo, via Tamil Nadu)**
 
-The most unexpected entry on this list is also, arguably, the most extraordinary. Takamasa Osawa is a 36-year-old Japanese chef who owns a 10-seater restaurant in Tokyo that serves only biryani. It has a Michelin Bib Gourmand. He does not speak Hindi, Tamil, or Urdu. He learned entirely through smell, taste, touch, and sight, in local restaurants, canteens, and roadside shacks across India, Pakistan, and Bangladesh over 15 years of obsessive back-and-forth travel.
 
-His version of biryani is faithful to the techniques he absorbed across the subcontinent but filtered through a Japanese sensibility for restraint, clean flavour, and precision. Shiitake mushrooms replace some proteins where appropriate, finished with a dash of soy sauce for umami. His kachumber gets a wasabi twist. The rice is washed and handled with the same care a sushi chef applies to the rice that will hold a piece of fish.
+![](/assets/images/posts/nizami-gosht-dum-biriyani-sheraton-brigade-.jpg)
 
-He prefers mutton, always. He says biryani is about umami and fragrance, and that a Japanese kitchen can honour those principles as fully as any kitchen on the subcontinent, provided the cook is willing to do the work. The work, in his case, took fifteen years.
 
-**08. Rohit Ghai's Bonus — Hyderabadi Kachay Gosht Ki Biryani**
 
-Before we close, a word on the style Ghai describes as the most special and most unique biryani in India: the Hyderabadi Kachay Gosht, meaning raw meat biryani. Raw, marinated mutton layered with raw, soaked rice in a sealed pot, both cooking simultaneously in the dum, the steam and moisture from the meat cooking the rice, the spices flavouring both without any pre-cooking. The technique requires precision about moisture levels and heat that takes years to develop. But when it works, it is unlike anything else.
+**07. Sunil Rai — Nizami Gosht Dum Biryani (Sheraton Grand Bangalore Hotel at Brigade Gateway)**
 
-Ghai's instructions for the home version: marinate the mutton overnight in yogurt, fried onions, ginger-garlic paste, red chilli powder, and whole spices. Layer with soaked seeraga samba or basmati rice, seal the pot tightly, and cook on a tawa over very low heat for 45 to 55 minutes without lifting the lid once. The temptation to check is the biggest mistake a home cook can make. Trust the seal. Trust the steam. Trust the process.
 
-Eight biryanis. Eight stories. One conclusion: there is no single correct biryani. There is only the biryani that carries your history in it, made with the patience it deserves.
+Executive Sous Chef Sunil Rai of Sheraton Grand Bangalore Hotel at Brigade Gateway brings one of the most regal biryanis on this list: the Nizami Gosht Dum Biryani. A biryani that carries the full weight of Hyderabadi court cooking in every layer, built on overnight-marinated mutton, shahi jeera-spiced parboiled basmati, and the finishing luxury of saffron, kewra, and rose water sealed together under dum.
+
+The overnight marination is not optional. It is the difference between a good biryani and a great one. The yogurt and birista (fried onions) in the marinade begin breaking down the muscle fibres in the mutton hours before any heat is applied. By the time the meat meets the pot, it is already halfway to where it needs to be.
+
+**Ingredients (Serves 4 to 5)**
+
+Mutton: 1kg cleaned mutton. Marination: 1 cup yogurt, 1 tbsp ginger-garlic paste, half tbsp red chilli powder, half tsp turmeric, half tsp yellow chilli powder, 1 tsp garam masala, half cup fried onions (birista), juice of half a lemon, salt. Whole spices for pot: mace, green cardamom, cloves, nutmeg, rose petals, cinnamon stick. Rice: 700g basmati rice soaked for 30 minutes, shahi jeera, cardamom, cloves, cinnamon, bay leaf, salt. For the dum: saffron soaked in warm milk, ghee, fried onions, chopped mint and coriander, kewra essence (optional).
+
+**Method**
+
+Marinate the mutton with yogurt, ginger-garlic paste, all powdered spices, half the fried onions, mint, coriander, lemon juice, and salt. Marinate for at least 1 to 2 hours, overnight for best results.
+
+In a heavy-bottomed pan, heat oil and crackle the whole spices on medium heat. Add the marinated mutton and sauté over low heat until partially cooked. A little water may be added if needed.
+
+In a separate pot, boil water with salt and shahi jeera. Add the drained rice and cook until 70 percent done. Drain immediately.
+
+In the dum pot, layer half the meat at the base. Add a layer of parboiled rice. Top with saffron milk, the remaining meat, kewra, rose water, coriander, mint, and fried onions. Seal the pot tightly and cook over very low heat for 20 minutes. Remove from flame and rest for 10 minutes before lifting the lid.
+
+Serve hot. The first breath of steam when the seal breaks is its own reward.
+
+
+
+
+![](/assets/images/posts/whatsapp-image-2026-03-18-at-1.12.58-pm.jpeg)
+
+
+
+
+
+**08. Neeraj Rawoot — Chicken Donne Biryani (JW Marriott Prestige Golfshire Resort and Spa, Bengaluru)**
+
+
+Director of Culinary at JW Marriott Prestige Golfshire Resort and Spa, Chef Neeraj Rawoot brings his version of one of Karnataka's most beloved and least-exported biryani styles to this list. The Donne Biryani takes its name from the small bowl made of dried areca nut palm leaf in which it is traditionally served, and it is as different from the Mughlai biryani as Bengaluru is from Lucknow.
+
+No layering. No saffron. No long-grain basmati. Instead, short-grain seeraga samba rice, a vibrant green masala paste of coriander, mint, green chillies, whole spices, and the quiet addition of stone flower (kalpasi), and a chicken base cooked until the oil separates and the masala is thick, not watery. This is a biryani that rewards directness.
+
+**Ingredients (Serves 4 to 5)**
+
+Chicken Marinade: 1kg chicken (medium biryani cut), 1 cup thick curd, 1 tbsp ginger-garlic paste, 1 tsp turmeric, 1 tsp red chilli powder, juice of half a lime, salt. Marinate for a minimum of 1 hour, 4 hours ideal.
+
+Green Masala: 2 cups fresh coriander leaves, 1 cup mint leaves, 6 to 8 green chillies, 1 inch ginger scraped, 6 to 8 garlic cloves, 1 tbsp poppy seeds (optional), 4 to 5 cloves, 1 inch cinnamon, 2 to 3 green cardamom, 1 small piece stone flower (kalpasi). Grind into a thick smooth paste with a little water.
+
+Rice: 750g short-grain seeraga samba rice, 2 cloves, 1 bay leaf, 1 small cinnamon, 3 to 4 green cardamom, salt. Wash and soak for 20 minutes.
+
+**Method**
+
+Heat 4 tbsp oil and 2 tbsp ghee in a heavy-bottomed pot. Add 2 sliced onions and sauté until soft and light pink, not deep brown. Add the green masala paste and cook until the raw smell disappears. Add the marinated chicken and cook on medium-high until the chicken is 70 percent done and the oil separates. The masala must be thick, not watery. Adjust salt.
+
+Boil water with salt and whole spices. Add the soaked rice and cook until 70 percent done. Drain immediately.
+
+Layer the semi-cooked rice over the chicken. Add 2 tbsp ghee, a handful of chopped coriander and mint. Seal the pot and cook on low flame with the handi placed over a thick tawa to avoid burning, for 20 to 25 minutes. Rest for 10 minutes before mixing gently and serving.
+
+Serve, ideally, in a donne. The leaf carries its own fragrance that becomes part of the final dish.
+
+
+
+**Eight biryanis. Eight stories. One conclusion: there is no single correct biryani. There is only the biryani that carries your history in it, made with the patience it deserves.**
 
 *Follow Best List India for the recipes, restaurants, and food stories worth knowing about.*
