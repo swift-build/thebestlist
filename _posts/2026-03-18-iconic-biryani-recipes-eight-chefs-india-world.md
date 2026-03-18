@@ -22,11 +22,7 @@ There is no dish in the world quite like biryani. Not because of what it is, but
 
 We found eight chefs who understand that completely. Their biryanis are as different as the cities that shaped them. What they share is the conviction that there is no shortcut worth taking.
 
-
-
 ![](/assets/images/posts/125_ammuchickenbiryani_fotor.whqc_768x512q90.jpg)
-
-
 
 **01. Asma Khan — Ammu's Chicken Biryani (Kolkata, via London)**
 
@@ -54,11 +50,7 @@ Roll dough into tubes and seal around the lid of the pot. Bring to high heat unt
 
 Open at the table. Lift gently from one side, merging the wet and dry rice as you serve.
 
-
-
 ![](/assets/images/posts/rohitgal.jpeg)
-
-
 
 **02. Rohit Ghai — Kolkata-Style Lamb Shank Biryani (London)**
 
@@ -70,11 +62,7 @@ His advice for home cooks: caramelise your onions with patience and a pinch of s
 
 The biryani is sealed with a dough crust, baked in a clay pot with saffron, fresh plums, and lamb slow-cooked until the meat offers no resistance whatsoever. The pastry top is removed at the table. This is the drama. This is the point.
 
-
-
 ![](/assets/images/posts/butter-chicken-biryani.jpg)
-
-
 
 **03. Saransh Goila — Butter Chicken Biryani (Mumbai)**
 
@@ -84,11 +72,7 @@ The key to Goila's biryani is the double marination technique. First marinate th
 
 The Makhani gravy is made in a pressure cooker with cashew nuts, ginger, onions, garlic, coriander powder, honey, kasuri methi, and butter. The biryani is assembled in the traditional dum style, sealed with dough, and cooked on full flame before reducing to low. Thirty minutes of rest before opening is non-negotiable.
 
-
-
 ![](/assets/images/posts/awadhi-mutton-biryani_courtyard-by-marriott-bengaluru-hebbal.jpeg)
-
-
 
 **04. Courtyard by Marriott Bengaluru Hebbal — Awadhi Mutton Biryani**
 
@@ -118,11 +102,11 @@ Seal the handi with a tight dough rim. Place over high heat for 5 minutes, then 
 
 Serve with raita, salan, and no distractions.
 
+``
 
+![](/assets/images/posts/dindigul-mutton-biryani-4.jpg)
 
-`https://www.instagram.com/reels/DAyIM-cMdcO/`
-
-
+``
 
 **05. Praveen Kumar — Dindigul Biryani (Tamil Nadu)**
 
@@ -132,11 +116,7 @@ What makes it distinct is the use of seeraga samba rice, a short-grained, intens
 
 The mutton is traditionally sourced from Dindigul's local farms, known for leaner, younger animals. Every grain of rice in a Dindigul biryani should be separate. The dish should have chew and spice and fragrance all at once. Praveen Kumar's version holds to all of these principles without compromise.
 
-
-
 ![](/assets/images/posts/1750922113_untitled-design.jpg)
-
-
 
 **06. Subhojit Sen — Safed Biryani (Kolkata)**
 
