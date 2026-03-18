@@ -160,7 +160,7 @@ Serve hot. The first breath of steam when the seal breaks is its own reward.
 
 
 
-![](/assets/images/posts/whatsapp-image-2026-03-18-at-1.12.58-pm.jpeg)
+![](/assets/images/posts/screenshot-2026-03-18-at-1.58.44 pm.png)
 
 
 
