@@ -22,35 +22,11 @@ There is no dish in the world quite like biryani. Not because of what it is, but
 
 We found eight chefs who understand that completely. Their biryanis are as different as the cities that shaped them. What they share is the conviction that there is no shortcut worth taking.
 
+![](/assets/images/posts/rawther-mutton-biryani_hilton-hilton-garden-inn-bengaluru-embassy-manyata-business-park.jpeg)
 
+**01. Rajaram Ravi — Rawther Mutton Biryani (Hilton and Hilton Garden Inn Bengaluru Embassy Manyata Business Park)**
 
-![](/assets/images/posts/125_ammuchickenbiryani_fotor.whqc_768x512q90.jpg)
-
-**01. Asma Khan — Ammu's Chicken Biryani (Kolkata, via London)**
-
-Chef Asma Khan needs no introduction. The founder of Darjeeling Express in London's Covent Garden, the first British chef to be featured on her own episode of Netflix's Chef's Table, and the author of Ammu, her deeply personal cookbook named after her mother. Her biryani is rooted in Kolkata, in celebration, and in the particular language that food speaks between a mother and a daughter when words fall short.
-
-Her key technique: soak the basmati for a full two hours in heavily salted water before cooking. Do not rush this. The long soak means the rice absorbs water before it hits the boiling pot, dramatically reducing cook time and protecting each grain from turning into starch.
-
-**Ingredients (Serves 6)**
-
-200g all-purpose flour, 500g good-quality basmati rice, 5 tbsp salt, half tsp saffron strands, 80ml whole milk, 8 tbsp ghee or vegetable oil, 2 white onions thinly sliced, 1kg bone-in chicken thighs (skin removed), 3 garlic cloves crushed, 5-6cm fresh ginger grated, 2 tbsp full-fat Greek yogurt, half tsp chilli powder, 2 green cardamom pods, 2 cloves, half-inch cinnamon stick, half-inch mace crushed, one-eighth tsp grated nutmeg, quarter tsp sugar, juice of half a lemon.
-
-**Method**
-
-Mix flour with enough water to form a firm dough. Set aside. Wash rice in multiple changes of cold water using gentle circular motions until water runs clear. Soak in salted water for at least 2 hours.
-
-Warm milk to blood temperature and steep saffron in it. Set aside.
-
-Heat ghee in a large, heavy pot over medium-high heat. Fry onions until deeply caramelised. Remove with a slotted spoon, leaving oil in the pan. Remove half the oil and set aside. Brown chicken in remaining oil. Add garlic, ginger, yogurt, chilli powder, and 2 tsp salt. Cook until raw smell disappears and yogurt reduces. Add half the caramelised onions, cover with warm water, bring to boil, then simmer for 25 minutes. The chicken should still be firm, not tender.
-
-Drain rice. Boil a large pot of heavily salted water. Cook rice until three-quarters done, roughly 5 minutes. Drain and spread on a tray immediately.
-
-To assemble: remove chicken from its liquid with a slotted spoon into a heavy-based pot. Strain cooking liquid over chicken. Add whole spices, half the saffron milk, sugar, and lemon. Layer rice over the chicken. Top with remaining caramelised onions, saffron milk, and reserved oil.
-
-Roll dough into tubes and seal around the lid of the pot. Bring to high heat until steam escapes for 1 minute. Then either place on a cast-iron tawa on low heat for 20 minutes, or transfer to oven at 190°C for 10 minutes, then reduce to 150°C for 20 minutes.
-
-Open at the table. Lift gently from one side, merging the wet and dry rice as you serve.
+Chef De Cuisine at Neer Restaurant, Hilton and Hilton Garden Inn Bengaluru Embassy Manyata Business Park, Chef Rajaram Ravi brings one of South India's most quietly celebrated regional styles to this list: the Rawther Mutton Biryani, a Tamil Muslim tradition that deserves far more recognition than it currently gets outside of its home communities. Like the Donne and Dindigul biryanis, this one uses seeraga samba rice, the short-grain, intensely fragrant variety that is the backbone of South Indian biryani cooking. Unlike the layered dum biryanis of the north, the Rawther method cooks the rice directly into the masala and meat, absorbing every bit of flavour from the mutton, the tomatoes, the golden onions, and the whole spices as it goes. The result is a biryani where every grain carries the entire story of the pot. The method is almost deceptively simple: golden onions, fresh mint and coriander added early, ginger-garlic paste cooked through completely, tomatoes broken down before the mutton goes in. Once the oil separates, the soaked seeraga samba rice is added directly with measured water, cooked on medium until 70 percent done, then sealed on the lowest flame for 10 to 15 minutes of dum. Ten minutes of rest before opening. No saffron. No rose water. No theatrics. Just deeply flavoured, beautifully cohesive rice and mutton that remind you why the simplest techniques, done with total conviction, always win.
 
 ![](/assets/images/posts/rohitgal.jpeg)
 
@@ -128,14 +104,9 @@ The Safed Biryani is built on the purity of its ingredients rather than the comp
 
 His rule: subtlety is the highest form of skill. Any cook can add more spice. The real art is knowing how little you need.
 
-
-
 ![](/assets/images/posts/nizami-gosht-dum-biriyani-sheraton-brigade-.jpg)
 
-
-
 **07. Sunil Rai — Nizami Gosht Dum Biryani (Sheraton Grand Bangalore Hotel at Brigade Gateway)**
-
 
 Executive Sous Chef Sunil Rai of Sheraton Grand Bangalore Hotel at Brigade Gateway brings one of the most regal biryanis on this list: the Nizami Gosht Dum Biryani. A biryani that carries the full weight of Hyderabadi court cooking in every layer, built on overnight-marinated mutton, shahi jeera-spiced parboiled basmati, and the finishing luxury of saffron, kewra, and rose water sealed together under dum.
 
@@ -157,17 +128,9 @@ In the dum pot, layer half the meat at the base. Add a layer of parboiled rice. 
 
 Serve hot. The first breath of steam when the seal breaks is its own reward.
 
-
-
-
 ![](/assets/images/posts/screenshot-2026-03-18-at-1.58.44 pm.png)
 
-
-
-
-
 **08. Neeraj Rawoot — Chicken Donne Biryani (JW Marriott Prestige Golfshire Resort and Spa, Bengaluru)**
-
 
 Director of Culinary at JW Marriott Prestige Golfshire Resort and Spa, Chef Neeraj Rawoot brings his version of one of Karnataka's most beloved and least-exported biryani styles to this list. The Donne Biryani takes its name from the small bowl made of dried areca nut palm leaf in which it is traditionally served, and it is as different from the Mughlai biryani as Bengaluru is from Lucknow.
 
@@ -190,8 +153,6 @@ Boil water with salt and whole spices. Add the soaked rice and cook until 70 per
 Layer the semi-cooked rice over the chicken. Add 2 tbsp ghee, a handful of chopped coriander and mint. Seal the pot and cook on low flame with the handi placed over a thick tawa to avoid burning, for 20 to 25 minutes. Rest for 10 minutes before mixing gently and serving.
 
 Serve, ideally, in a donne. The leaf carries its own fragrance that becomes part of the final dish.
-
-
 
 **Eight biryanis. Eight stories. One conclusion: there is no single correct biryani. There is only the biryani that carries your history in it, made with the patience it deserves.**
 
