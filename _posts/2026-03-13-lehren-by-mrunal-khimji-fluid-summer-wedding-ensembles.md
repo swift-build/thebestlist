@@ -5,7 +5,6 @@ slug: lehren-by-mrunal-khimji-fluid-summer-wedding-ensembles
 date: 2026-03-13 15:18:00 +0530
 author: Kiran
 categories:
-  - Weddings
   - Fashion
 tags:
   - Bridal Outfit
