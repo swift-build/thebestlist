@@ -57,7 +57,7 @@ Integrated resale programmes from major brands, Zara Pre-Owned being the most vi
 
 
 
-
+![](/assets/images/posts/2265e921-1-min-1.jpg)
 
 
 
