@@ -3,7 +3,7 @@ layout: post
 title: Shailja Kashyap of Mamash Organics on Hormonal Skin, Ayurvedic Wisdom,
   and the Skincare Category India Has Been Ignoring
 slug: shailja-kashyap-mamash-organics-interview-hormone-conscious-skincare-ayurveda
-date: 2026-03-24 10:00:00 +0530
+date: 2026-03-24 15:00:00 +0530
 author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
@@ -20,6 +20,12 @@ excerpt: Shailja Kashyap built Mamash Organics because the beauty industry had
   what comes next.
 ---
 Shailja Kashyap did not set out to build a skincare brand. She set out to understand her own skin, which had stopped behaving in ways she recognised and refused to respond to anything the market was offering. What she found, after years of searching, was that the answer was not in a new serum or a trending ingredient. It was in her own lineage. A four-generation Ayurvedic heritage, combined with a clear-eyed reading of what modern women with hormonal skin actually need, became Mamash Organics. We sat down with her to understand the brand, the category, and why this conversation is only just beginning.
+
+
+
+![](/assets/images/posts/collection-1.png)
+
+
 
 **You have spoken about starting Mamash from personal confusion rather than a business idea. What does that mean?**
 
@@ -42,6 +48,12 @@ I usually say this: if your skin changes with your cycle, your stress, your life
 Because it is not easy to solve. Hormonal skin is not linear. It does not respond to one hero ingredient or one quick fix. It requires patience, understanding, and a more holistic approach, which does not always fit into how the beauty industry operates. It is easier to sell clear skin in 7 days than to talk about balance, cycles, and internal factors.
 
 For me, this was not a market gap. It was a personal reality. And that is why I could not ignore it.
+
+
+
+![](/assets/images/posts/collection-3.png)
+
+
 
 **Ayurveda and modern clean beauty can seem like very different worlds. How do you hold both?**
 
@@ -70,7 +82,5 @@ We are just getting started. Hormone-conscious skincare is still a very early co
 For Mamash, the focus is to keep building thoughtfully. We are expanding into haircare, wellness, and rituals that support women through different phases of life. We are also very consciously formulating our products to be safe for younger skin and for pregnancy, so that women do not have to keep switching their skincare as their life evolves.
 
 The vision is simple: to make safe, intelligent, Ayurveda-rooted care a default choice, not an alternative.
-
-
 
 ***Follow Best List India for the founders, brands, and conversations worth knowing about.***
