@@ -1,8 +1,9 @@
 ---
 layout: null
 ---
+{% assign published_posts = site.posts | where_exp: "p", "p.draft != true" %}
 [
-{% for post in site.posts %}
+{% for post in published_posts %}
 {
   "title": {{ post.title | jsonify }},
   "url": {{ post.url | relative_url | jsonify }},

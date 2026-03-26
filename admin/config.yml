@@ -9,30 +9,6 @@ media_folder: assets/images/posts
 public_folder: /assets/images/posts
 
 collections:
-  - name: drafts
-    label: "Drafts"
-    label_singular: "Draft"
-    folder: _drafts
-    create: true
-    slug: "{{fields.slug}}"
-    summary: "{{title}} (draft)"
-    fields:
-      - { label: Layout, name: layout, widget: hidden, default: post }
-      - { label: Title, name: title, widget: string }
-      - { label: URL Slug, name: slug, widget: string, hint: "Use for the final post URL when you publish" }
-      - { label: Publish Date, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ss ZZ" }
-      - { label: Author, name: author, widget: string, default: "TheBestList Team" }
-      - { label: Categories, name: categories, widget: select, multiple: true, options: [Fashion, Weddings, Travel, Beauty, Pop Culture, Food, Tech, Lifestyle, Health, Finance] }
-      - { label: Tags, name: tags, widget: list, field: { label: Tag, name: tag, widget: string } }
-      - { label: Banner Image, name: image, widget: image, required: false }
-      - { label: Featured?, name: featured, widget: boolean, default: false }
-      - { label: SEO Title, name: meta_title, widget: string, required: false }
-      - { label: Meta Description, name: excerpt, widget: text }
-      - { label: YouTube URL, name: youtube_url, widget: string, required: false }
-      - { label: Instagram URL, name: instagram_url, widget: string, required: false }
-      - { label: Image Gallery, name: gallery, widget: list, required: false, fields: [{ label: Image, name: image, widget: image }, { label: Caption, name: caption, widget: string, required: false }] }
-      - { label: Content, name: body, widget: markdown, hint: "When ready to publish, create a new post in Blog Posts and copy this content." }
-
   - name: posts
     label: "Blog Posts"
     label_singular: "Post"
@@ -48,6 +24,12 @@ collections:
         name: layout
         widget: hidden
         default: post
+
+      - label: "Draft (hide from website)"
+        name: draft
+        widget: boolean
+        default: false
+        hint: "ON = saved in Git but not shown on the site. OFF = live after deploy. (The old “Drafts” section did not auto-move to posts — use this checkbox instead.)"
 
       # ── Core ──────────────────────────────────────────────────
       - label: "Title"

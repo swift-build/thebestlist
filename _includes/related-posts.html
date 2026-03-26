@@ -1,4 +1,4 @@
-{% assign related = site.posts | where_exp: "post", "post.url != page.url" | slice: 0, 3 %}
+{% assign related = site.posts | where_exp: "post", "post.draft != true and post.url != page.url" | slice: 0, 3 %}
 {% if related.size > 0 %}
 <section class="related-posts">
   <div class="section-header" style="max-width:1400px;margin:0 auto 40px;padding:0 40px 12px;">

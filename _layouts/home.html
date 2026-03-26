@@ -20,15 +20,18 @@ layout: default
 }
 </script>
 
-{% comment %} ── Assign posts to sections ────────────────────────────── {% endcomment %}
-{% assign featured = site.posts | where: "featured", true | first %}
-{% unless featured %}{% assign featured = site.posts | first %}{% endunless %}
+{% comment %} ── Publishable posts only (draft: true hidden) ───────── {% endcomment %}
+{% assign published = site.posts | where_exp: "p", "p.draft != true" %}
 
-{% assign remaining = site.posts | where_exp: "p", "p.url != featured.url" %}
+{% comment %} ── Assign posts to sections ────────────────────────────── {% endcomment %}
+{% assign featured = published | where: "featured", true | first %}
+{% unless featured %}{% assign featured = published | first %}{% endunless %}
+
+{% assign remaining = published | where_exp: "p", "p.url != featured.url" %}
 {% assign hero_2 = remaining[0] %}
 {% assign hero_3 = remaining[1] %}
 {% assign trending_posts = remaining | slice: 2, 4 %}
-{% if trending_posts.size == 0 %}{% assign trending_posts = site.posts | limit: 4 %}{% endif %}
+{% if trending_posts.size == 0 %}{% assign trending_posts = published | limit: 4 %}{% endif %}
 {% assign latest_posts = remaining | slice: 6, 3 %}
 {% if latest_posts.size == 0 %}{% assign latest_posts = remaining | limit: 3 %}{% endif %}
 
@@ -117,37 +120,37 @@ layout: default
   <a href="{{ '/category/fashion/' | relative_url }}" class="cat-block">
     <span class="cat-block-icon">✦</span>
     <div class="cat-block-name">Fashion</div>
-    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Fashion'" | size }} stories</div>
+    <div class="cat-block-count">{{ published | where_exp: "p", "p.categories contains 'Fashion'" | size }} stories</div>
   </a>
   <a href="{{ '/category/weddings/' | relative_url }}" class="cat-block">
     <span class="cat-block-icon">◇</span>
     <div class="cat-block-name">Weddings</div>
-    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Weddings'" | size }} stories</div>
+    <div class="cat-block-count">{{ published | where_exp: "p", "p.categories contains 'Weddings'" | size }} stories</div>
   </a>
   <a href="{{ '/category/travel/' | relative_url }}" class="cat-block">
     <span class="cat-block-icon">○</span>
     <div class="cat-block-name">Travel</div>
-    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Travel'" | size }} stories</div>
+    <div class="cat-block-count">{{ published | where_exp: "p", "p.categories contains 'Travel'" | size }} stories</div>
   </a>
   <a href="{{ '/category/beauty/' | relative_url }}" class="cat-block">
     <span class="cat-block-icon">△</span>
     <div class="cat-block-name">Beauty</div>
-    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Beauty'" | size }} stories</div>
+    <div class="cat-block-count">{{ published | where_exp: "p", "p.categories contains 'Beauty'" | size }} stories</div>
   </a>
   <a href="{{ '/category/pop-culture/' | relative_url }}" class="cat-block">
     <span class="cat-block-icon">□</span>
     <div class="cat-block-name">Pop Culture</div>
-    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Pop Culture'" | size }} stories</div>
+    <div class="cat-block-count">{{ published | where_exp: "p", "p.categories contains 'Pop Culture'" | size }} stories</div>
   </a>
   <a href="{{ '/category/food/' | relative_url }}" class="cat-block">
     <span class="cat-block-icon">✧</span>
     <div class="cat-block-name">Food</div>
-    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Food'" | size }} stories</div>
+    <div class="cat-block-count">{{ published | where_exp: "p", "p.categories contains 'Food'" | size }} stories</div>
   </a>
   <a href="{{ '/category/tech/' | relative_url }}" class="cat-block">
     <span class="cat-block-icon">◆</span>
     <div class="cat-block-name">Tech</div>
-    <div class="cat-block-count">{{ site.posts | where_exp: "p", "p.categories contains 'Tech'" | size }} stories</div>
+    <div class="cat-block-count">{{ published | where_exp: "p", "p.categories contains 'Tech'" | size }} stories</div>
   </a>
 </div>
 
@@ -189,7 +192,7 @@ layout: default
 {% endif %}
 
 <!-- ── Feature Strip ──────────────────────────────────────── -->
-{% assign feature_post = site.posts | where: "featured", true | first %}
+{% assign feature_post = published | where: "featured", true | first %}
 {% if feature_post %}
 <div class="feature-strip">
   <div class="feature-strip-left">
