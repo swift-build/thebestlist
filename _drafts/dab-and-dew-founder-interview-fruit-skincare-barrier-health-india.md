@@ -3,7 +3,7 @@ layout: post
 title: Dab & Dew's Founder on Fruit Complexes, Barrier Health, and Why She Will
   Never Sell You a Fairness Cream
 slug: dab-and-dew-founder-interview-fruit-skincare-barrier-health-india
-date: 2026-03-28 17:18:00 +0530
+date: 2026-03-26 08:08:00 +0530
 author: Kiran
 categories:
   - Beauty
