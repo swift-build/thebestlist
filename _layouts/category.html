@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign cat_posts = site.posts | where_exp: "p", "p.draft != true and p.categories contains page.category" %}
+{% assign cat_posts = site.posts | where_exp: "p", "p.draft != true" | where_exp: "p", "p.categories contains page.category" %}
 
 <article class="category-page">
   <header class="category-header">
