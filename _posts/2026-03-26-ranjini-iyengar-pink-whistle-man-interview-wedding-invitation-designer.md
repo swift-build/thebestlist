@@ -1,5 +1,6 @@
 ---
 layout: post
+draft: false
 title: Ranjini Iyengar of Pink Whistle Man on the Art of the Wedding Invitation
   and Why She Will Never Chase Scale
 slug: ranjini-iyengar-pink-whistle-man-interview-wedding-invitation-designer
@@ -12,7 +13,6 @@ tags:
   - The Bests Series
 image: /assets/images/posts/ranjani.png
 featured: false
-draft: false
 meta_title: "Pink Whistle Man Founder Ranjini Iyengar Interview: Wedding
   Invitations, Sustainability and the Magic of Personalisation"
 excerpt: Ranjini Iyengar built Pink Whistle Man on the belief that a wedding
@@ -22,23 +22,13 @@ excerpt: Ranjini Iyengar built Pink Whistle Man on the belief that a wedding
 ---
 Ranjini Iyengar did not set out to become one of India's most sought-after wedding invitation designers. She set out to create something deeply personal for the people she loved, and discovered, somewhere along the way, that this instinct was its own kind of calling. Pink Whistle Man, her boutique design studio, has since built a reputation for invitations that do not simply announce a celebration but become part of it. An animated invite for Kritika Kamra and Gaurav Kapur that felt like an old Disney film come to life. Pieces designed with sustainability and longevity so deeply woven in that guests hold onto them long after the wedding is over. A studiedly boutique approach in an industry that rewards volume, held to with complete conviction. We spoke with Ranjini about where all of it began and where it is going.
 
-
-
-![](/assets/images/posts/_mg_2239.jpeg)
-
-
-
 **Pink Whistle Man has built something truly magical in the world of wedding stationery. Take us back to the very beginning. What was the spark?**
 
 I have always found the most joy in creating something deeply personal for friends and family, thoughtful gifts or little surprises. There is something incredibly special about watching someone's face light up when they receive something made just for them.
 
 That instinct stayed with me through everything I did. Even in my corporate role, I found myself drawn to adding layers of personalisation wherever I could. And when it came to designing my own wedding invitation, it felt less like a task and more like a natural extension of who I have always been. That experience became the turning point. Pink Whistle Man is just an extension of this core joy of creating thoughtful memories.
 
-
-
 ![](/assets/images/posts/img_8088.png)
-
-
 
 **There is a certain kind of couple that finds their way to you. Who are they, and what lights you up most about working with them?**
 
@@ -52,11 +42,7 @@ And then, somewhere along the process, there is a shift. The idea begins to make
 
 The wait before production is its own kind of emotion, almost like waiting for board exam results. But when I finally get to hold the finished piece in my hands, especially with physical invitations, it is truly euphoric.
 
-
-
 ![](/assets/images/posts/indulgexpress_2026-03-10_nyfkgko0_9839-kritika-after-party-invite.avif)
-
-
 
 **Tell us about the most extraordinary invite you have ever created. We want every detail.**
 
@@ -70,11 +56,7 @@ When you pour so much into creating something, you naturally hope it is held ont
 
 We began asking ourselves how an invite could live beyond its immediate purpose. How it could become something worth keeping, something with memory, meaning, and longevity. This led us to exploring ideas of refurbishment, upcycling, and designing with retention in mind. Every piece is created not just to announce a celebration, but to stay with you long after it is over.
 
-
-
 ![](/assets/images/posts/img_8067.png)
-
-
 
 **Indian weddings are one of the most joyful celebrations in the world. What do you believe a truly stunning invitation adds to that magic that nothing else can?**
 
@@ -82,11 +64,7 @@ What an invite does, more than anything else, is create anticipation. It is a pe
 
 That, to me, is the magic of it. When an invitation does not just inform but moves people. When it builds excitement strong enough to turn intention into action.
 
-
-
 ![](/assets/images/posts/ranjani_mg_2451.jpeg)
-
-
 
 **You have chosen to stay boutique in an industry that rewards scale. What has that decision given you that you would never trade?**
 
