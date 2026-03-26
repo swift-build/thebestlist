@@ -1,10 +1,10 @@
 ---
 layout: post
 draft: false
-title: Ranjini Iyengar of Pink Whistle Man on the Art of the Wedding Invitation
+title: Ranjani Iyengar of Pink Whistle Man on the Art of the Wedding Invitation
   and Why She Will Never Chase Scale
-slug: ranjini-iyengar-pink-whistle-man-interview-wedding-invitation-designer
-date: 2026-03-26 08:08:00 +0530
+slug: ranjani-iyengar-pink-whistle-man-interview-wedding-invitation-designer
+date: 2026-03-26 11:28:00 +0530
 author: Kiran
 categories:
   - Weddings
@@ -13,14 +13,14 @@ tags:
   - The Bests Series
 image: /assets/images/posts/ranjani.png
 featured: false
-meta_title: "Pink Whistle Man Founder Ranjini Iyengar Interview: Wedding
+meta_title: "Pink Whistle Man Founder Ranjani Iyengar Interview: Wedding
   Invitations, Sustainability and the Magic of Personalisation"
-excerpt: Ranjini Iyengar built Pink Whistle Man on the belief that a wedding
+excerpt: Ranjani Iyengar built Pink Whistle Man on the belief that a wedding
   invitation should move people, not just inform them. In this conversation, she
   talks about Kritika Kamra and Gaurav Kapur's animated invite, staying
   boutique, and why she would never trade it for scale.
 ---
-Ranjini Iyengar did not set out to become one of India's most sought-after wedding invitation designers. She set out to create something deeply personal for the people she loved, and discovered, somewhere along the way, that this instinct was its own kind of calling. Pink Whistle Man, her boutique design studio, has since built a reputation for invitations that do not simply announce a celebration but become part of it. An animated invite for Kritika Kamra and Gaurav Kapur that felt like an old Disney film come to life. Pieces designed with sustainability and longevity so deeply woven in that guests hold onto them long after the wedding is over. A studiedly boutique approach in an industry that rewards volume, held to with complete conviction. We spoke with Ranjini about where all of it began and where it is going.
+Ranjani Iyengar did not set out to become one of India's most sought-after wedding invitation designers. She set out to create something deeply personal for the people she loved, and discovered, somewhere along the way, that this instinct was its own kind of calling. Pink Whistle Man, her boutique design studio, has since built a reputation for invitations that do not simply announce a celebration but become part of it. An animated invite for Kritika Kamra and Gaurav Kapur that felt like an old Disney film come to life. Pieces designed with sustainability and longevity so deeply woven in that guests hold onto them long after the wedding is over. A studiedly boutique approach in an industry that rewards volume, held to with complete conviction. We spoke with Ranjani about where all of it began and where it is going.
 
 **Pink Whistle Man has built something truly magical in the world of wedding stationery. Take us back to the very beginning. What was the spark?**
 
