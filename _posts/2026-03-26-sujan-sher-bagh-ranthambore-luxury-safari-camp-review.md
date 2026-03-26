@@ -12,7 +12,7 @@ categories:
 tags:
   - Glamping
   - Travel
-image: /assets/images/posts/suján-sher-bagh-in-ranthambore-national-park-is-perfect-for-a-tiger-sighting.webp
+image: /assets/images/posts/sujan-banner.webp
 featured: true
 meta_title: "SUJÁN Sher Bagh Ranthambore Review: India's Most Extraordinary
   Luxury Safari Camp"
