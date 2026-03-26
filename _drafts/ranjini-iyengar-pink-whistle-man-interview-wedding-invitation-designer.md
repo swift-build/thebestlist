@@ -3,7 +3,7 @@ layout: post
 title: Ranjini Iyengar of Pink Whistle Man on the Art of the Wedding Invitation
   and Why She Will Never Chase Scale
 slug: ranjini-iyengar-pink-whistle-man-interview-wedding-invitation-designer
-date: 2026-03-25 16:34:00 +0530
+date: 2026-03-26 08:08:00 +0530
 author: Kiran
 categories:
   - Weddings
