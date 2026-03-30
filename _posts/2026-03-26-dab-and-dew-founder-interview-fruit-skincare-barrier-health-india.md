@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Dab & Dew's Founder on Fruit Complexes, Barrier Health, and Why She Will
-  Never Sell You a Fairness Cream
+draft: false
+title: Dab & Dew's Riddhi Vasudeva on Fruit Complexes, Barrier Health, and Why
+  She Will Never Sell You a Fairness Cream
 slug: dab-and-dew-founder-interview-fruit-skincare-barrier-health-india
 date: 2026-03-26 08:08:00 +0530
 author: Kiran
@@ -9,21 +10,16 @@ categories:
   - Beauty
 image: /assets/images/posts/risshi.png
 featured: false
-draft: false
 meta_title: "Dab & Dew Founder Interview: Fruit-Based Skincare, Barrier Health
   and Rejecting Fairness Standards"
-excerpt: The founder of Dab & Dew built her skincare brand after a damaged skin
-  barrier sent her back to basics and fresh fruit. In this conversation, she
-  talks formulation philosophy, Indian skin, and why restraint is the most
-  radical thing a beauty brand can practise.
+excerpt: Riddhi Vasudeva built her skincare brand after a damaged skin barrier
+  sent her back to basics and fresh fruit. In this conversation, she talks
+  formulation philosophy, Indian skin, and why restraint is the most radical
+  thing a beauty brand can practise.
 ---
-The founder of Dab & Dew did not start with a brand strategy. She started with a cucumber slice and a damaged skin barrier, and the slow realisation that what her skin actually needed was the opposite of everything the market was selling. What emerged from that period of simplicity and frustration is a skincare label built around fruit complexes, multi-layer hydration, barrier health, and a very deliberate refusal to chase trends, fairness claims, or quick fixes. We spoke with her about the philosophy behind the brand, the Japanese emulsifier she imported for one product, and what comes next.
-
-
+Riddhi Vasudeva did not start with a brand strategy. She started with a cucumber slice and a damaged skin barrier, and the slow realisation that what her skin actually needed was the opposite of everything the market was selling. What emerged from that period of simplicity and frustration is a skincare label built around fruit complexes, multi-layer hydration, barrier health, and a very deliberate refusal to chase trends, fairness claims, or quick fixes. We spoke with her about the philosophy behind the brand, the Japanese emulsifier she imported for one product, and what comes next.
 
 ![](/assets/images/posts/dab-dew_26-10-2513991.jpg)
-
-
 
 **Dab & Dew started from something very personal. What was that moment?**
 
@@ -39,11 +35,7 @@ I also noticed that consumers were constantly being pushed between two extremes:
 
 What felt missing was skincare that is thoughtful, balanced, and consistent. Focused on long-term skin health rather than instant results. Products that are gentle yet effective, and that do not make skincare feel overwhelming, intimidating, or driven by unrealistic ideals.
 
-
-
 ![](/assets/images/posts/dab-dew_26-10-2513868.jpg)
-
-
 
 **Walk us through the formulation philosophy at the heart of Dab & Dew.**
 
@@ -59,11 +51,7 @@ It means understanding that our skin is constantly exposed to heat, humidity, po
 
 Very heavy, multi-step routines can sometimes do more harm than good in our conditions. With daily exposure to dust and pollution, excessive layering can trap impurities and lead to clogged pores. Indian skin also commonly deals with tanning, pigmentation, dullness, and sensitivity, often triggered by environmental stress. That is why we focus on antioxidant and vitamin-rich fruits, paired with gentle, modern actives. For us, it is about balance: keeping skincare effective, but also simple and adaptable to our everyday environment.
 
-
-
 ![](/assets/images/posts/shopping-1-.webp)
-
-
 
 **Tell us about a product you are particularly proud of and why.**
 
@@ -89,11 +77,7 @@ With Dab & Dew, the intention was always to shift the conversation from fairness
 
 Kakadu plum. Not just because it sounds cool, but because it is incredibly rich in vitamin C and antioxidants, and what I love about it is that it works quietly: it protects, strengthens, and supports the skin over time rather than chasing instant results. That really reflects what Dab & Dew stands for. We are not about being harsh or aggressive, but about creating formulas that are gentle, effective, and consistent. There is also something very balanced about it: it is potent, yet when formulated right, it can be incredibly skin-friendly. And that is exactly how we approach our products, combining powerful ingredients with thoughtful formulation so they actually work for your skin, not against it.
 
-
-
 ![](/assets/images/posts/dab-dew_21-05-2506534.jpg)
-
-
 
 **What is the most important thing this journey has taught you?**
 
