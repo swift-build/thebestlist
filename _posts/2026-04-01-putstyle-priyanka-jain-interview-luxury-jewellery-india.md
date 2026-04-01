@@ -6,11 +6,12 @@ title: Priyanka Jain Built Putstyle for the Woman Who Refuses to Choose Between
 slug: putstyle-priyanka-jain-interview-luxury-jewellery-india
 date: 2026-04-01 10:05:00 +0530
 author: Kiran
-author_image: /assets/images/posts/putstylebanner.png
+author_image: /assets/images/posts/kiran.jpg
 categories:
   - Fashion
 tags:
   - Jewellery
+image: /assets/images/posts/putstylebanner.png
 featured: false
 meta_title: "Putstyle Founder Priyanka Jain Interview: Luxury Jewellery for the
   Modern Indian Woman"
