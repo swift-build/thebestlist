@@ -8,6 +8,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Food
+image: /assets/images/posts/018ed93c12d33134313af43ed8f47dfe.avif
 featured: false
 meta_title: From KOKO's glamorous new Goregaon address to a quietly personal
   Thai kitchen in Khar and Jaipur's most considered new café, here are the
