@@ -19,11 +19,7 @@ excerpt: KOKO Goregaon, Bastian Beach Club, Sweeney, FOO Borivali, The Cocktail
 ---
 From a reimagined coastal Mumbai to a quietly personal Thai kitchen in Khar, here is where the city is eating right now.
 
-
-
 ![](/assets/images/posts/kok.jpeg)
-
-
 
 **KOKO Goregaon, Mumbai**
 
@@ -33,11 +29,7 @@ The food, led by Chef Eric Sifu, is Cantonese-Japanese in its architecture and i
 
 *Oberoi Commerz III, Goregaon, Mumbai. 12 PM to 1 AM.*
 
-
-
 ![](/assets/images/posts/foo.jpeg)
-
-
 
 **FOO Borivali, Mumbai**
 
@@ -45,11 +37,7 @@ FOO has always known how to make Pan-Asian dining feel like a party, and its arr
 
 *Level 2, Oberoi Sky City Mall, Borivali East, Mumbai. 12 PM to 1 AM.*
 
-
-
 ![](/assets/images/posts/tomo-kei_sheraton-grand-whitefield_.jpg)
-
-
 
 **Tomo Kei, Whitefield, Bengaluru**
 
@@ -57,11 +45,7 @@ Hotel dining in India has a reputation problem, one it has been slowly, quietly 
 
 *Sheraton Grand Bengaluru Whitefield Hotel and Convention Center, Whitefield, Bengaluru. Approximately Rs 8,000 for two with alcohol.*
 
-
-
 ![](/assets/images/posts/bastianbeachclucb.jpeg)
-
-
 
 **Bastian Beach Club, Juhu, Mumbai**
 
@@ -69,11 +53,7 @@ Mumbai has always had a complicated relationship with its coastline, all that be
 
 *Sun n Sand, 39 Juhu Beach, Juhu, Mumbai. Tuesday to Sunday, 4 PM onwards.*
 
-
-
 ![](/assets/images/posts/zen-chai-boba-tea-1.png)
-
-
 
 **Zen Chai, Whitefield, Bengaluru**
 
@@ -81,11 +61,7 @@ Bubble tea has been circling India's beverage landscape for years, beloved by th
 
 *Nexus Shantiniketan, Whitefield, Bengaluru. From Rs 165.*
 
-
-
 ![](/assets/images/posts/sweeney.jpeg)
-
-
 
 **Sweeney, Khar, Mumbai**
 
@@ -93,11 +69,7 @@ Not everything needs to announce itself. Sweeney, tucked into Khar West, is the 
 
 *759, 5th Lane, opposite Union Bank ATM, Khar West, Mumbai. 12 PM to 4 PM and 6:30 PM to 1 AM.*
 
-
-
 ![](/assets/images/posts/cocktaillroom.png)
-
-
 
 **The Cocktail Room, Mumbai**
 
@@ -105,11 +77,7 @@ The Cocktail Room has not reinvented itself so much as grown into itself. The na
 
 *Mumbai. Timings available upon enquiry.*
 
-
-
 ![](/assets/images/posts/jacobsbrew.jpeg)
-
-
 
 **Jacobs Brew House, Jaipur**
 
@@ -117,11 +85,7 @@ Jaipur's most architecturally considered new café takes its cues from Sir Samue
 
 *Plot No 7, Jawahar Lal Nehru Marg, opposite Clarks Amer Hotel, Malviya Nagar, Jaipur. 8 AM to 11 PM.*
 
-
-
 ![](/assets/images/posts/cafenola.jpeg)
-
-
 
 **Café Nola, Jaipur**
 
@@ -129,14 +93,14 @@ There is a category of café that exists less to impress than to become part of 
 
 *Jai Shree Nagar, Jawahar Lal Nehru Marg, Sector 5, Malviya Nagar, Jaipur. 9 AM to 11 PM.*
 
-
-
-![]()
-
-
+![](/assets/images/posts/july7.jpeg)
 
 **July 7, Pune**
 
 Chef KK's first Pune address is built around a feeling as much as a menu, a memory-led dining space where sunlit corners give way to softly lit evenings and the live kitchen anchors the room with warmth and activity. The food reflects a genuinely global perspective: Vada Pav Fondue and Quinoa Pani Puri Tam Jham sit alongside Massaman Lamb Curry with enough wit and skill to make the combinations feel earned rather than gimmicky. The wood-fired oven and indoor-outdoor seating complete a space that is easy to stay in, which is, ultimately, the highest compliment a restaurant can receive.
 
 *Shop 1, The Capitol, Vishal Nagar, Pimple Nilakh, Pune. 12 PM to 11:45 PM.*
+
+
+
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
