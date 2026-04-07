@@ -16,7 +16,7 @@ image: /assets/images/posts/nita-ambani-mughal-ring.avif
 featured: false
 meta_title: India's most revered jewellers reveal the season's most covetable
   diamond pieces- the cuts, settings, and stories that define luxury right now.
-excerpt: ndia's finest jewellery houses unveil the diamond pieces that are
+excerpt: India's finest jewellery houses unveil the diamond pieces that are
   defining the season — from heritage parures to avant-garde solitaires.
 ---
 There is a particular alchemy that happens when a master craftsman and a flawless stone meet. It is not merely jewellery that results... it is legacy. This season, India's most storied jewellery houses have outdone themselves, producing diamond pieces so precisely conceived that one struggles to find a word other than *inevitable,* as though these creations were always meant to exist.
