@@ -32,11 +32,7 @@ Let us be precise about this, because the term risks becoming as hollow as the t
 
 It is a shoe that someone who knows will recognise immediately and someone who does not know will simply understand as beautiful without being able to explain why. That gap, between the recognisable and the legible, is where quiet luxury lives. The logo is not the point. The logo, in many cases, is entirely absent. The point is the object itself.
 
-
-
 ![](/assets/images/posts/screenshot-2026-03-27-at-6.46.13 pm.png "Dorothy Green by Theatre")
-
-
 
 **The Brands That Built This Moment**
 
@@ -50,11 +46,7 @@ Loro Piana, similarly, has built a footwear programme around the premise that th
 
 And then there is Bottega Veneta, whose intrecciato weave has become perhaps the defining visual code of the current quiet luxury moment: a technique so labour-intensive and so specific that it functions as the most credible of all status signals without bearing a single visible letter.
 
-
-
 ![](/assets/images/posts/screenshot-2026-03-27-at-6.55.59 pm.png "Amara from Carla Braga")
-
-
 
 **The Silhouettes That Define the Moment**
 
@@ -72,27 +64,15 @@ The clean sneaker, stripped of branding and built on exceptional construction, h
 
 The conversation is arriving in India at a particular cultural inflection point. A generation of Indian women who have built their own careers, their own aesthetics, and their own purchasing power is moving away from the logo as validation and toward the object as satisfaction. The shift is visible in the wardrobes of Mumbai and Delhi's most considered dressers: less of the recognisable-from-fifty-feet brand marker, more of the thing that rewards proximity.
 
-
-
 ![](/assets/images/posts/7_8cb5f78b-8729-49f9-bb5a-6ddb943c1a34.webp "Bano- gold (heel) from Needledust")
 
-
-
-Indian labels are beginning to respond. Needledust, with its handcrafted footwear built on traditional Indian craft techniques and entirely contemporary silhouettes, is the clearest homegrown expression of the philosophy. Fizzy Goblet, which began with juttis and has evolved into a design programme built around quality materials and considered form, is another. The Saree Room's foray into footwear with flat mules and slides that complement the label's broader aesthetic speaks to the same instinct.
-
-
+Indian labels are beginning to respond. Needledust, with its handcrafted footwear built on traditional Indian craft techniques and entirely contemporary silhouettes, is the clearest homegrown expression of the philosophy. Fizzy Goblet, which began with juttis and has evolved into a design programme built around quality materials and considered form, is another. The Saree Room's foray into footwear with flat mules and slides that complement the label's broader aesthetic speaks to the same instinct. World of Anaar, with its truly remarkable style and craft, stands out even in the loudest rooms.
 
 ![](/assets/images/posts/screenshot-2026-03-27-at-7.01.17 pm.png "Raw Honey from Fizzy Goblet")
 
-
-
 Internationally, the Indian consumer's appetite for quiet luxury footwear has been noted. The growth of The Row, Bottega Veneta, and Loro Piana in the Indian luxury market is not accidental. It reflects a shift in what status means to the country's most informed dressers, from the loudly branded to the quietly extraordinary.
 
-
-
 ![](/assets/images/posts/anaar-quite-lux.jpeg "Festive Fling Block Heels by Anaar")
-
-
 
 **How to Wear It**
 
