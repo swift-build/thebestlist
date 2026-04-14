@@ -25,11 +25,7 @@ excerpt: >
 ---
 Akshaya Tritiya has always carried a particular weight in the Indian consciousness, a day when what you acquire is believed to grow, multiply, and endure. In the context of fine jewellery, that is not merely tradition speaking. It is sound logic. A well-chosen piece from a brand with genuine craft behind it does not depreciate the way most purchases do. It compounds, in value, in sentiment, and in the way it moves through a family across generations. The question, then, is not whether to invest this Akshaya Tritiya. It is where, and why, and what to look for in the brands that deserve your considered attention in 2026.
 
-
-
 ![](/assets/images/posts/snapinsta.to_531250681_18518725150006330_7682050572273399182_n.webp)
-
-
 
 **WHY AKSHAYA TRITIYA IS THE MOMENT TO BUY WITH INTENTION**
 
@@ -43,8 +39,31 @@ Invest this Akshaya Tritiya in the piece you will still be reaching for in thirt
 
 
 
+![](/assets/images/posts/bangle.jpg)
 
-Tenth Dimension Jewels — Manifest Medallion Pendant
+
+
+
+At the heart of this celebration is the **Avaanti Collection from Forevermark Diamond Jewellery**, an elegant expression of modern sophistication and timeless design. Crafted in yellow and white gold, the collection showcases contemporary silhouettes with versatile appeal, making each piece ideal for both festive gifting and personal indulgence. With its understated elegance and craftsmanship, the Avaanti Collection reflects Forevermark’s commitment to celebrating moments that last a lifetime. Our pick is the Avaanti Bangles in 18 KT Rose Gold featuring a 0.18 ct diamond. 
+
+
+
+
+![](/assets/images/posts/ekaarakataria.jpeg)
+
+
+
+**Auric Cascade Necklace-** Three resplendent rows of white diamonds shimmer in symmetry, crowned by five yellow pear drops blooming from marquise leaves in regal finesse.
+
+
+
+![](/assets/images/posts/2-1-.png)
+
+
+
+
+
+**Tenth Dimension Jewels: Manifest Medallion Pendant**
 
 A modern interpretation of the timeless gold coin, the Manifest Medallion Pendant Necklace by Tenth Dimension redefines Akshaya Tritiya investing through symbolism and intention.
 
@@ -52,34 +71,23 @@ Featuring the brand’s Patented Signature Manifest Talisman, the piece embodies
 
 More than an ornament in 18k hallmarked gold and certified diamonds, it is conceived as a personal talisman—an enduring symbol of prosperity, meaning, and modern luxury.
 
-
-
-
-
-
-
-
-
-
-
 ![](/assets/images/posts/rgg0011_01.jpg)
-
-
 
 As gold prices continue to rise, Palmonas bridges heritage with modern sensibility through a collection designed for everyday wear, yet rooted in meaning, making timeless elegance more relevant for today’s consumer. The **Sparkle Celestial Halo Ring** stands out with its brilliant centre stone encircled by a luminous halo, designed to amplify sparkle while maintaining a refined, elegant appeal!
 
 
 
+![](/assets/images/posts/kataria.jpeg)
+
+
+
+**Solitaire Tops by Kataria Jewellers-** There’s something about a well-cut solitaire that never goes out of place, and this pair does exactly that. The White Gold Solitaire Pear Cut Diamond Tops feel light, refined, and quietly striking. With their clean setting and delicate shape, they’re the kind of earrings you reach for across occasions—easy, polished, and just the right amount of sparkle for the season.
 
 
 
 
 
 ![](/assets/images/posts/buying_gold_jewelry.webp)
-
-
-
-
 
 **WHAT TO LOOK FOR BEFORE YOU BUY**
 
@@ -99,8 +107,6 @@ The best jewellery investment this Akshaya Tritiya is the one you make with full
 
 Buy well. Buy once. Buy with the Akshaya Tritiya spirit it deserves.
 
-
-
 **YOU SHOULD KNOW THIS!**
 
 Akshaya Tritiya 2026 Date: 30 April 2026
@@ -108,10 +114,6 @@ Auspicious Timing: Sunrise to sunset
 Gold Rate Watch: Check live rates at IBJA (India Bullion and Jewellers Association) before purchase
 Hallmarking Standard: BIS hallmark with six-digit HUID for gold purity verification
 Diamond Certification: GIA or IGI certification recommended for stones above 0.30 carats
-
-
-
-
 
 *For India's most considered jewellery edits, investment guides, and the brands worth knowing before the season begins:*
 
