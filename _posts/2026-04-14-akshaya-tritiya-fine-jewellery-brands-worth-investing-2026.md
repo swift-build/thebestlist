@@ -35,33 +35,15 @@ This is not a rejection of gold's intrinsic value. It is an expansion of what va
 
 Invest this Akshaya Tritiya in the piece you will still be reaching for in thirty years. This edit will help you find it.
 
-
-
-
-
 ![](/assets/images/posts/bangle.jpg)
-
-
-
 
 At the heart of this celebration is the **Avaanti Collection from Forevermark Diamond Jewellery**, an elegant expression of modern sophistication and timeless design. Crafted in yellow and white gold, the collection showcases contemporary silhouettes with versatile appeal, making each piece ideal for both festive gifting and personal indulgence. With its understated elegance and craftsmanship, the Avaanti Collection reflects Forevermark’s commitment to celebrating moments that last a lifetime. Our pick is the Avaanti Bangles in 18 KT Rose Gold featuring a 0.18 ct diamond. 
 
-
-
-
 ![](/assets/images/posts/ekaarakataria.jpeg)
-
-
 
 **Auric Cascade Necklace-** Three resplendent rows of white diamonds shimmer in symmetry, crowned by five yellow pear drops blooming from marquise leaves in regal finesse.
 
-
-
-![](/assets/images/posts/2-1-.png)
-
-
-
-
+![](/assets/images/posts/whatsapp-image-2026-04-17-at-1.43.13-pm.jpeg)
 
 **Tenth Dimension Jewels: Manifest Medallion Pendant**
 
@@ -75,17 +57,9 @@ More than an ornament in 18k hallmarked gold and certified diamonds, it is conce
 
 As gold prices continue to rise, Palmonas bridges heritage with modern sensibility through a collection designed for everyday wear, yet rooted in meaning, making timeless elegance more relevant for today’s consumer. The **Sparkle Celestial Halo Ring** stands out with its brilliant centre stone encircled by a luminous halo, designed to amplify sparkle while maintaining a refined, elegant appeal!
 
-
-
 ![](/assets/images/posts/kataria.jpeg)
 
-
-
 **Solitaire Tops by Kataria Jewellers-** There’s something about a well-cut solitaire that never goes out of place, and this pair does exactly that. The White Gold Solitaire Pear Cut Diamond Tops feel light, refined, and quietly striking. With their clean setting and delicate shape, they’re the kind of earrings you reach for across occasions—easy, polished, and just the right amount of sparkle for the season.
-
-
-
-
 
 ![](/assets/images/posts/buying_gold_jewelry.webp)
 
