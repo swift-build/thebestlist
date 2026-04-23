@@ -61,7 +61,28 @@ As gold prices continue to rise, Palmonas bridges heritage with modern sensibili
 
 **Solitaire Tops by Kataria Jewellers-** There’s something about a well-cut solitaire that never goes out of place, and this pair does exactly that. The White Gold Solitaire Pear Cut Diamond Tops feel light, refined, and quietly striking. With their clean setting and delicate shape, they’re the kind of earrings you reach for across occasions—easy, polished, and just the right amount of sparkle for the season.
 
+
+
+![](/assets/images/posts/elara-polki-layered-set_manoharlal-sons.jpeg)
+
+
+
+**Elara Polki Layered set from Manoharlal Sons, Lajpat Nagar**: A modern take on heritage, this layered polki set is crafted in rich gold with rhythmic circular motifs and soft pearl drops. The structured design meets fluid elegance, while the statement earrings mirror its refined charm - perfect for contemporary celebrations with a timeless soul.
+
+
+
+![](/assets/images/posts/shakti-sutra_vcj-bespoke-jewellery-1-.jpeg)
+
+
+
+**Shakti Sutra by VCJ Bespoke Jewellery**: Designed by Jai Madaan, this mangalsutra beautifully blends the sacred conch and lotus—symbols of divine energy and purity. Set in radiant gold with striking black beads, it carries the essence of protection, love, and spiritual balance.
+
+Aligned with the powerful Sun Year 2026, the design channels confidence, strength, and new beginnings. The lotus signifies growth beyond challenges, while the conch amplifies positive vibrations—making this not just a symbol of marriage, but a piece of cosmic energy and timeless elegance.
+
+
 ![](/assets/images/posts/buying_gold_jewelry.webp)
+
+
 
 **WHAT TO LOOK FOR BEFORE YOU BUY**
 
