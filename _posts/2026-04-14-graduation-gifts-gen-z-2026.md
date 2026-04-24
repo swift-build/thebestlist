@@ -11,6 +11,7 @@ categories:
 tags:
   - Gifting
   - Gen Z
+image: /assets/images/posts/iim-bangalore.jpg
 featured: false
 meta_title: orget the generic. The best graduation gifts for Gen Z in 2026 are
   considered, useful, and actually wanted, from tech they will use daily to
