@@ -37,6 +37,36 @@ What 2026 has done is give Indian women, and the designers dressing them, permis
 
 The global runway has played its part. Schiaparelli's sculptural jewellery, Bottega Veneta's return to volume, the maximalist confidence of Valentino's recent collections: the international conversation has shifted far enough that reaching for a statement piece no longer reads as a failure of taste. But in India, the more interesting development is happening closer to home, in the ateliers and workshops of designers who are building a maximalist vocabulary that belongs entirely to this moment and this place.
 
+Our Picks
+
+![](/assets/images/posts/the-bold-and-beauty-tote.png)
+
+
+
+**The Bold & Beauty Tote from Colorbar**
+
+
+
+![](/assets/images/posts/bindiprojectmax.webp)
+
+
+
+**Contemporary Bindi from The Bindi Project**
+
+
+
+
+
+![](/assets/images/posts/timex280.png)
+
+
+
+**MM6 x Timex T80**
+
+
+
+
+
 
 
 **The Principle Underneath the Trend**
