@@ -35,37 +35,21 @@ The musician in him never left. It simply found a new instrument.
 
 In 2010, he founded his first restaurant in Bangkok, simply called Gaggan, which would go on to be named the Best Restaurant in Asia five times over. This was not a small achievement. This was a seismic one. Here was an Indian chef, in Thailand, cooking Indian food — and doing it in a way that no one, anywhere in the world, had done before.
 
-
-
 ![](/assets/images/posts/gaggan1new.jpeg)
-
-
 
 **The Philosophy: Disruption as a Love Language**
 
 To understand Gaggan Anand's cuisine is to first abandon everything you think you know about fine dining. There are no starched silences here. No hushed reverence. No carefully curated distance between the chef and the guest. From using emojis to represent each course on his menu, to encouraging diners to eat with their hands or lick the plate, Anand's singular mission has always been to disrupt and reinvent the traditional fine-dining experience.
 
-
-
 ![](/assets/images/posts/evolution-of-“lick-it-up”-from-2017-a-crazy-idea-on-the-drive-back-home-at-1-am-from-a-song-on-.jpg)
-
-
 
 His food is best described as progressive Indian — though even that label feels like an understatement. The menu is anchored in progressive Indian cuisine, woven through with French, Thai and Japanese influences, combining music, colour and creativity in every course. The result is a dining experience that operates more like theatre — or, given his musical sensibilities, more like a live concert. Loud in places. Tender in others. Always, always surprising.
 
-
-
 ![](/assets/images/posts/yoghurtexplosion.png)
-
-
 
 His most iconic creation — the yoghurt explosion — tells you everything about who he is. A direct riff on the olive spherification he learned at El Bulli, the dish reimagines a humble Indian staple through the language of molecular gastronomy. It is precisely the kind of culinary manoeuvre that makes purists nervous and everyone else absolutely delighted. Which is, of course, entirely the point.
 
-
-
 ![](/assets/images/posts/chef-gaggan-anand-is-known-for-his-culinary-innovation-and-creativity-in-fine-dining.-born-in-ko.jpg)
-
-
 
 **The Empire He Built Far From Home**
 
@@ -97,7 +81,25 @@ Raga may well be the most significant restaurant launch India has seen in a gene
 
 The rebellion, it turns out, was always going to end up here.
 
-*Raga by Gaggan Anand opens in Delhi in 2026.*
+
+
+**FACT BOX**
+
+Restaurant: Raga by Gaggan Anand
+
+Location: Janpath, New Delhi
+
+Opening: 2026
+
+Covers: 42 seats
+
+Format: Two tasting menus
+
+Price Point: Approximately Rs 8,000 per head
+
+Partner: Zorawar Kalra, Massive Restaurants
+
+Co-Chef: Rydo Anton
 
 
 
