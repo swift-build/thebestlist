@@ -26,15 +26,9 @@ The women building companies, leading organisations, practising medicine, arguin
 
 That, it turns out, is the most consequential thing they do.
 
-
-
 #### Here are some truly trailblazing mothers!
 
-
-
 ![](/assets/images/posts/darshana-balagopal.jpeg)
-
-
 
 #### Darshana Balagopal: A Mother. A Force. A Woman Redefining Success.
 
@@ -46,11 +40,7 @@ With leadership roles at OnePlus and Phoenix Palladium Mall behind her, and as c
 
 Beyond business, Darshana champions women’s visibility through sport as owner of the ADAIA Storm Breakers and co-owner of the Chennai Super Queens. She is not fitting into existing definitions of leadership or motherhood. She is rewriting them.
 
-
-
 ![](/assets/images/posts/ghazal_alagh_139a02fc25.png)
-
-
 
 #### **Ghazal Alagh, Co-Founder, Mamaearth**
 
@@ -62,13 +52,7 @@ What makes Ghazal's story particularly compelling is that the founding insight w
 
 She has spoken openly about navigating early motherhood and early-stage startup life simultaneously, two experiences that share, she has noted, the quality of demanding everything you have at exactly the same time. That she built something extraordinary from the intersection of the two is, in 2026, one of Indian entrepreneurship's more instructive origin stories.
 
-
-
-
-
 ![](/assets/images/posts/fullsizerender.jpg)
-
-
 
 ### Richa Bansal: Raising the Next Generation with Purpose, Passion & Possibility
 
@@ -82,19 +66,7 @@ Motherhood, she says, has made her a stronger leader—teaching her patience, pe
 
 For Richa, legacy is not only about the businesses she has built, but the values she is passing on to the next generation.
 
-
-
-
-
-
-
-
-
 ![](/assets/images/posts/renu-kant-profile-picture-1-3-.jpg)
-
-
-
-
 
 #### **Renu Kant - Founder at Envi Salons**
 
@@ -104,12 +76,25 @@ As a mother and entrepreneur, Renu Kant’s leadership journey reflects a balanc
 
 In many ways, her journey mirrors the essence of modern Indian motherhood balancing leadership with nurturing, ambition with empathy, and growth with grounding values. Through Envi, she continues to shape not just a brand, but a generation that understands beauty as confidence, care, and self-expression.
 
+![](/assets/images/posts/mother-s-day-tenth-dimension-2-.jpeg)
+
+### Manisha Mehta: Redefining Motherhood Through Work-Life Joy
+
+For Manisha Mehta, Founder and Creative Director of Tenth Dimension Jewels, the idea of “work-life balance” has never quite made sense. To her, the phrase suggests that work and life exist separately, constantly competing for attention. Instead, she believes in something far more meaningful: work-life joy.
+
+“Motherhood did not interrupt my dreams — it expanded them,” she says.
+
+Manisha began building Tenth Dimension Jewels while she was pregnant with her son, making the brand and her journey into motherhood deeply intertwined from the very beginning. Her son became part of every milestone — from brainstorming ideas and finalising the brand name to being the first person she showed the Tenth Dimension Manifest symbol to.
+
+Rather than shielding him from her entrepreneurial world, she welcomed him into it. At just seven years old, he proudly stood beside her at the brand’s first showcase. By eight, he was confidently explaining collections and sharing the story behind the brand with clients.
+
+For Manisha, this is what true integration looks like — raising a child alongside a dream instead of apart from it. She believes motherhood should not limit ambition but strengthen it, allowing women to build lives where passion, purpose, and family grow together.
+
+This Mother’s Day, her story challenges the traditional narrative of “having it all.” Perhaps the real power lies not in balancing two worlds, but in creating one where both motherhood and ambition can thrive seamlessly side by side.
+
 
 
 ![](/assets/images/posts/360_f_469042757_hfi4ttcylvdty8hynq9p9juz1pglwsxg.jpg)
-
-
-
 
 #### **The Village, Revisited**
 
@@ -118,8 +103,6 @@ One of the more honest conversations happening among professional Indian mothers
 The joint family structure, long characterised in the urban imagination as a constraint on women's independence, is being quietly reappraised by a generation that has discovered what its absence actually costs. The grandmother who does the school pickup, the sister-in-law who covers the sick day, the household that distributes the work of care across more than one pair of hands: these are not failures of modern independence. They are the rational deployment of available support in the service of a larger ambition.
 
 The professional mothers navigating this honestly are also navigating the domestic labour conversation with more directness than their predecessors. The household that runs smoothly because someone is managing it, whether a partner who has recalibrated his own professional commitments, a support team that has been resourced properly, or a combination of both, is not a secret to be hidden behind the language of doing it all. It is a system to be acknowledged, and in some cases advocated for, because the pretence that extraordinary professional women are also solely managing extraordinary domestic lives alone does nothing except raise the bar to an impossible height for every woman who comes after.
-
-
 
 #### **The Standard Being Set**
 
@@ -130,7 +113,5 @@ That standard is not about having it all, a phrase that has done considerable da
 The children being raised by these women will grow up with a different set of assumptions about what mothers are, what women can be, and what a life well-lived looks like. They will, in all likelihood, hold those they love to a standard that makes room for complexity, for ambition, and for the kind of love that expresses itself not only through presence but through example.
 
 That is not a small inheritance. It is, quietly, everything.
-
-
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
