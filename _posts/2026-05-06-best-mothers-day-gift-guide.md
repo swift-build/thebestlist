@@ -21,30 +21,28 @@ excerpt: Not sure what to get Mom this year? Our ultimate Mother's Day gift
 ---
 Mother's Day is one of those occasions where the stakes feel high and for good reason. Whether she raised you, mentored you, or simply showed up when it mattered most, the right gift says something words can't. But every mom is different, and a one-size-fits-all candle set just doesn't cut it. This year, we've curated a gift guide that speaks to every kind of mother from the wellness devotee to the tech-savvy trailblazer.
 
-
-
 ## For the Self-Care Mom
 
 ![](/assets/images/posts/oriflame’s-milk-and-honey-gold-majestic-magnolia-hand-body-cream-.jpeg)
 
 **Oriflame’s Milk and Honey Gold *Majestic Magnolia Hand & Body Cream***
 
-
-
 ![](/assets/images/posts/promenade.jpeg)
 
-
-
 **Promend Volumizing Shampoo | Elastin |250 ml + Promend Volumizing Mask  200 ml + Promend Oil Resurrection 30 ml**
-
-
 
 ![](/assets/images/posts/pixikit.jpeg)
 
 **PIXI Skintreat Essentials Combo**
 
-
-
 ![](/assets/images/posts/colorbarfoundation.jpeg)
 
 **Colorbar Crystal Glow Serum Foundation**
+
+
+
+## For the Fashionista Mom
+
+![](/assets/images/posts/timexfria.png)
+
+**Timex Fria Women Blue Rhombus Analog Watch - TWEL17202**
