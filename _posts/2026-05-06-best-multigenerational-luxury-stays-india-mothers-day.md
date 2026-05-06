@@ -56,8 +56,44 @@ This Mother's Day, the idea is simple: spend time together, and do it well.Set a
 
 
 
+![](/assets/images/posts/20210802054755amcoconutlagoon-backwaterresort.jpg)
+
+
+
 **CGH Earth's Coconut Lagoon, Kumarakom, Kerala**
 
 If Rajasthan is India's operatic north, Kerala is its lyric south, and nowhere captures its particular beauty more elegantly than Coconut Lagoon, a heritage property assembled from centuries-old tharavad mansions transported and reconstructed on the banks of Vembanad Lake. Accessible only by boat (a detail that delights almost everyone under forty and, with proper assistance, is perfectly manageable for those above it), Coconut Lagoon is an exercise in what luxury looks like when it is entirely at ease with itself.
 
 The rooms, carved rosewood, burnished brass, four-poster beds swathed in muslin, are deeply romantic without feeling overwrought. The food is a revelation: traditional Kerala sadya served on banana leaves, karimeen pollichathu wrapped in banana leaf and grilled over fire, fresh coconut at every turn. The backwaters, explored by private kettuvallam houseboat, offer the most serene morning activity imaginable. Gliding past paddy fields and fishing communities as kingfishers dive and egrets stand sentinel on the banks, it is the sort of scene that makes grandmothers go very quiet and then say, unexpectedly, that this is the most beautiful place they have ever seen. They are usually not wrong.
+
+
+
+![](/assets/images/posts/h5h56_27621329_h5h56l05_0-913265729-1366x768.webp)
+
+
+
+**The Leela Goa, Cavelossim, South Goa**
+
+For those who prefer their luxury horizontal, spread across a sun lounger with a view of the Arabian Sea and something cold arriving at intervals, South Goa's Leela presents a near-irresistible case. Set on 75 acres of palm-fringed gardens bisected by lagoons and backwaters along the Sal River, it is the kind of resort where time passes differently. Slower. Better.
+
+Multigenerational groups are well-served by the sheer breadth of what is on offer: the younger generation will gravitate towards watersports, the rooftop bar, and the excellent Italian restaurant; mothers will find the spa's Ayurvedic menu comprehensive and the lagoon-view rooms deeply civilised; grandmothers will appreciate the level of service, which is attentive without being suffocating, and the gentle evening cruises on the Sal. There are few better places in India for a family to simply coexist in shared comfort. No itinerary required, no cultural endurance test, just the sea, the sun, and one another.
+
+
+
+![](/assets/images/posts/32151397-1200x750.jpg)
+
+
+
+**Wildflower Hall, Mashobra, Himachal Pradesh**
+
+Not every Mother's Day escape need involve heat and sunlight. For families who prefer the Himalayan air, crisp, cedar-scented, and quite capable of stripping away months of accumulated city fatigue in a single deep breath, Wildflower Hall in the mountains above Shimla is in a category entirely its own. Perched at 8,250 feet, this former residence of Lord Kitchener commands views of the snow-capped Shivalik ranges that are, in the most genuine sense of the word, awe-inspiring.
+
+The property is all cedar-panelled warmth and open fireplaces, with an infinity pool that appears to pour directly into the mountain valleys below, a detail that impresses across every age group. Treks through the surrounding pine forest are graduated for all fitness levels; a grandmother happy with a gentle hour among the rhododendrons will coexist perfectly with a daughter who wants to push to the higher ridgelines. The spa, naturally, is outstanding. As is the hot chocolate. As is, on certain lucky evenings, the sunset over the Himalayas, which operates on a scale so vast it tends to reduce everyone, regardless of age or sophistication, to grateful, companionable silence.
+
+
+
+A note on timing: Mother's Day in 2025 falls on the 11th of May, which places it conveniently within the shoulder season for most of these destinations. Rajasthan's temperatures are climbing but manageable; Kerala's pre-monsoon warmth is softened by the backwater breezes; Goa is quieting pleasantly after the peak winter rush; and Mashobra, at elevation, remains perfectly temperate. Book early. The best suites at palace hotels do not linger.
+
+
+
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
