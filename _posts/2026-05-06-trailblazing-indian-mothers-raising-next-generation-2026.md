@@ -94,6 +94,28 @@ This Mother’s Day, her story challenges the traditional narrative of “having
 
 
 
+![](/assets/images/posts/img_1445.jpg)
+
+
+
+
+
+### Rupali Dean: A Legacy of Inspiration, Culture & Creativity
+
+Rupali Dean is not simply redefining motherhood — she is reshaping the narrative around it. An award-winning journalist, TEDx speaker, culinary curator, hospitality professional, and Ambassador for Host Milano, her career is built on storytelling, culture, and meaningful change. Yet beyond the accolades lies her most powerful role: raising a daughter who mirrors her passion, creativity, and fearless spirit.
+
+Together with her daughter, Akanksha, Rupali has created more than a shared passion project through *Dean With Us*. Their platform blends travel, food, and cross-cultural exploration into a space that celebrates discovery, dialogue, and human connection. Their bond extends beyond family into collaboration, proving that motherhood can evolve into mentorship, partnership, and shared purpose.
+
+One of their most impactful initiatives, *ShefsAtTheLeela*, shines a spotlight on women chefs who have carved their own paths in the culinary world, creating space for conversations around ambition, resilience, and representation. Through these experiences, Rupali and Akanksha continue to inspire the next generation of women to pursue their dreams unapologetically.
+
+For Rupali, parenting has never been about instruction alone. It is a relationship built on mutual respect, encouragement, and growth. Her ability to turn everyday moments into meaningful experiences reflects the warmth and wisdom she brings to both motherhood and leadership.
+
+Her greatest legacy is not just the remarkable career she has built, but the empowered, trailblazing daughter she is raising alongside it.
+
+
+
+
+
 ![](/assets/images/posts/360_f_469042757_hfi4ttcylvdty8hynq9p9juz1pglwsxg.jpg)
 
 #### **The Village, Revisited**
