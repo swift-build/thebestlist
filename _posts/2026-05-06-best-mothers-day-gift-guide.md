@@ -29,11 +29,7 @@ Mother's Day is one of those occasions where the stakes feel high and for good r
 
 ![](/assets/images/posts/promenade.jpeg)
 
-
-
 **[Promend Volumizing Shampoo | Elastin |250 ml + Promend Volumizing Mask  200 ml + Promend Oil Resurrection 30 ml](https://nexxus.in/products/nexxus-promend-volumizing-shampoo-elastin-250-ml-nexxus-promend-volumizing-mask-200-ml-promend-oil-resurrection-30-ml)**
-
-
 
 ![](/assets/images/posts/pixikit.jpeg)
 
@@ -45,8 +41,17 @@ Mother's Day is one of those occasions where the stakes feel high and for good r
 
 ![](/assets/images/posts/teri-by-terrapy.png)
 
-**[Téri by Terrapy
-](https://www.terrapy.in/products/teri-taster-trio)**
+**[Téri by Terrapy](https://www.terrapy.in/products/teri-taster-trio)**
+
+
+
+
+
+![](/assets/images/posts/vadhamgreentea.png)
+
+**[VAHDAM India ashwagandha Green Tea – Moringa & Tulsi](https://www.vahdam.in/products/ashwagandha-moringa-tulsi-green-tea-18-tb)**
+
+
 
 ## For the Fashionista Mom
 
@@ -62,11 +67,30 @@ Mother's Day is one of those occasions where the stakes feel high and for good r
 
 **[Jeena Khadi by Terra Luna - The A-Line Dress](https://www.terralunaindia.com/products/jenna-khadi)**
 
+
+
+![](/assets/images/posts/no-nasties-white-ruffle-shirt.jpg)
+
+**[No Nasties White Ruffle Shirt](www.nonasties.in)**
+
+
+
 ![](/assets/images/posts/palmonaspearldrop.jpg)
 
 **[Pearl Drop Diamond Earrings](https://palmonas.com/products/pearl-drop-diamond-earrings-14820?_pos=1&_sid=bd7561f9c&_ss=r)**
 
-No matter what kind of mother she is, the best gift is one that shows you truly see her — not just as a mom, but as a person with her own passions, personality, and needs. Use this guide as a starting point, and add your own touch: a handwritten note, a shared memory, or just your time. That's what she'll remember most.
+
+
+![](/assets/images/posts/adiadiamondring.png)
+
+
+
+**[ADAIA Lab Diamond Collection – Adaia Nova - Everyday Essentials
+](https://www.instagram.com/adaiadiamonds/)**
+
+No matter what kind of mother she is, the best gift is one that shows you truly see her — not just as a mom, but as a person with her own passions, personality, and needs. Use this guide as a starting point, and add your own touch: a handwritten note, a shared memory, or just your time. That's what she'll remember most. 
+
+
 
 **Happy Mother's Day!**[
 ](https://www.terralunaindia.com/products/jenna-khadi)
