@@ -29,7 +29,11 @@ Mother's Day is one of those occasions where the stakes feel high and for good r
 
 ![](/assets/images/posts/promenade.jpeg)
 
+
+
 **[Promend Volumizing Shampoo | Elastin |250 ml + Promend Volumizing Mask  200 ml + Promend Oil Resurrection 30 ml](https://nexxus.in/products/nexxus-promend-volumizing-shampoo-elastin-250-ml-nexxus-promend-volumizing-mask-200-ml-promend-oil-resurrection-30-ml)**
+
+
 
 ![](/assets/images/posts/pixikit.jpeg)
 
@@ -48,27 +52,19 @@ Mother's Day is one of those occasions where the stakes feel high and for good r
 
 ![](/assets/images/posts/timexfria.png)
 
-**Timex Fria Women Blue Rhombus Analog Watch - TWEL17202**
-
-
+**[Timex Fria Women Blue Rhombus Analog Watch - TWEL17202](https://shop.timexindia.com/products/timex-fria-womens-white-dial-round-case-3-hands-function-watch-twel17202?variant=46740136788257&utm_source=google&utm_medium=cpc&utm_campaign=23742075266&utm_content=6707215542&utm_term=&nbt=nb%3Aadwords%3Ax%3A23742075266%3A%3A&nb_adtype=pla_with_promotion&nb_kwd=&nb_ti=&nb_mi=277654159&nb_pc=online&nb_pi=46740136788257&nb_ppi=&nb_placement=&nb_li_ms=&nb_lp_ms=&nb_fii=&nb_ap=&nb_mt=&gad_source=1&gad_campaignid=23742111527&gbraid=0AAAAACFJAFkiwk9c8SRyL40qFeTU5ir_y&gclid=Cj0KCQjw8PDPBhCeARIsAOJwmWWGlVa_7gEO1WXH_-GnGMCA_Xx6ARUiCQP3jRIw8QSWT4oGyUdjXHcaAtkjEALw_wcB)**
 
 ![](/assets/images/posts/emra-triple-row-diamond-band-house-of-quadri.png)
 
 **[Emra Triple Row Diamond Band by House of Quadri](https://houseofquadri.com/collections/emra/products/emra-triple-row-diamond-band)**
 
-
-
 ![](/assets/images/posts/a-line-dress-by-terra-luna.jpg)
 
 **[Jeena Khadi by Terra Luna - The A-Line Dress](https://www.terralunaindia.com/products/jenna-khadi)**
 
-
-
 ![](/assets/images/posts/palmonaspearldrop.jpg)
 
 **[Pearl Drop Diamond Earrings](https://palmonas.com/products/pearl-drop-diamond-earrings-14820?_pos=1&_sid=bd7561f9c&_ss=r)**
-
-
 
 No matter what kind of mother she is, the best gift is one that shows you truly see her — not just as a mom, but as a person with her own passions, personality, and needs. Use this guide as a starting point, and add your own touch: a handwritten note, a shared memory, or just your time. That's what she'll remember most.
 
