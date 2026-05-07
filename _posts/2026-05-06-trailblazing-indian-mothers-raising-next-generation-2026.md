@@ -26,11 +26,11 @@ The women building companies, leading organisations, practising medicine, arguin
 
 That, it turns out, is the most consequential thing they do.
 
-#### Here are some truly trailblazing mothers!
+### Here are some truly trailblazing mothers!
 
 ![](/assets/images/posts/darshana-balagopal.jpeg)
 
-#### Darshana Balagopal: A Mother. A Force. A Woman Redefining Success.
+**Darshana Balagopal: A Mother. A Force. A Woman Redefining Success.**
 
 Darshana Balagopal refuses to choose between ambition and motherhood. As the founder of ADAIA Diamonds, a lab-grown diamond brand redefining modern luxury, she is building a business rooted in ethics, creativity, and authenticity while embracing motherhood with equal conviction. For Darshana, success is deeply personal: creating a life that feels honest, expansive, and entirely her own.
 
@@ -42,7 +42,7 @@ Beyond business, Darshana champions women’s visibility through sport as owner 
 
 ![](/assets/images/posts/ghazal_alagh_139a02fc25.png)
 
-#### **Ghazal Alagh, Co-Founder, Mamaearth**
+**Ghazal Alagh, Co-Founder, Mamaearth**
 
 There is a certain irony in the fact that one of India's most successful consumer brands was built not by a market research team or a venture-backed founder with an MBA, but by a mother who could not find a product she trusted enough to put on her baby's skin.
 
@@ -54,7 +54,7 @@ She has spoken openly about navigating early motherhood and early-stage startup 
 
 ![](/assets/images/posts/fullsizerender.jpg)
 
-### Richa Bansal: Raising the Next Generation with Purpose, Passion & Possibility
+#### Richa Bansal: Raising the Next Generation with Purpose, Passion & Possibility
 
 For Richa Bansal, motherhood has never meant choosing between ambition and affection. As the founder of Purple and Pink Digital, leading campaigns for over 75 hotels across India while building platforms like All Women Entrepreneurs and Inside Hospitality, she has created a life where leadership and love coexist seamlessly.
 
@@ -68,7 +68,7 @@ For Richa, legacy is not only about the businesses she has built, but the values
 
 ![](/assets/images/posts/renu-kant-profile-picture-1-3-.jpg)
 
-#### **Renu Kant - Founder at Envi Salons**
+**Renu Kant - Founder at Envi Salons**
 
 Envi Salon, one of India’s leading premium salon chains, was established by Renu Kant, with a vision to redefine the salon experience in India by bringing together service excellence, innovation, and accessible luxury. It was the culmination of long years of preparation, contemplation, experience and a thoughtful approach towards providing the best salon experiences on the high streets and to the mall walkers.   What began as a single vision under the brand “Exquise” evolved into Envi across major malls and high streets, a nationally recognised salon chain with  prime locations across Mumbai, Navi Mumbai, Thane, Pune, Hyderabad, Chennai etc. With her keen eye for trends and commitment to excellence, Renu Kant is undoubtedly a game-changer in the beauty space, consistently pushing boundaries and setting new standards.
 
@@ -78,7 +78,7 @@ In many ways, her journey mirrors the essence of modern Indian motherhood balanc
 
 ![](/assets/images/posts/mother-s-day-tenth-dimension-2-.jpeg)
 
-### Manisha Mehta: Redefining Motherhood Through Work-Life Joy
+#### Manisha Mehta: Redefining Motherhood Through Work-Life Joy
 
 For Manisha Mehta, Founder and Creative Director of Tenth Dimension Jewels, the idea of “work-life balance” has never quite made sense. To her, the phrase suggests that work and life exist separately, constantly competing for attention. Instead, she believes in something far more meaningful: work-life joy.
 
@@ -92,15 +92,9 @@ For Manisha, this is what true integration looks like — raising a child alongs
 
 This Mother’s Day, her story challenges the traditional narrative of “having it all.” Perhaps the real power lies not in balancing two worlds, but in creating one where both motherhood and ambition can thrive seamlessly side by side.
 
-
-
 ![](/assets/images/posts/img_1445.jpg)
 
-
-
-
-
-### Rupali Dean: A Legacy of Inspiration, Culture & Creativity
+#### Rupali Dean: A Legacy of Inspiration, Culture & Creativity
 
 Rupali Dean is not simply redefining motherhood — she is reshaping the narrative around it. An award-winning journalist, TEDx speaker, culinary curator, hospitality professional, and Ambassador for Host Milano, her career is built on storytelling, culture, and meaningful change. Yet beyond the accolades lies her most powerful role: raising a daughter who mirrors her passion, creativity, and fearless spirit.
 
@@ -112,13 +106,9 @@ For Rupali, parenting has never been about instruction alone. It is a relationsh
 
 Her greatest legacy is not just the remarkable career she has built, but the empowered, trailblazing daughter she is raising alongside it.
 
-
-
-
-
 ![](/assets/images/posts/360_f_469042757_hfi4ttcylvdty8hynq9p9juz1pglwsxg.jpg)
 
-#### **The Village, Revisited**
+### **The Village, Revisited**
 
 One of the more honest conversations happening among professional Indian mothers concerns the infrastructure that makes their lives possible, and the importance of naming it rather than erasing it from the narrative of success.
 
@@ -126,7 +116,7 @@ The joint family structure, long characterised in the urban imagination as a con
 
 The professional mothers navigating this honestly are also navigating the domestic labour conversation with more directness than their predecessors. The household that runs smoothly because someone is managing it, whether a partner who has recalibrated his own professional commitments, a support team that has been resourced properly, or a combination of both, is not a secret to be hidden behind the language of doing it all. It is a system to be acknowledged, and in some cases advocated for, because the pretence that extraordinary professional women are also solely managing extraordinary domestic lives alone does nothing except raise the bar to an impossible height for every woman who comes after.
 
-#### **The Standard Being Set**
+### **The Standard Being Set**
 
 What India's trailblazing professional mothers are doing, in aggregate and without coordination, is establishing a new standard for what motherhood can look like when it is not required to be the whole of a woman's identity.
 
