@@ -55,7 +55,7 @@ A nutrient-rich wellness blend combining Green Tea, Ashwagandha, Moringa, and Tu
 
 ![](/assets/images/posts/promenade.jpeg)
 
-**[PROMEND VOLUMIZING SHAMPOO](https://nexxus.in/products/nexxus-promend-volumizing-shampoo-elastin-250-ml-nexxus-promend-volumizing-mask-200-ml?variant=48734207443186&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gads=pmaxFeed&utm_source=google&utm_medium=cpc&utm_campaign=22667821191&utm_term=&utm_content=&click_id=Cj0KCQjwk_bPBhDXARIsACiq8R0hxwArBCvE2m5q43rP8y599i2TAOHPeV2iPdGWp7EU7zBn68Xl4tAaAktDEALw_wcB&gad_source=1&gad_campaignid=22667819007&gbraid=0AAAAA_LgzkXImkGNdje92pBUyhN3e3zbu&gclid=Cj0KCQjwk_bPBhDXARIsACiq8R0hxwArBCvE2m5q43rP8y599i2TAOHPeV2iPdGWp7EU7zBn68Xl4tAaAktDEALw_wcB)**
+**[PROMEND VOLUMIZING SHAMPOO](https://nexxus.in/products/promend-oil-resurrection?variant=47702079602930&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gads=pmaxFeed&utm_source=google&utm_medium=cpc&utm_campaign=22667821191&utm_term=&utm_content=&click_id=Cj0KCQjwk_bPBhDXARIsACiq8R3iBqdOs6uQQOljp3RZC27QK9pTxN128oFSf8ghoqcgNvmRwWDyZRwaAl_iEALw_wcB&gad_source=1&gad_campaignid=22667819007&gbraid=0AAAAA_LgzkXImkGNdje92pBUyhN3e3zbu&gclid=Cj0KCQjwk_bPBhDXARIsACiq8R3iBqdOs6uQQOljp3RZC27QK9pTxN128oFSf8ghoqcgNvmRwWDyZRwaAl_iEALw_wcB)**
 
 Discover lightweight fullness and lasting lift with the Nexxus Promend Volumizing Shampoo, crafted with Elastin Protein. This innovative formula strengthens from within, helping to reduce protein loss by up to 80% while supporting natural resilience. In just one minute, it delivers 17X thicker-looking hair with visible 3CM root lift, giving fine or flat strands newfound volume without any heaviness. Each wash restores strength, elasticity, and structure for hair that feels stronger, smoother, and full of life.
 
@@ -64,6 +64,18 @@ Discover lightweight fullness and lasting lift with the Nexxus Promend Volumizin
 **[Hydra Tint Lip Cream from Bindt Beauty](https://bindtbeauty.com/)**
 
 Bindt Beauty’s **Hydra Tint Lip Cream** delivers a seamless blend of hydration and pigment, offering a soft wash of colour that feels effortless yet expressive. Lightweight and comfortable, it fits seamlessly into routines that are constantly in motion - making it an easy, thoughtful essential for mothers who move between roles, responsibilities, and fleeting moments of self-expression.
+
+
+
+![](/assets/images/posts/colousqueencushion.png)
+
+
+
+[Colors Queen’s Red Cushion Foundation](https://colorsqueen.com/products/mask-fit-cushion-foundation)
+
+Colors Queen’s Red Cushion Foundation is a thoughtful Mother’s Day gift that blends convenience with everyday elegance. Designed for quick, fuss-free application, it delivers a smooth, radiant finish while being perfect for on-the-go touch-ups;  its compact case comes  with a built-in mirror and applicator. Its ultra-light, water-like texture melts seamlessly into the skin, creating a natural, second-skin effect. Infused with hydrating ingredients like hibiscus and red propolis, it keeps the skin feeling soft, fresh, and comfortable throughout the day.
+
+
 
 ## For the Fashionista Mom
 
@@ -87,7 +99,7 @@ A tribute to slow fashion and mindful luxury, the Jeena Khadi piece is crafted f
 
 ![](/assets/images/posts/no-nasties-white-ruffle-shirt.jpg)
 
-**[No Nasties White Ruffle Shirt](www.nonasties.in)**
+**[No Nasties Blanc Statement Shirt](www.nonasties.in)**
 
 Crafted from feather-light muslin made from 100% organic cotton, the pieces are soft, breathable, and incredibly gentle on the skin—the kind of fabric you reach for instinctively when the heat rises. Airy and effortless, the collection moves with the body, offering relief from the summer sun while still feeling polished and put together.  “*For me, muslin represents comfort in its purest form. It’s soft, breathable and perfect for our summers. With this edit, we wanted to create something timeless: classic black and white pieces that are fashionable, easy to wear and consciously made with organic cotton”* says, **Apurva Kothari, Founder of No Nasties**
 
