@@ -65,17 +65,11 @@ Discover lightweight fullness and lasting lift with the Nexxus Promend Volumizin
 
 Bindt Beauty’s **Hydra Tint Lip Cream** delivers a seamless blend of hydration and pigment, offering a soft wash of colour that feels effortless yet expressive. Lightweight and comfortable, it fits seamlessly into routines that are constantly in motion - making it an easy, thoughtful essential for mothers who move between roles, responsibilities, and fleeting moments of self-expression.
 
-
-
 ![](/assets/images/posts/colousqueencushion.png)
-
-
 
 [Colors Queen’s Red Cushion Foundation](https://colorsqueen.com/products/mask-fit-cushion-foundation)
 
 Colors Queen’s Red Cushion Foundation is a thoughtful Mother’s Day gift that blends convenience with everyday elegance. Designed for quick, fuss-free application, it delivers a smooth, radiant finish while being perfect for on-the-go touch-ups;  its compact case comes  with a built-in mirror and applicator. Its ultra-light, water-like texture melts seamlessly into the skin, creating a natural, second-skin effect. Infused with hydrating ingredients like hibiscus and red propolis, it keeps the skin feeling soft, fresh, and comfortable throughout the day.
-
-
 
 ## For the Fashionista Mom
 
@@ -90,6 +84,17 @@ Timex Fria Women Blue Rhombus Analog Watch. This stylish watch is perfect for ev
 **[Emra Triple Row Diamond Band by House of Quadri](https://houseofquadri.com/collections/emra/products/emra-triple-row-diamond-band)**
 
 For the mother who appreciates timeless sparkle, the Emra Triple Row Diamond Band is a striking blend of bold design and refined elegance. Featuring horizontally set emerald-cut diamonds in a structured three-row formation, this piece effortlessly transitions from daywear to evening glamour. Available in rose, yellow, and white gold, it’s designed to be stacked or worn solo as a statement of sophistication.
+
+
+
+![](/assets/images/posts/zoorifetaure.png)
+
+
+
+**[Zoori Helix Ring by Hazoorilal Legacy](https://www.hazoorilallegacy.com/collections/zoori/products/zoori-helix-ring-211e13069)**
+A helix-inspired gold ring set with round brilliant-cut diamonds, highlighted by marquise-shaped Pink Sapphires.
+
+
 
 ![](/assets/images/posts/a-line-dress-by-terra-luna.jpg)
 
