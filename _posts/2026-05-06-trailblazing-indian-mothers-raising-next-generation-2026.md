@@ -76,7 +76,7 @@ As a mother and entrepreneur, Renu Kant’s leadership journey reflects a balanc
 
 In many ways, her journey mirrors the essence of modern Indian motherhood balancing leadership with nurturing, ambition with empathy, and growth with grounding values. Through Envi, she continues to shape not just a brand, but a generation that understands beauty as confidence, care, and self-expression.
 
-![](/assets/images/posts/mother-s-day-tenth-dimension-2-.jpeg)
+![](/assets/images/posts/manishamehta2.png)
 
 #### Manisha Mehta: Redefining Motherhood Through Work-Life Joy
 
