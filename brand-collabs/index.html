@@ -1,0 +1,380 @@
+---
+layout: default
+title: Brand Collaborations
+meta_title: Brand Collaborations | The Best List India
+description: Partner with The Best List India. Sponsored content, product placements, social campaigns and custom projects for brands that align with quality and authenticity.
+permalink: /brand-collabs/
+---
+
+<style>
+  /* ── Brand Collabs Page ──────────────────────────────────── */
+
+  .bc-hero {
+    padding: 80px 40px 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+    align-items: end;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .bc-label {
+    font-family: var(--font-sans);
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    opacity: 0.45;
+    margin-bottom: 20px;
+  }
+
+  .bc-hero-title {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(48px, 6vw, 72px);
+    font-weight: 300;
+    line-height: 1.0;
+    letter-spacing: -0.01em;
+    color: var(--black);
+  }
+
+  .bc-hero-title em {
+    font-style: italic;
+    font-weight: 300;
+  }
+
+  .bc-hero-right {
+    padding-bottom: 8px;
+  }
+
+  .bc-hero-desc {
+    font-family: var(--font-sans);
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.75;
+    opacity: 0.75;
+    max-width: 380px;
+    margin-bottom: 32px;
+  }
+
+  .bc-cta-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--black);
+    color: var(--white);
+    padding: 14px 28px;
+    font-family: var(--font-sans);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+
+  .bc-cta-btn:hover { opacity: 0.75; }
+
+  .bc-divider {
+    height: 0.5px;
+    background: rgba(10,10,10,0.12);
+    margin: 0 40px;
+  }
+
+  /* ── Offerings ───────────────────────────────────────────── */
+
+  .bc-offerings {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 70px 40px;
+  }
+
+  .bc-section-label {
+    font-family: var(--font-sans);
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    opacity: 0.4;
+    margin-bottom: 40px;
+  }
+
+  .bc-offerings-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: rgba(10,10,10,0.1);
+    border: 0.5px solid rgba(10,10,10,0.1);
+  }
+
+  .bc-offering-card {
+    background: var(--white);
+    padding: 36px 28px;
+    transition: background 0.25s, color 0.25s;
+  }
+
+  .bc-offering-card:hover {
+    background: var(--black);
+    color: var(--white);
+  }
+
+  .bc-offering-card:hover .bc-offering-num,
+  .bc-offering-card:hover .bc-offering-name,
+  .bc-offering-card:hover .bc-offering-desc {
+    opacity: 1;
+  }
+
+  .bc-offering-num {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 13px;
+    opacity: 0.3;
+    margin-bottom: 24px;
+    font-style: italic;
+  }
+
+  .bc-offering-name {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 12px;
+  }
+
+  .bc-offering-desc {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 1.65;
+    opacity: 0.6;
+  }
+
+  /* ── Audience Strip ──────────────────────────────────────── */
+
+  .bc-audience-strip {
+    background: var(--black);
+    color: var(--white);
+    padding: 60px 40px;
+  }
+
+  .bc-audience-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 80px;
+    align-items: center;
+  }
+
+  .bc-audience-title {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(36px, 4vw, 48px);
+    font-weight: 300;
+    line-height: 1.1;
+    font-style: italic;
+  }
+
+  .bc-audience-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .bc-tag {
+    border: 0.5px solid rgba(250,250,248,0.25);
+    padding: 8px 18px;
+    font-family: var(--font-sans);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: rgba(250,250,248,0.65);
+    font-weight: 300;
+  }
+
+  .bc-audience-note {
+    margin-top: 24px;
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 300;
+    opacity: 0.45;
+    line-height: 1.7;
+  }
+
+  /* ── Contact Section ─────────────────────────────────────── */
+
+  .bc-contact {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 80px 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+    align-items: start;
+  }
+
+  .bc-contact-title {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(40px, 4.5vw, 52px);
+    font-weight: 300;
+    line-height: 1.1;
+  }
+
+  .bc-contact-title em { font-style: italic; }
+
+  .bc-contact-row {
+    padding: 20px 0;
+    border-bottom: 0.5px solid rgba(10,10,10,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .bc-contact-row-label {
+    font-family: var(--font-sans);
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    opacity: 0.4;
+  }
+
+  .bc-contact-row-value {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+  }
+
+  .bc-response-note {
+    margin-top: 28px;
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 300;
+    opacity: 0.45;
+    line-height: 1.6;
+  }
+
+  /* ── Responsive ──────────────────────────────────────────── */
+
+  @media (max-width: 768px) {
+    .bc-hero {
+      grid-template-columns: 1fr;
+      gap: 32px;
+      padding: 48px 24px 40px;
+    }
+
+    .bc-hero-desc { max-width: 100%; }
+
+    .bc-divider { margin: 0 24px; }
+
+    .bc-offerings {
+      padding: 48px 24px;
+    }
+
+    .bc-offerings-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .bc-audience-inner {
+      grid-template-columns: 1fr;
+      gap: 32px;
+    }
+
+    .bc-audience-strip { padding: 48px 24px; }
+
+    .bc-contact {
+      grid-template-columns: 1fr;
+      gap: 40px;
+      padding: 48px 24px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .bc-offerings-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<!-- Hero -->
+<section class="bc-hero">
+  <div class="bc-hero-left">
+    <p class="bc-label">Brand Collaborations</p>
+    <h1 class="bc-hero-title">Partner<br>with <em>India's</em><br>best.</h1>
+  </div>
+  <div class="bc-hero-right">
+    <p class="bc-hero-desc">We partner with brands that align with our values: quality, authenticity, and genuine recommendations. If your brand belongs on a curated list, let's talk.</p>
+    <a href="mailto:kiran@thebestlistindia.com?subject=Brand%20Collab%3A%20[Your%20Brand]" class="bc-cta-btn">Get in touch &nbsp;&#8594;</a>
+  </div>
+</section>
+
+<div class="bc-divider"></div>
+
+<!-- Offerings -->
+<section class="bc-offerings">
+  <p class="bc-section-label">What we offer</p>
+  <div class="bc-offerings-grid">
+    <div class="bc-offering-card">
+      <div class="bc-offering-num">01</div>
+      <div class="bc-offering-name">Sponsored Content</div>
+      <div class="bc-offering-desc">Honest reviews and editorial features woven into our voice.</div>
+    </div>
+    <div class="bc-offering-card">
+      <div class="bc-offering-num">02</div>
+      <div class="bc-offering-name">Product Placements</div>
+      <div class="bc-offering-desc">Seamlessly integrated into our curated lists and roundups.</div>
+    </div>
+    <div class="bc-offering-card">
+      <div class="bc-offering-num">03</div>
+      <div class="bc-offering-name">Social Campaigns</div>
+      <div class="bc-offering-desc">Instagram and Facebook collaborations with real reach.</div>
+    </div>
+    <div class="bc-offering-card">
+      <div class="bc-offering-num">04</div>
+      <div class="bc-offering-name">Custom Projects</div>
+      <div class="bc-offering-desc">Tailored entirely to your brand goals and campaign needs.</div>
+    </div>
+  </div>
+</section>
+
+<!-- Audience Strip -->
+<div class="bc-audience-strip">
+  <div class="bc-audience-inner">
+    <div>
+      <h2 class="bc-audience-title">Our audience trusts us.</h2>
+    </div>
+    <div>
+      <p class="bc-section-label" style="color: rgba(250,250,248,0.4);">Readers who care about</p>
+      <div class="bc-audience-tags">
+        <div class="bc-tag">Fashion</div>
+        <div class="bc-tag">Weddings</div>
+        <div class="bc-tag">Travel</div>
+        <div class="bc-tag">Beauty</div>
+        <div class="bc-tag">Pop Culture</div>
+        <div class="bc-tag">Food</div>
+      </div>
+      <p class="bc-audience-note">They come to us to cut through the noise. When your brand appears here, it appears with editorial credibility.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Contact Section -->
+<section class="bc-contact">
+  <div>
+    <h2 class="bc-contact-title">Let's build<br>something <em>together.</em></h2>
+  </div>
+  <div>
+    <div class="bc-contact-row">
+      <span class="bc-contact-row-label">Email</span>
+      <span class="bc-contact-row-value">kiran@thebestlistindia.com</span>
+    </div>
+    <div class="bc-contact-row">
+      <span class="bc-contact-row-label">Subject line</span>
+      <span class="bc-contact-row-value">Brand Collab: [Your Brand]</span>
+    </div>
+    <div class="bc-contact-row">
+      <span class="bc-contact-row-label">Response time</span>
+      <span class="bc-contact-row-value">2 to 3 business days</span>
+    </div>
+    <p class="bc-response-note">Tell us about your brand and what you have in mind. We'll take it from there.</p>
+  </div>
+</section>
