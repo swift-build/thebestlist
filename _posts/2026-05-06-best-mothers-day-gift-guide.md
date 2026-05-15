@@ -53,11 +53,11 @@ A thoughtful addition to her daily ritual, Teri by Terrapy is a 3-blend function
 
 A nutrient-rich wellness blend combining Green Tea, Ashwagandha, Moringa, and Tulsi. Formulated to support immunity, detoxification, and sustained energy while promoting overall daily balance.
 
-![](/assets/images/posts/promenade.jpeg)
+![](/assets/images/posts/nexxusoil.png)
 
-**[PROMEND VOLUMIZING SHAMPOO](https://nexxus.in/products/promend-oil-resurrection?variant=47702079602930&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gads=pmaxFeed&utm_source=google&utm_medium=cpc&utm_campaign=22667821191&utm_term=&utm_content=&click_id=Cj0KCQjwk_bPBhDXARIsACiq8R3iBqdOs6uQQOljp3RZC27QK9pTxN128oFSf8ghoqcgNvmRwWDyZRwaAl_iEALw_wcB&gad_source=1&gad_campaignid=22667819007&gbraid=0AAAAA_LgzkXImkGNdje92pBUyhN3e3zbu&gclid=Cj0KCQjwk_bPBhDXARIsACiq8R3iBqdOs6uQQOljp3RZC27QK9pTxN128oFSf8ghoqcgNvmRwWDyZRwaAl_iEALw_wcB)**
+**[PROMEND OIL RESURRECTION](https://nexxus.in/products/promend-oil-resurrection?variant=47702079602930&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gads=pmaxFeed&utm_source=google&utm_medium=cpc&utm_campaign=22667821191&utm_term=&utm_content=&click_id=Cj0KCQjwk_bPBhDXARIsACiq8R3iBqdOs6uQQOljp3RZC27QK9pTxN128oFSf8ghoqcgNvmRwWDyZRwaAl_iEALw_wcB&gad_source=1&gad_campaignid=22667819007&gbraid=0AAAAA_LgzkXImkGNdje92pBUyhN3e3zbu&gclid=Cj0KCQjwk_bPBhDXARIsACiq8R3iBqdOs6uQQOljp3RZC27QK9pTxN128oFSf8ghoqcgNvmRwWDyZRwaAl_iEALw_wcB)**
 
-Discover lightweight fullness and lasting lift with the Nexxus Promend Volumizing Shampoo, crafted with Elastin Protein. This innovative formula strengthens from within, helping to reduce protein loss by up to 80% while supporting natural resilience. In just one minute, it delivers 17X thicker-looking hair with visible 3CM root lift, giving fine or flat strands newfound volume without any heaviness. Each wash restores strength, elasticity, and structure for hair that feels stronger, smoother, and full of life.
+Backed by Proteomic and Lipidomic Breakthrough, NEXXUS Oil Resurrection is a transformative hair oil that helps restore virgin hair in just 6 drops. This luxurious formula is enriched with peptide-grade trillion proteins, including keratin, collagen, and elastin, which help replenish damaged cortex and cuticle. It also consists of 89% pure oils, which replenish 1 trillion proteins and lipids to repair severe damage and instantly restore hair to its virgin state.
 
 ![](/assets/images/posts/bindtbeauty.png)
 
@@ -85,16 +85,10 @@ Timex Fria Women Blue Rhombus Analog Watch. This stylish watch is perfect for ev
 
 For the mother who appreciates timeless sparkle, the Emra Triple Row Diamond Band is a striking blend of bold design and refined elegance. Featuring horizontally set emerald-cut diamonds in a structured three-row formation, this piece effortlessly transitions from daywear to evening glamour. Available in rose, yellow, and white gold, it’s designed to be stacked or worn solo as a statement of sophistication.
 
-
-
 ![](/assets/images/posts/zoorifetaure.png)
-
-
 
 **[Zoori Helix Ring by Hazoorilal Legacy](https://www.hazoorilallegacy.com/collections/zoori/products/zoori-helix-ring-211e13069)**
 A helix-inspired gold ring set with round brilliant-cut diamonds, highlighted by marquise-shaped Pink Sapphires.
-
-
 
 ![](/assets/images/posts/a-line-dress-by-terra-luna.jpg)
 
