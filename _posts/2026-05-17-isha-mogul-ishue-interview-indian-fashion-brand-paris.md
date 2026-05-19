@@ -12,6 +12,7 @@ categories:
 tags:
   - Features
   - Fashio
+image: /assets/images/posts/ishue-banner.png
 featured: false
 meta_title: Isha Mogul, founder of Mumbai-based fashion label ISHUE, on
   editorial collections, made-to-order craft, Parisian femininity, Indian
