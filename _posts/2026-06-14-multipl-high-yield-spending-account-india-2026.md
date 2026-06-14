@@ -8,7 +8,7 @@ author: Arvind
 author_image: /assets/images/posts/arvind.jpeg
 categories:
   - Tech
-image: /assets/images/posts/arvind.jpeg
+image: /assets/images/posts/tmvct69f8ku3qj6ooabsfmgs.avif
 featured: false
 meta_title: Your Money Is Working Hard — Except the Money Sitting in Your Savings Account
 excerpt: >
