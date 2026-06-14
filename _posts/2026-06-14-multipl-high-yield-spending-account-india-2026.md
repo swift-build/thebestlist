@@ -15,7 +15,7 @@ excerpt: >
   Most of us spend more time researching a Bluetooth speaker than figuring out
   where our salary sits between payday and spending day. Bengaluru fintech
   Multipl thinks that is a problem worth solving.
-instagram_url: ""
+instagram_url: https://www.instagram.com/multiplmovement/?hl=en
 ---
 Let's be honest.
 
