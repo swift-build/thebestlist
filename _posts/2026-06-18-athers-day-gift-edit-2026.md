@@ -20,49 +20,35 @@ excerpt: >
   what to actually gift him this Father's Day, sourced entirely from homegrown
   Indian brands worth knowing.
 ---
-here is a particular kind of denial that fathers across India specialise in, and it surfaces with great reliability every June. Asked what he might want for Father's Day, he will tell you, with complete conviction, that he wants nothing. That you should save your money. That the thought is enough.
+There is a particular kind of denial that fathers across India specialise in, and it surfaces with great reliability every June. Asked what he might want for Father's Day, he will tell you, with complete conviction, that he wants nothing. That you should save your money. That the thought is enough.
 
 It is not enough. It has never been enough. And the considered gift, the one that suggests you have actually thought about who he is rather than reached for the nearest tie, remains one of the more meaningful gestures available in a relationship that does not always have an easy vocabulary for affection.
 
 This year's edit draws entirely from homegrown Indian brands, because the case for buying well and buying local has never been more persuasive, and because the man being gifted deserves better than something that arrived in bulk from an algorithm.
 
-
-
 ![](/assets/images/posts/image.png)
-
-
 
 **[Buffalo Bone Bar Set – Set of 4 ](https://plateandpeonie.com/collections/barware-glassware/products/buffalo-bone-bar-set-set-of-4)**
 
 For the dad who taught you that a good drink is about more than what's in the glass. This stunning four-piece bar set - jigger, bottle opener, garnish knife, corkscrew - is crafted from buffalo bone and stainless steel. Worthy of every story the two of you have yet to tell. 
 
-**Price:** INR 14,550
-
-
+***Price:** INR 14,550*
 
 ![](/assets/images/posts/timexfatherday.png)
-
-
 
 **Timex Atelier Chronograph Automatic M1a Ti**
 
 The Chronograph Automatic M1a Ti expresses the design philosophy behind Timex Atelier, clarity, restraint, and structural thinking. Housed in a lightweight titanium case with a skeletonized architecture, the case construction itself becomes a defining visual element, emphasizing
 
-Price: INR 209,995 
-
-
+*Price: INR 209,995* 
 
 ![](/assets/images/posts/rc5g171m0095.jpg)
-
-
 
 ##### [Vigore Automatic Men's Watch – Green Dial with Gold-Toned Bracelet](https://luxury.tatacliq.com/roberto-cavalli-vigore-automatic-men-watch-rc5g171m0095/p-mp000000030285570?srsltid=AfmBOor9EVEYofzJrC8s7mh15QhGHZBEG0SIyYsbv_Y2QnuWWSAauHlR)
 
 Designed for those with an appreciation for bold elegance, this edition of the Vigore collection features a striking green dial paired with a gold-toned bracelet and sapphire crystal protection for lasting brilliance. Sophisticated without excess, it captures Roberto Cavalli's signature balance of statement design and timeless luxury, making it an exceptional Father's Day keepsake.
 
-**Price:** INR 46,500
-
-
+*Price: INR 46,500*
 
 ![](/assets/images/posts/10th-vow-mens-ring-2.jpeg)
 
@@ -70,18 +56,18 @@ Designed for those with an appreciation for bold elegance, this edition of the V
 
 A symbol of strength, commitment, and quiet confidence, this diamond-studded gold band is designed for the man who has always been your guiding force. Crafted with timeless elegance and enduring craftsmanship, it’s a meaningful Father’s Day gift that celebrates his legacy. Because some bonds deserve to be worn forever.
 
-**Price:** On request
-
-
+*Price: On request*
 
 ![](/assets/images/posts/eclathomme.webp)
-
-
 
 ##### Homme Weekend Azur Eau de Toilette from Oriflame
 
 A refined masculine fragrance that channels the vibrant Côte d'Azur coastline, as sun-drenched mediterranean notes, elegant woods and salty, mineral leather facets sail on the sea breeze.
-**Price:** INR 3799
+*Price: INR 3799*
+
+
+
+![](/assets/images/posts/gift-guide9.webp)
 
 
 
@@ -89,4 +75,26 @@ A refined masculine fragrance that channels the vibrant Côte d'Azur coastline, 
 
 Crafted from cedar wood and inspired by India’s rich artistic traditions, this Ganjifa chess set is great for long weekend afternoons, strategic battles, and stories shared across the board. Whether your father is a seasoned chess player or simply appreciates beautiful craftsmanship, this set is unique and thoughtful. Bonus points if you challenge him to a match.
 
-*Price: 14,405*
+*Price: INR 14,405*
+
+
+
+![](/assets/images/posts/gift-guide12.webp)
+
+
+
+##### Oura Ring 4
+
+This one’s for the dad who loves data almost as much as he loves reminding everyone he was right. Sleek enough to pass as jewellery and powerful enough to track sleep, recovery and overall wellness, it turns everyday health insights into something genuinely useful. Consider it a subtle nudge toward better habits
+
+*Price: Rs 28,900*
+
+
+
+**The Point of All of It**
+
+The man who insists he wants nothing is, more often than not, a man who has spent decades putting everyone else's wants ahead of his own with such consistency that he has genuinely lost the habit of articulating his. The gift, in this context, is not really about the object. It is about the act of paying attention closely enough to know what he would choose for himself, if he ever allowed himself to choose.
+
+That is, in the end, the only brief any gift guide is really written for.
+
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
