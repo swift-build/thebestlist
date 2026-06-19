@@ -26,17 +26,21 @@ It is not enough. It has never been enough. And the considered gift, the one tha
 
 This year's edit draws entirely from homegrown Indian brands, because the case for buying well and buying local has never been more persuasive, and because the man being gifted deserves better than something that arrived in bulk from an algorithm.
 
+
+
+
+
 ![](/assets/images/posts/image.png)
 
-**[Buffalo Bone Bar Set – Set of 4 ](https://plateandpeonie.com/collections/barware-glassware/products/buffalo-bone-bar-set-set-of-4)**
+##### **[Buffalo Bone Bar Set – Set of 4 ](https://plateandpeonie.com/collections/barware-glassware/products/buffalo-bone-bar-set-set-of-4)**
 
 For the dad who taught you that a good drink is about more than what's in the glass. This stunning four-piece bar set - jigger, bottle opener, garnish knife, corkscrew - is crafted from buffalo bone and stainless steel. Worthy of every story the two of you have yet to tell. 
 
-***Price:** INR 14,550*
+**\*Price:** INR 14,550*
 
 ![](/assets/images/posts/timexfatherday.png)
 
-**Timex Atelier Chronograph Automatic M1a Ti**
+##### **Timex Atelier Chronograph Automatic M1a Ti**
 
 The Chronograph Automatic M1a Ti expresses the design philosophy behind Timex Atelier, clarity, restraint, and structural thinking. Housed in a lightweight titanium case with a skeletonized architecture, the case construction itself becomes a defining visual element, emphasizing
 
@@ -50,9 +54,9 @@ Designed for those with an appreciation for bold elegance, this edition of the V
 
 *Price: INR 46,500*
 
-![](/assets/images/posts/10th-vow-mens-ring-2.jpeg)
+![](/assets/images/posts/whatsapp-image-2026-06-19-at-9.47.41-am.jpeg)
 
-**10th Vow Men Ring from Tenth Dimension**
+##### **10th Vow Men Ring from Tenth Dimension Jewels**
 
 A symbol of strength, commitment, and quiet confidence, this diamond-studded gold band is designed for the man who has always been your guiding force. Crafted with timeless elegance and enduring craftsmanship, it’s a meaningful Father’s Day gift that celebrates his legacy. Because some bonds deserve to be worn forever.
 
@@ -65,11 +69,7 @@ A symbol of strength, commitment, and quiet confidence, this diamond-studded gol
 A refined masculine fragrance that channels the vibrant Côte d'Azur coastline, as sun-drenched mediterranean notes, elegant woods and salty, mineral leather facets sail on the sea breeze.
 *Price: INR 3799*
 
-
-
 ![](/assets/images/posts/gift-guide9.webp)
-
-
 
 ##### Swadesh Ganjifa Cedar Wood Chess Set
 
@@ -77,11 +77,7 @@ Crafted from cedar wood and inspired by India’s rich artistic traditions, this
 
 *Price: INR 14,405*
 
-
-
 ![](/assets/images/posts/gift-guide12.webp)
-
-
 
 ##### Oura Ring 4
 
@@ -89,9 +85,7 @@ This one’s for the dad who loves data almost as much as he loves reminding eve
 
 *Price: Rs 28,900*
 
-
-
-**The Point of All of It**
+##### **The Point of All of It**
 
 The man who insists he wants nothing is, more often than not, a man who has spent decades putting everyone else's wants ahead of his own with such consistency that he has genuinely lost the habit of articulating his. The gift, in this context, is not really about the object. It is about the act of paying attention closely enough to know what he would choose for himself, if he ever allowed himself to choose.
 
