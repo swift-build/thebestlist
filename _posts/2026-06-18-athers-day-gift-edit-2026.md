@@ -64,7 +64,7 @@ A symbol of strength, commitment, and quiet confidence, this diamond-studded gol
 
 ![](/assets/images/posts/eclathomme.webp)
 
-##### Homme Weekend Azur Eau de Toilette from Oriflame
+##### Eclat Homme Weekend Azur Eau de Toilette from Oriflame
 
 A refined masculine fragrance that channels the vibrant Côte d'Azur coastline, as sun-drenched mediterranean notes, elegant woods and salty, mineral leather facets sail on the sea breeze.
 *Price: INR 3799*
