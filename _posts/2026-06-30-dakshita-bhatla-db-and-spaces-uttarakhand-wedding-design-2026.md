@@ -35,6 +35,12 @@ It became clear quite early that the mountains were never our limitation. They b
 
 Today, as we work across India, that foundation still defines us. Everything we have built as a company began here, and I genuinely believe Uttarakhand gave us a perspective that we would not have found anywhere else.
 
+
+
+![](/assets/images/posts/sb-59.jpg)
+
+
+
 **Your work is described as highly personalised and design-led. In a wedding industry that can lean heavily on formula and spectacle, what does it actually mean to lead with design, and how does that change the entire planning process?**
 
 When we say we are design-led, we are talking about the creative direction. As architects and interior designers, we naturally think about spaces, proportions, movement, scale and how people experience an environment. That is how every design begins.
@@ -56,6 +62,12 @@ Our process has always been to become a part of the family. We spend time unders
 Of course, when you are planning a wedding for someone like Sejal and Bharat or Aashna and Aditya, you know the celebration will eventually be seen by millions of people. That certainly brings a greater responsibility and a higher standard of execution because every detail will be noticed. But it never changes our approach.
 
 We do not create weddings for the audience. We create weddings for the people getting married and for the families who have trusted us with one of the most important celebrations of their lives. If that authenticity resonates with the world later, that is the outcome we hope for.
+
+
+
+![](/assets/images/posts/img_1782.jpg)
+
+
 
 **Uttarakhand as a wedding destination has its own very specific character, the light, the landscape, the pace of it. How do you design celebrations that feel native to that environment rather than simply transplanted into it?**
 
@@ -86,6 +98,12 @@ But if I had to choose one milestone that no award could ever replace, it would 
 There are moments when, weeks or even months later, parents send us a video message or call us just to tell us how they felt about the journey and how those few days became some of the most cherished memories of their lives. By then, the wedding is over, everyone has gone back to their routines, and there is no obligation for them to reach out. The fact that they still take that time means everything to us.
 
 Those moments cannot be measured by a trophy or a title. They remind us that we were not just planning an event, we became a small part of one of the most important chapters in a family's life. That feeling is the most meaningful recognition we could ever receive, and it continues to inspire us to outdo ourselves with every celebration.
+
+
+
+![](/assets/images/posts/img_1502.jpg)
+
+
 
 **You work with couples who have chosen Uttarakhand specifically, for the mountains, the intimacy, the escape from the obvious. What do people find in a destination wedding here that they did not know they were looking for until they arrived?**
 
@@ -123,4 +141,4 @@ Imagine a celebration on the white coastline of Greece where every guest arrives
 
 To me, that is the future of destination weddings. Not adding more elements, but creating one immersive world where every person, every detail and every space belongs to the same story. That is a wedding I would absolutely love to design.
 
-*Follow Best List India for the culture, conversations, and ideas worth paying attention to.*
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
