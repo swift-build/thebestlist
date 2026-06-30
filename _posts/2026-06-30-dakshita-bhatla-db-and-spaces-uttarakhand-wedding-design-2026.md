@@ -2,7 +2,7 @@
 layout: post
 draft: false
 title: "Dakshita Bhatla of DB and Spaces: How an Architect Built India's Most
-  Sought-After Mountain Wedding Firm"
+  Sought-After Destination Wedding Firm"
 slug: dakshita-bhatla-db-and-spaces-uttarakhand-wedding-design-2026
 date: 2026-06-30 17:10:00 +0530
 author: Kiran
