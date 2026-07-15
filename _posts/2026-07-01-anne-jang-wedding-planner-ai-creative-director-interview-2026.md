@@ -10,6 +10,7 @@ categories:
   - Weddings
 tags:
   - Wedding Planning
+image: /assets/images/posts/tbl-banner-anne-jang.png
 featured: false
 meta_title: "Anne Jang, Wedding Creative Director: On AI, Floral Artistry and
   the Future of Luxury Celebrations"
@@ -25,11 +26,7 @@ There are creatives who arrive at their calling in a straight line, and there ar
 
 From a young age, I was always drawn to wedding dresses. I used to sketch them constantly. Then life moved on and I forgot about it for a while. But everything changed when I came across Martha Stewart Weddings magazine. It completely pulled me into the world of creative weddings. It was not just an inspiration. It showed me, clearly, the direction of what I wanted to do with my life.
 
-
-
 ![](/assets/images/posts/annejang.jpg)
-
-
 
 **You began as a graphic designer before becoming a wedding planner and creative director. Today, you also work with AI. How has your creative process evolved across these three worlds, from design to physical space to digital imagination?**
 
@@ -43,12 +40,6 @@ Ryohan and I work together on creative directing and planning. We each paint the
 
 A wedding concept should never be random. When the bride and groom's own story is woven into the experience, the ceremony becomes truly moving, and guests do not just attend, they feel like they are part of that love story. That is why I always make it a point to blend the couple's personal narrative with my own creative vision. That combination is what makes a wedding feel genuinely meaningful.
 
-
-
-
-
-
-
 **You are among the few planners actively championing AI in wedding design. What drew you to it early, and what did you see in it that others perhaps did not?**
 
 My introduction to AI was honestly completely by chance. Before becoming a wedding planner, I worked as a graphic designer, so I have always had a deep passion for visuals. When I first discovered AI image generation, I was instantly hooked. The more I explored it, the more naturally it connected to my work as a wedding planner. What really captivated me was the ability to take an idea that seemed impossible or unrealistic and make it look tangible, real, right in front of you. That is how I started with AI artwork, not because someone told me to, but because I fell in love with it on my own.
@@ -56,6 +47,12 @@ My introduction to AI was honestly completely by chance. Before becoming a weddi
 **Practically speaking, how does AI fit into your workflow today? Is it about ideation, visualisation, client communication, or something more transformative?**
 
 AI is with me at virtually every stage of my work, from the very first spark of an idea all the way through to programmes, timelines, and design. Honestly, the days of working without AI already feel like a distant memory.
+
+
+
+![](/assets/images/posts/472751364_18479187778015197_5785347906699714206_n.jpg)
+
+
 
 **Do you think AI is misunderstood within the wedding industry? What are most planners getting wrong about it right now?**
 
@@ -76,6 +73,14 @@ AI has played a meaningful role in helping organise the concept and story behind
 **What do couples consistently underestimate, not just about luxury weddings, but about the role of technology and pre-visualisation in bringing them to life?**
 
 A lot of couples assume that wedding design is as simple as producing an image, and that it therefore should not cost very much. But what they consistently underestimate is how much time, expertise, and investment it actually takes to turn that vision into reality. The gap between a beautiful image and a beautifully executed wedding is bigger than most people expect.
+
+
+
+![](/assets/images/posts/719613043_18595223413015197_764518189265441776_n.jpg)
+
+![](/assets/images/posts/724239094_18595223338015197_7637633327738437635_n.jpg)
+
+
 
 **For planners who are hesitant: why do you believe embracing AI is no longer optional, but essential?**
 
