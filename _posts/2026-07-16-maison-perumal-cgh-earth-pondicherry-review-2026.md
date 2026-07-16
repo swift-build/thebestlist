@@ -13,20 +13,16 @@ featured: true
 meta_title: "Maison Perumal CGH Earth Pondicherry Review 2026: The Heritage
   Hotel Worth Every Rupee"
 excerpt: Tucked into the Tamil quarter of Pondicherry, Maison Perumal is a
-  130-year-old Chettiar mansion that CGH Earth has turned into one of India's
+  140-year-old Chettiar mansion that CGH Earth has turned into one of India's
   most quietly extraordinary boutique hotels. A review.
 ---
 There is a particular kind of hotel that does not announce itself from the street. No grand porte-cochere, no uniformed doorman visible from a distance, no architectural gesture designed to signal arrival. Maison Perumal, tucked into a quiet lane in the Tamil quarter of Pondicherry, is precisely this kind of hotel, and the restraint of its exterior is the first indication that what lies inside has been thought about with considerably more care than most properties bring to the question of first impressions.
 
-Step through the entrance and the 130-year-old Chettiar mansion reveals itself slowly, as old houses do: the central courtyard with its small pond and the particular quality of light that only an open-to-sky interior produces, the cool Cuddapah stone underfoot, the teak furniture that carries the weight of another era without feeling like a museum exhibit, the swing in the reception area that invites a pause before you have even reached the desk. The walls rotate as a gallery for local artists. The library is small but considered. The welcome drink arrives before you have had a chance to ask for one.
+Step through the entrance and the 140-year-old Chettiar mansion reveals itself slowly, as old houses do: the central courtyard with its small pond and the particular quality of light that only an open-to-sky interior produces, the cool Cuddapah stone underfoot, the teak furniture that carries the weight of another era without feeling like a museum exhibit, the swing in the reception area that invites a pause before you have even reached the desk. The walls rotate as a gallery for local artists. The library is small but considered. The welcome drink arrives before you have had a chance to ask for one.
 
 CGH Earth, the hospitality group behind Maison Perumal, has built its reputation on the principle that a property's identity should emerge from where it is and what it was, rather than being imposed upon it from outside. At Maison Perumal, that philosophy is visible in every material choice and spatial decision. The mansion has been restored rather than renovated, a distinction that matters enormously when the building in question has the particular character of a prosperous Tamil Chettiar home from the late nineteenth century.
 
-
-
 ![](/assets/images/posts/3f4e4de8.avif)
-
-
 
 **The Rooms**
 
@@ -34,11 +30,7 @@ Maison Perumal offers three room categories, and the rooms facing the courtyard 
 
 The rooms are not large by the standards of a five-star city hotel, and guests who come expecting that kind of scale will need to recalibrate their expectations before arriving. What Maison Perumal offers instead is something that most five-star hotels cannot replicate: a room that exists within a house with genuine history, where the proportions and materials and light have been shaped by a century of habitation rather than a brief from a design firm.
 
-
-
 ![](/assets/images/posts/741f380d.webp)
-
-
 
 **The Dining**
 
@@ -48,11 +40,7 @@ Breakfast sets the tone: a quality that guests consistently single out, with a r
 
 The menu leans vegetarian, as befits the Chettiar tradition, though the kitchen accommodates dietary preferences with care. The fixed-menu format may feel limiting to guests who prefer broader choice, but the kitchen's commitment to what it does well makes the constraint easier to accept than it might sound in advance.
 
-
-
 ![](/assets/images/posts/d1512da1311de7b378dcf2800df9fcc6.avif)
-
-
 
 **The Experience**
 
@@ -66,11 +54,7 @@ Pondicherry's heat and humidity are significant from March through June, and the
 
 The rates, while reasonable for what the property offers, reflect a genuine quality of restoration and service rather than the economies of a budget stay. Those who arrive expecting a five-star resort will find a different kind of experience entirely. Those who arrive understanding what a thoughtfully conserved heritage mansion with exceptional food and genuine hospitality actually means will find it delivered here with a consistency that is, in the Indian boutique hotel landscape, genuinely rare.
 
-
-
 ![](/assets/images/posts/20170615170651pmmaisonperumalgardencourtyard.jpg)
-
-
 
 **The Verdict**
 
