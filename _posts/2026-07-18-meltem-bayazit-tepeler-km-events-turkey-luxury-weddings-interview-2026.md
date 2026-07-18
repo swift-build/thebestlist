@@ -31,13 +31,9 @@ I actually started in this industry 31 years ago, at a time when this sector was
 
 What made me stay is that every project is unique. Every couple has a different story, and every celebration is a new opportunity to create something meaningful. That constant evolution, combined with my passion for what I do, is what continues to inspire me today.
 
-
-
 ![](/assets/images/posts/bayramda-sevdiklerinize-km-home-collection’ın-bahar-koleksiyonundan-mavi-pamuklu-amerikan-serv.jpg)
 
 ![](/assets/images/posts/bayramda-sevdiklerinize-km-home-collection’ın-bahar-koleksiyonundan-mavi-pamuklu-amerikan-serv-1-.jpg)
-
-
 
 **Your work is often recognised for its attention to detail and refined aesthetic. How would you describe your design language in your own words?**
 
@@ -55,11 +51,7 @@ For me, a table is not just about decoration. It is about creating a feeling. Ev
 
 In that sense, tablescapes allow us to go beyond visuals and create a deeper connection with guests, turning a simple setting into a meaningful and memorable part of the event.
 
-
-
 ![](/assets/images/posts/3n6a5177-2048x1366.jpg)
-
-
 
 **Your Table Design Exhibition is exceptional and sets you apart in the industry. What inspired you to create an entire platform dedicated to table design, and what were you trying to express through it?**
 
@@ -77,11 +69,7 @@ It is about creating an experience where guests can connect with the design on a
 
 The Table Design Exhibition is one of the few spaces where table design goes beyond function and becomes a form of personal and creative expression, allowing each designer to tell their own story in a very distinctive way.
 
-
-
 ![](/assets/images/posts/burçin-ve-i̇lhan-için-km-events’in-rengarenk-çiçeklerle-tasarladığı-geçtiğimiz-haftasonu-rixos-.jpg)
-
-
 
 **There is always a gap between what a client imagines and what is possible. How do you manage that conversation while still protecting your creative vision?**
 
@@ -107,11 +95,7 @@ What truly stays with me is the feeling of being part of such important moments 
 
 In that sense, every wedding and celebration becomes unforgettable for me, not just because of the design, but because of the emotions and memories we create together.
 
-
-
 ![](/assets/images/posts/image-439.jpg)
-
-
 
 **You work at a level where detail is everything. What do clients consistently underestimate about that level of precision?**
 
@@ -129,11 +113,7 @@ This can be done by creating smaller, cosy moments within the bigger setup, thro
 
 At the end of the day, intimacy is not about the size of the event, but about how it feels. When every detail is carefully considered, even the biggest celebration can still feel warm and personal.
 
-
-
 ![](/assets/images/posts/✨a-fairytale-wedding-with-magical-touches-of-km-events-for-cansu-mert-at-ciragan-palace-kempin.jpg)
-
-
 
 **Trends in weddings and events are constantly evolving. How do you stay ahead without losing your signature style?**
 
@@ -149,4 +129,4 @@ There is also a growing focus on creating immersive experiences where design, fo
 
 In simple terms, true luxury will be about authenticity, thoughtful details, and creating unique experiences that guests will truly remember.
 
-*Follow Best List India for the culture, conversations, and ideas worth paying attention to.*
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
