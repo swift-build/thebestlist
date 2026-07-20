@@ -61,6 +61,10 @@ From the beginning, the vision was to create a space where designers could commu
 
 At the same time, the project was designed with the future of the industry in mind. Through the exhibition and conference elements, it offers inspiration and insight for the younger generation interested in entering the field. And with its B2B component, it creates valuable networking opportunities, bringing together professionals, brands, and emerging talents in one dynamic environment.
 
+That vision comes to life once again this year, when the [Table Design Exhibition](https://www.instagram.com/tabledesignexhibition/?hl=en) returns from 23 to 25 March 2027, hosted at the Mandarin Oriental Bosphorus, Istanbul.
+
+
+
 **Exhibition tables are traditionally about display, but your work turns them into immersive experiences. How do you approach designing a table that goes beyond function and becomes a narrative space?**
 
 I approach table design as more than just a visual setup. It is a storytelling platform. Every table should have a concept, a mood, and a narrative that invites people to feel something, not just see it. I start by understanding the story behind the design and then translate that into layers, through materials, colours, textures, lighting, and even the smallest details.
