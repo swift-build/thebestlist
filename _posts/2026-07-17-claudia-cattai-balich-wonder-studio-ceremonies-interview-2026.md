@@ -23,7 +23,7 @@ There is a category of creative professional that most people encounter only as 
 
 ![](/assets/images/posts/07f1f80819cda293aaed6d8ac332ae5f.jpg)
 
-*Opening ceremony of the 2026 FIFA World Cup at Mexico City Stadium*
+
 
 **You have spent over two decades working on some of the world's largest live productions. What does that kind of scale teach you that smaller events never could?**
 
@@ -51,7 +51,7 @@ At the same time, authenticity is essential. A ceremony should never become gene
 
 ![](/assets/images/posts/balich-wonder-studio-ceremonies-rio-2016-opening-ceremony-pyro-lights-colors.jpg)
 
-*Rio Olympics 2016 Opening ceremony* 
+
 
 **There is always a gap between vision and reality. At the level you operate, that gap involves governments, international committees, and massive production systems. How do you manage that complexity?**
 
@@ -69,7 +69,9 @@ A strong creative idea must already contain an understanding of space, timing, a
 
 The real challenge is preserving the emotional impact of an idea throughout the entire process. Because no matter how complex a production becomes technically, audiences will always remember how the experience made them feel.
 
-![](/assets/images/posts/_o2i6773.jpg)
+![](/assets/images/posts/balichwonderstudio11.jpg)
+
+
 
 **Balich Wonder Studio is known for creating emotionally powerful experiences. What does emotion mean when your audience is not a room of 300, but millions watching globally?**
 
@@ -103,7 +105,9 @@ People see a few minutes of ceremony, but behind that there can be years of plan
 
 Large-scale ceremonies are not only technical systems. They are human systems. And what truly makes them successful is often the trust, resilience, and collaboration happening behind the scenes.
 
-![](/assets/images/posts/_o9a5745.jpg)
+![](/assets/images/posts/balichwonderstudio22.jpg)
+
+
 
 **Large-scale ceremonies often appear seamless to the audience. What does it actually take behind the scenes to make something feel effortless?**
 
