@@ -9,7 +9,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Weddings
-image: /assets/images/posts/tbl-banner-claudia-cattai.png
+image: /assets/images/posts/tbl-banner-balich.png
 featured: false
 meta_title: "Claudia Cattai, Balich Wonder Studio: On Designing Global
   Ceremonies, Human Connection and the Future of Live Events"
@@ -17,17 +17,13 @@ excerpt: She has spent over two decades designing ceremonies at Olympic scale.
   Claudia Cattai, Director of the Ceremonies Unit at Balich Wonder Studio, on
   emotion as a universal language, the human effort behind the effortless
   moment, and why India's celebrations speak to everything she believes in.
-instagram_url: ""
+instagram_url: https://www.instagram.com/balichwonderstudio/?hl=en
 ---
 There is a category of creative professional that most people encounter only as the result of their work: the opening ceremony that makes an entire stadium hold its breath, the closing moment that becomes the cultural image of a games, a nation, a particular chapter of collective memory. Claudia Cattai, Director of the Ceremonies Unit at Balich Wonder Studio, works at precisely this level, and has done so for more than two decades. Her productions have played to audiences not of hundreds but of billions, across cultures and languages that share nothing except the capacity to be moved. We spoke with her about what scale teaches you that intimacy cannot, why emotion is the only truly universal language, and what she sees in the Indian tradition of celebration that resonates with everything she has spent her career building toward.
-
-
 
 ![](/assets/images/posts/07f1f80819cda293aaed6d8ac332ae5f.jpg)
 
 *Opening ceremony of the 2026 FIFA World Cup at Mexico City Stadium*
-
-
 
 **You have spent over two decades working on some of the world's largest live productions. What does that kind of scale teach you that smaller events never could?**
 
@@ -53,13 +49,9 @@ When we design global ceremonies, we look for themes that are universally human:
 
 At the same time, authenticity is essential. A ceremony should never become generic in the attempt to feel universal. The strongest global events are deeply rooted in the identity, culture, and spirit of the host country while remaining emotionally accessible to the world.
 
-
-
 ![](/assets/images/posts/balich-wonder-studio-ceremonies-rio-2016-opening-ceremony-pyro-lights-colors.jpg)
 
 *Rio Olympics 2016 Opening ceremony* 
-
-
 
 **There is always a gap between vision and reality. At the level you operate, that gap involves governments, international committees, and massive production systems. How do you manage that complexity?**
 
@@ -77,11 +69,7 @@ A strong creative idea must already contain an understanding of space, timing, a
 
 The real challenge is preserving the emotional impact of an idea throughout the entire process. Because no matter how complex a production becomes technically, audiences will always remember how the experience made them feel.
 
-
-
-![](/assets/images/posts/balich-wonder-studio-immersive-shows-superlive-limitless-theatre.jpg)
-
-
+![](/assets/images/posts/_o2i6773.jpg)
 
 **Balich Wonder Studio is known for creating emotionally powerful experiences. What does emotion mean when your audience is not a room of 300, but millions watching globally?**
 
@@ -115,11 +103,7 @@ People see a few minutes of ceremony, but behind that there can be years of plan
 
 Large-scale ceremonies are not only technical systems. They are human systems. And what truly makes them successful is often the trust, resilience, and collaboration happening behind the scenes.
 
-
-
-![](/assets/images/posts/guccifall1-12909-800x450.jpg)
-
-
+![](/assets/images/posts/_o9a5745.jpg)
 
 **Large-scale ceremonies often appear seamless to the audience. What does it actually take behind the scenes to make something feel effortless?**
 
