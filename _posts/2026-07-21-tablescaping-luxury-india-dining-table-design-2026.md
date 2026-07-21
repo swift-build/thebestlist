@@ -26,25 +26,17 @@ India's relationship with the dining table has undergone a transformation so com
 
 That has changed, quietly and then loudly, over the last several years. And the shift reveals something interesting about where Indian luxury is going.
 
-
-
 ![](/assets/images/posts/copy-of-aashna-saran-decor-190.jpg)
-
-
 
 #### **The Table as Destination**
 
-**Aashna Saran, founder and creative director of Aash Studio**, has been watching this transformation from the inside. Her observation is precise: the tablescape has moved from being a functional layer of décor to becoming one of the most important storytelling elements of an event.
+***Aashna Saran, founder and creative director of Aash Studio***, has been watching this transformation from the inside. Her observation is precise: the tablescape has moved from being a functional layer of décor to becoming one of the most important storytelling elements of an event.
 
 What is equally interesting, she notes, is that the table itself has been redefined in the process. It no longer refers only to a traditional sit-down dining setup. A beautifully styled dessert station, a champagne bar, a grazing table, a welcome installation: any interactive surface where guests naturally gather and spend time has become a destination within an event, a place where people linger, interact, photograph, and connect.
 
 Five years ago, many clients viewed tablescapes as an add-on. Today, they see them as central to the mood, memory, and visual identity of the celebration. The table is no longer where the party is hosted. It is where the party happens.
 
-
-
 ![](/assets/images/posts/copy-of-aashna-saran-decor-177.jpg)
-
-
 
 #### **What Luxury Actually Means Here**
 
@@ -54,11 +46,7 @@ As Saran puts it, a truly luxurious tablescape is not defined by cost. Expensive
 
 The golf-themed table that Aash Studio created for a recent private celebration is instructive here. Rather than interpreting the theme literally, the team transformed the table into a refined miniature landscape: a lush green runner recreating the fairway, textured grass, sand bunkers, subtle red flags, and golf balls woven naturally into sculptural floral arrangements and moss. It was conceptual without being laboured, specific without being obvious, and beautiful in a way that revealed itself slowly rather than announcing itself immediately. That quality of slow revelation, where guests notice the details gradually, the texture of the linen, the shape of the glass, the softness of the florals, the way the candlelight falls, is precisely what distinguishes a designed table from a decorated one.
 
-
-
 ![](/assets/images/posts/copy-of-aashna-saran-decor-47.jpg)
-
-
 
 #### **The Objects That Matter**
 
@@ -68,11 +56,7 @@ Handcrafted ceramics, unique charger plates, textured linens, statement glasswar
 
 What unites the most sought-after objects is the quality that has always defined the best things in any category: they have a story. Something handmade, limited, inherited, locally crafted, or designed specifically for the occasion carries a weight that a catalogue purchase cannot approach. That sense of rarity and individuality is what makes the table feel truly special, and it is what the Indian host investing seriously in this space is reaching for.
 
-
-
 ![](/assets/images/posts/copy-of-aashna-saran-decor-125.jpg)
-
-
 
 #### **The Festive Table, Reimagined**
 
