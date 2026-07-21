@@ -22,8 +22,6 @@ India's boutique hotel moment has been building for a decade and has now arrived
 
 Here are five that are making that argument exceptionally well, and that most itineraries have not yet found their way to.
 
-
-
 ![](/assets/images/posts/c5grde9iso37.jpg)
 
 ![](/assets/images/posts/80382fd2b23600568f6a6e4a7638032af89ee192-1920x1277.avif)
@@ -34,10 +32,6 @@ Madhya Pradesh's Kanha Tiger Reserve is among India's most storied wildlife dest
 
 The tented camp format has been executed here with the understanding that canvas and luxury are not in tension but in conversation: the tents are large, beautifully furnished, and positioned in the riverine forest with a care for privacy and view that reflects serious site planning. The game drives into Kanha are led by naturalists whose knowledge of the reserve is genuinely impressive, and the evenings around the fire, with the sounds of the forest doing what forest sounds do in the absence of ambient noise, produce the particular quality of stillness that is the real luxury of the Indian wildlife experience.
 
-
-
-
-
 ![](/assets/images/posts/qiwbp7qzeu4pxwiqitvm.webp)
 
 ![](/assets/images/posts/davmi2jnnnkckjt03fwy.webp)
@@ -45,8 +39,6 @@ The tented camp format has been executed here with the understanding that canvas
 #### **SaffronStays AsanjA Titaly, Murbad**
 
 SaffronStays AsanjA, fondly known as the “Hobbit Home of India,” brings fantasy to life with its unique earth-sheltered design. This sustainable 2-bedroom villa features a private pool, lush green surroundings, and breathtaking views that make every moment feel magical. Thoughtfully crafted for tranquility and charm, AsanjA offers an enchanting countryside escape where comfort meets imagination.
-
-
 
 ![](/assets/images/posts/you-can-explore-chettinad.jpg)
 
@@ -58,11 +50,9 @@ The Chettinad region of Tamil Nadu contains some of the most extraordinary domes
 
 The property, housed in a restored Chettiar mansion, operates with the intelligence that CGH Earth brings consistently to its heritage properties: a deep respect for the building's original character, a dining programme rooted in the specific and magnificent cuisine of the Chettinad tradition, and a scale of operation that keeps the experience intimate enough to actually feel like staying in a house rather than a hotel. The town of Kanadukathan itself, with its neighbouring mansions and the particular quality of life visible in its lanes, is a destination that most Indian travellers have not yet made their way to. Visalam makes the journey not just worthwhile but necessary.
 
-
-
 ![](/assets/images/posts/swimming-pool.webp)
 
-![](/assets/images/posts/_log_hut-_stay_in_bandipur-_the_serai_bandipur-__luxury_resorts_in_bandipur_.avif)
+![](/assets/images/posts/log_hut-_stay_in_bandipur-_the_serai_bandipur-__luxury_resorts_in_bandipur_.avif)
 
 #### **The Serai Resorts, Bandipur**
 
@@ -70,21 +60,15 @@ The edge of a tiger reserve is a specific kind of address, and what a property d
 
 The property offers jungle safaris into the reserve, guided bird trails, nature walks, and cycling trails through the surrounding landscape, a range of engagement with the forest that allows guests to calibrate their relationship with the outdoors rather than being funnelled into a single prescribed experience. The result is a stay that feels genuinely connected to the ecosystem it sits within, which is rarer in Indian wildlife hospitality than the marketing of most properties would suggest.
 
-
-
 ![](/assets/images/posts/mihir-garh_slider-images-7.jpg)
 
 ![](/assets/images/posts/suites-img.jpg)
 
-
-
-#### **Mihir Garh, Rohet** 
+#### **Mihir Garh, Rohet**
 
 There is a particular category of hotel that manages to feel ancient without being old, and Mihir Garh, a purpose-built fort-style property in the village of Rohet outside Jodhpur, is among the finest examples of it in India. Nine suites, each one distinct in its layout and ornamentation, are arranged within a structure that draws so completely from the architectural vocabulary of Rajput fortification that the question of when it was built becomes irrelevant almost immediately after arrival. What matters is how it feels: thick walls, deep-set windows, the particular quality of shadow and light that only masonry of serious weight produces.
 
 The food at Mihir Garh is exceptional, grounded in the culinary traditions of the region and prepared with an attention to ingredient quality that the property's relatively remote setting makes more impressive rather than less. But the defining experience here is the equestrian programme, widely considered the finest of its kind in India. Rides through the surrounding countryside and into the Thar landscape, led by guides who understand both the horses and the terrain with the ease of genuine expertise, produce a relationship with the Rajasthani landscape that a jeep safari or a walking tour simply cannot replicate. For the traveller who arrives on horseback into a village that has seen this particular kind of visitor for generations, the distance between tourism and travel briefly, memorably, disappears.
-
-
 
 #### **What These Properties Share**
 
