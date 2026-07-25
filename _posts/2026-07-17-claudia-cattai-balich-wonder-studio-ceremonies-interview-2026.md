@@ -23,6 +23,12 @@ There is a category of creative professional that most people encounter only as 
 
 ![](/assets/images/posts/20260704-2898-scaled.jpg)
 
+*FIFA World Cup 2026 Fourth of July Pre-Match Ceremonies I Philadelphia & Houston*
+
+
+
+
+
 **You have spent over two decades working on some of the world's largest live productions. What does that kind of scale teach you that smaller events never could?**
 
 Scale teaches you humility. Very quickly, you understand that no great production is ever created by one person alone.
@@ -49,6 +55,12 @@ At the same time, authenticity is essential. A ceremony should never become gene
 
 ![](/assets/images/posts/balich-wonder-studio-ceremonies-rio-2016-opening-ceremony-pyro-lights-colors.jpg)
 
+*RIO 2016 | Olympic Opening Ceremony*
+
+
+
+
+
 **There is always a gap between vision and reality. At the level you operate, that gap involves governments, international committees, and massive production systems. How do you manage that complexity?**
 
 Complexity becomes manageable when people feel aligned and respected.
@@ -66,6 +78,12 @@ A strong creative idea must already contain an understanding of space, timing, a
 The real challenge is preserving the emotional impact of an idea throughout the entire process. Because no matter how complex a production becomes technically, audiences will always remember how the experience made them feel.
 
 ![](/assets/images/posts/_o9a5745.jpg)
+
+*FIFA World Cup 2026 Opening Ceremony I Mexico City*
+
+
+
+
 
 **Balich Wonder Studio is known for creating emotionally powerful experiences. What does emotion mean when your audience is not a room of 300, but millions watching globally?**
 
@@ -100,6 +118,12 @@ People see a few minutes of ceremony, but behind that there can be years of plan
 Large-scale ceremonies are not only technical systems. They are human systems. And what truly makes them successful is often the trust, resilience, and collaboration happening behind the scenes.
 
 ![](/assets/images/posts/balichwonderstudio22.jpg)
+
+*FIFA World Cup 2026 Closing Ceremony I New York New Jersey*
+
+
+
+
 
 **Large-scale ceremonies often appear seamless to the audience. What does it actually take behind the scenes to make something feel effortless?**
 
