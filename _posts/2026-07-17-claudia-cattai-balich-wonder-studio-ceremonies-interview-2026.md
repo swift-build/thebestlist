@@ -21,7 +21,7 @@ instagram_url: https://www.instagram.com/balichwonderstudio/?hl=en
 ---
 There is a category of creative professional that most people encounter only as the result of their work: the opening ceremony that makes an entire stadium hold its breath, the closing moment that becomes the cultural image of a games, a nation, a particular chapter of collective memory. Claudia Cattai, Director of the Ceremonies Unit at Balich Wonder Studio, works at precisely this level, and has done so for more than two decades. Her productions have played to audiences not of hundreds but of billions, across cultures and languages that share nothing except the capacity to be moved. We spoke with her about what scale teaches you that intimacy cannot, why emotion is the only truly universal language, and what she sees in the Indian tradition of celebration that resonates with everything she has spent her career building toward.
 
-![](/assets/images/posts/07f1f80819cda293aaed6d8ac332ae5f.jpg)
+![](/assets/images/posts/20260704-2898-scaled.jpg)
 
 **You have spent over two decades working on some of the world's largest live productions. What does that kind of scale teach you that smaller events never could?**
 
@@ -65,7 +65,7 @@ A strong creative idea must already contain an understanding of space, timing, a
 
 The real challenge is preserving the emotional impact of an idea throughout the entire process. Because no matter how complex a production becomes technically, audiences will always remember how the experience made them feel.
 
-![](/assets/images/posts/20260704-2898-scaled.jpg)
+![](/assets/images/posts/_o9a5745.jpg)
 
 **Balich Wonder Studio is known for creating emotionally powerful experiences. What does emotion mean when your audience is not a room of 300, but millions watching globally?**
 
