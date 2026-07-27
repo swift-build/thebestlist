@@ -78,6 +78,52 @@ Flowers are important, but they are not treated as the only hero. Sometimes the 
 
 That balance, between the considered and the liveable, between the designed and the inhabited, is what the best Indian tablescaping is currently working out how to maintain as the ambition of the form continues to grow.
 
+
+
+#### **Where to Find It**
+
+For the host ready to build their own considered table, a few starting points across the categories that matter most.
+
+
+
+![](/assets/images/posts/simon_table_runner_1800_x_1200_2.jpg)
+
+
+
+**Linens.** [The Simon Table Runner from House of Things](https://thehouseofthings.com/simon-table-runner.html) is a  double-sided reversible table runner featuring bold striped cotton on one side and off-white linen on the other, beautifully adorned with intricate floral embroidery throughout. Finished with a dark green cotton lace trim, it adds an elegant touch to any tablescape.
+
+![](/assets/images/posts/ah21245a_793c7cd3-0818-4ac1-b1ab-18d6d60c7961_1400x.webp)
+
+
+
+**Ceramics and Charger Plates.** Inspired by the grandeur of Roman Palaces, the [Medicci Dinner Plate](https://addresshome.com/products/medicci-gold-platinum-dinner-plate-set-of-2) evokes the timeless elegance of a royal heritage. Crafted in fine porcelain with intricate motifs & medallions placed on linear geometry, it brings a modern touch to your entertaining.
+
+![](/assets/images/posts/ntmf4tjkv3d894qkbvwe.webp)
+
+
+
+**Glassware.** [Casarialto ](https://www.abask.com/collections/casarialto)Fishtail Hand-Blown Murano Glass Water Jug, a favourite among tablescape designers adds refined elegance and curiosity
+
+
+
+![](/assets/images/posts/jayporecandlestand.webp)
+
+
+
+**Silver and Candle Stands.** This exquisite piece of craftsmanship from Jaypore  comes from their Curated Classics collection. Bring home a piece of modern Indian aesthetic, reflecting crafts.
+
+
+
+![](/assets/images/posts/irraliivingcenterpice.png)
+
+
+
+**Handcrafted Centerpieces:** Elevate every table with [IRRA Luxury Living's](https://irraluxury.com/products/palace-bowl) curated collection of handcrafted centrepieces. Crafted in premium metal with fine silver plating, the collection features sculptural bowls and statement accents that bring timeless elegance to dining tables, coffee tables and consoles. Designed to complement both contemporary and classic interiors, these pieces celebrate modern entertaining through
+
+The through-line across all of it: choose pieces with provenance over pieces with polish. The table remembers the difference, even if the guest cannot immediately say why.
+
+
+
 #### **The Larger Point**
 
 The elevation of the Indian dining table as a design object is not simply a decorating trend. It is a cultural statement about what hospitality means in 2026, and about the kind of host the Indian luxury consumer is becoming.
