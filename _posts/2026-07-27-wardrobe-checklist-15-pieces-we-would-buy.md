@@ -8,6 +8,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Fashion
+image: /assets/images/posts/featured-iamge-2.jpg
 featured: false
 meta_title: From tonal separates to shimmer sarees, the 15 pieces our editors
   have on their radar this month, chosen for how they carry a wardrobe through
