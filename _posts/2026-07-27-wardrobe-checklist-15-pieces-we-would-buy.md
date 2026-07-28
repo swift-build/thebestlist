@@ -74,3 +74,7 @@ Every wardrobe, however full, tends to circle back to the same handful of pieces
 
 
 **Heritage saree your mom will love:** A blush pink silk saree from **[Asha Gautam](https://www.ashagautam.com/)** adorned with delicate floral embroidery, intricate zari borders, and artisanal detailing. Paired with a richly embroidered blouse and an opulent dupatta, it captures Asha Gautam's signature blend of timeless craftsmanship and regal elegance.
+
+
+
+#### **The Details That Do the Work**
