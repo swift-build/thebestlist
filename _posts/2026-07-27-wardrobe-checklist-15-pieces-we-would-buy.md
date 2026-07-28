@@ -62,6 +62,13 @@ Every wardrobe, however full, tends to circle back to the same handful of pieces
 
 
 
+![](/assets/images/posts/abisheksharna.jpg)
+
+
+
+
+**That something special:** What makes Abhishek's work particularly relevant for today's women is his ability to merge traditional couture techniques with a distinctly modern sensibility. Fine metal wirework, 3D contouring, resham embroidery, appliqué, intricate beading and tonal texturing come together in garments that feel architectural yet effortless in motion. The silhouettes move seamlessly between fluid drapes and sharply tailored forms, reflecting the increasingly versatile way brides approach occasion dressing.
+
 ![](/assets/images/posts/chitrakala-festive-edit-9-.jpg)
 
 
