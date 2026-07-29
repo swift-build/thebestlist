@@ -21,9 +21,9 @@ instagram_url: https://www.instagram.com/balichwonderstudio/?hl=en
 ---
 There is a category of creative professional that most people encounter only as the result of their work: the opening ceremony that makes an entire stadium hold its breath, the closing moment that becomes the cultural image of a games, a nation, a particular chapter of collective memory. Claudia Cattai, Director of the Ceremonies Unit at Balich Wonder Studio, works at precisely this level, and has done so for more than two decades. Her productions have played to audiences not of hundreds but of billions, across cultures and languages that share nothing except the capacity to be moved. We spoke with her about what scale teaches you that intimacy cannot, why emotion is the only truly universal language, and what she sees in the Indian tradition of celebration that resonates with everything she has spent her career building toward.
 
-![](/assets/images/posts/20260704-2898-scaled.jpg)
+![](/assets/images/posts/paris-saint-germain-v-arsenal-fc-uefa-champions-league-final-2026-5-1-.jpg)
 
-*FIFA World Cup 2026 Fourth of July Pre-Match Ceremonies I Philadelphia & Houston*
+*FIFA World Cup 2026 Closing Ceremony, New York New Jersey.*
 
 **You have spent over two decades working on some of the world's largest live productions. What does that kind of scale teach you that smaller events never could?**
 
@@ -49,9 +49,11 @@ When we design global ceremonies, we look for themes that are universally human:
 
 At the same time, authenticity is essential. A ceremony should never become generic in the attempt to feel universal. The strongest global events are deeply rooted in the identity, culture, and spirit of the host country while remaining emotionally accessible to the world.
 
-![](/assets/images/posts/balich-wonder-studio-ceremonies-rio-2016-opening-ceremony-pyro-lights-colors.jpg)
+![](/assets/images/posts/balichwonderstudio11.jpg)
 
-*RIO 2016 | Olympic Opening Ceremony*
+*FIFA World Cup 2026 Opening Ceremony, Mexico City*
+
+
 
 **There is always a gap between vision and reality. At the level you operate, that gap involves governments, international committees, and massive production systems. How do you manage that complexity?**
 
@@ -97,6 +99,14 @@ You cannot impose narratives onto cultures from the outside. Every country, city
 
 Global scale should amplify local identity, not dilute it. And I believe audiences immediately recognise when something comes from genuine respect and understanding.
 
+
+
+![](/assets/images/posts/balich-wonder-studio-ceremonies-rio-2016-opening-ceremony-pyro-lights-colors.jpg)
+
+*RIO 2016 Olympic Opening Ceremony*
+
+
+
 **What do people consistently underestimate about creating events at this level of magnitude?**
 
 Probably the human effort behind every visible moment.
@@ -104,10 +114,6 @@ Probably the human effort behind every visible moment.
 People see a few minutes of ceremony, but behind that there can be years of planning, rehearsals, technical integration, problem-solving, contingency systems, and thousands of individuals working together with extraordinary discipline and passion.
 
 Large-scale ceremonies are not only technical systems. They are human systems. And what truly makes them successful is often the trust, resilience, and collaboration happening behind the scenes.
-
-![](/assets/images/posts/balichwonderstudio22.jpg)
-
-*FIFA World Cup 2026 Closing Ceremony I New York New Jersey*
 
 **Large-scale ceremonies often appear seamless to the audience. What does it actually take behind the scenes to make something feel effortless?**
 
@@ -117,13 +123,27 @@ The illusion of effortlessness is built through extraordinary discipline behind 
 
 But beyond technical preparation, seamlessness also comes from the way people work together. When departments stop functioning as separate units and start operating as one collective organism, that is when the real magic happens. The audience may never see that collaboration directly, but they feel it emotionally.
 
+
+
+![](/assets/images/posts/paris-saint-germain-v-arsenal-fc-uefa-champions-league-final-2026-5-1-.jpg)
+
+*UEFA Champions League Final 2026 Kick Off Show*
+
+
+
 **The language of events is changing. Immersive experiences, storytelling, technology. How has that shift impacted the way you design ceremonies today?**
 
-Audiences today expect participation, not passive observation.
-
-Technology has expanded creative possibilities enormously, but it has also raised expectations. People are more visually literate, more digitally connected, and more emotionally selective than ever before.
+Audiences today expect participation, not passive observation. Technology has expanded creative possibilities enormously, but it has also raised expectations. People are more visually literate, more digitally connected, and more emotionally selective than ever before.
 
 For me, technology should never exist for its own sake. The real question is always whether it strengthens the story and the emotional connection. If it does not, then it risks becoming noise rather than innovation. No matter how advanced the tools become, the human experience must always remain at the centre.
+
+
+
+![](/assets/images/posts/img_4294-2-1-.jpeg)
+
+*FIFA World Cup 2026 Opening Ceremony, Los Angeles*
+
+
 
 **After twenty years of delivering some of the world's most complex productions, what still feels like the next frontier for you?**
 
