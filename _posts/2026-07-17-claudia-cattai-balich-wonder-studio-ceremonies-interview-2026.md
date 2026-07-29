@@ -53,8 +53,6 @@ At the same time, authenticity is essential. A ceremony should never become gene
 
 *FIFA World Cup 2026 Opening Ceremony, Mexico City*
 
-
-
 **There is always a gap between vision and reality. At the level you operate, that gap involves governments, international committees, and massive production systems. How do you manage that complexity?**
 
 Complexity becomes manageable when people feel aligned and respected.
@@ -70,10 +68,6 @@ The transition from concept to execution starts much earlier than people imagine
 A strong creative idea must already contain an understanding of space, timing, audience experience, technology, logistics, and operational feasibility. In large-scale ceremonies, creativity cannot exist separately from production thinking.
 
 The real challenge is preserving the emotional impact of an idea throughout the entire process. Because no matter how complex a production becomes technically, audiences will always remember how the experience made them feel.
-
-![](/assets/images/posts/fifamexicocityopeningg.jpg)
-
-*FIFA World Cup 2026 Opening Ceremony I Mexico City*
 
 **Balich Wonder Studio is known for creating emotionally powerful experiences. What does emotion mean when your audience is not a room of 300, but millions watching globally?**
 
@@ -99,13 +93,9 @@ You cannot impose narratives onto cultures from the outside. Every country, city
 
 Global scale should amplify local identity, not dilute it. And I believe audiences immediately recognise when something comes from genuine respect and understanding.
 
-
-
 ![](/assets/images/posts/balich-wonder-studio-ceremonies-rio-2016-opening-ceremony-pyro-lights-colors.jpg)
 
 *RIO 2016 Olympic Opening Ceremony*
-
-
 
 **What do people consistently underestimate about creating events at this level of magnitude?**
 
@@ -123,13 +113,9 @@ The illusion of effortlessness is built through extraordinary discipline behind 
 
 But beyond technical preparation, seamlessness also comes from the way people work together. When departments stop functioning as separate units and start operating as one collective organism, that is when the real magic happens. The audience may never see that collaboration directly, but they feel it emotionally.
 
-
-
 ![](/assets/images/posts/paris-saint-germain-v-arsenal-fc-uefa-champions-league-final-2026-5-1-.jpg)
 
 *UEFA Champions League Final 2026 Kick Off Show*
-
-
 
 **The language of events is changing. Immersive experiences, storytelling, technology. How has that shift impacted the way you design ceremonies today?**
 
@@ -137,13 +123,9 @@ Audiences today expect participation, not passive observation. Technology has ex
 
 For me, technology should never exist for its own sake. The real question is always whether it strengthens the story and the emotional connection. If it does not, then it risks becoming noise rather than innovation. No matter how advanced the tools become, the human experience must always remain at the centre.
 
-
-
 ![](/assets/images/posts/img_4294-2-1-.jpeg)
 
 *FIFA World Cup 2026 Opening Ceremony, Los Angeles*
-
-
 
 **After twenty years of delivering some of the world's most complex productions, what still feels like the next frontier for you?**
 
