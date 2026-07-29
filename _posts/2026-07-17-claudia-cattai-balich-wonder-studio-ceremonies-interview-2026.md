@@ -21,7 +21,7 @@ instagram_url: https://www.instagram.com/balichwonderstudio/?hl=en
 ---
 There is a category of creative professional that most people encounter only as the result of their work: the opening ceremony that makes an entire stadium hold its breath, the closing moment that becomes the cultural image of a games, a nation, a particular chapter of collective memory. Claudia Cattai, Director of the Ceremonies Unit at Balich Wonder Studio, works at precisely this level, and has done so for more than two decades. Her productions have played to audiences not of hundreds but of billions, across cultures and languages that share nothing except the capacity to be moved. We spoke with her about what scale teaches you that intimacy cannot, why emotion is the only truly universal language, and what she sees in the Indian tradition of celebration that resonates with everything she has spent her career building toward.
 
-![](/assets/images/posts/paris-saint-germain-v-arsenal-fc-uefa-champions-league-final-2026-5-1-.jpg)
+![](/assets/images/posts/balichwonderstudo.jpg)
 
 *FIFA World Cup 2026 Closing Ceremony, New York New Jersey.*
 
