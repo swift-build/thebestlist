@@ -9,6 +9,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Health
+image: /assets/images/posts/tbl-banner-tan.png
 featured: false
 meta_title: "Tasneem Anwarali, TAN | 365: The Nutrition Coach Redefining
   Preventive Health for Indian Women"
