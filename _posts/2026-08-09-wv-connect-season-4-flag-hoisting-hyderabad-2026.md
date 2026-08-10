@@ -4,12 +4,12 @@ draft: false
 title: "The Flag Is Up: WV Connect Season 4 Officially Begins Its Countdown in
   Hyderabad"
 slug: wv-connect-season-4-flag-hoisting-hyderabad-2026
-date: 2026-08-10 12:55:00 +0530
+date: 2026-08-10 12:58:00 +0530
 author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Weddings
-image: /assets/images/posts/img_4533.jpg.jpeg
+image: /assets/images/posts/tblbannerwbcnnect.jpg.jpeg
 featured: false
 meta_title: "WV Connect Season 4 Flag Hoisting Hyderabad 2026: The Countdown to
   Weddings and Films Has Begun"
