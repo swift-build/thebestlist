@@ -20,6 +20,12 @@ There is a particular kind of place that the East Coast Road has always been goo
 
 Kaly's Pizzeria, tucked into the Kovalam stretch of ECR, five minutes from the beach, is exactly that kind of place. And it is time to talk about it.
 
+
+
+![](/assets/images/posts/b83998e9-86d7-414a-8b27-82f08be8e7b1.png)
+
+
+
 **The Space**
 
 There is nothing pretentious about Kaly's, and that is precisely the point. The standalone space sits quietly off ECR with the unassuming confidence of somewhere that knows what it is and has never felt the need to announce it. Step inside and you find a restaurant that is equal parts warmth and wit, the kind of room that designers spend considerable effort and money trying to replicate and that places like this arrive at simply by being themselves: unhurried, charming, furnished with the instinctive good taste of people who care more about the food than the aesthetic brief.
@@ -28,11 +34,23 @@ The seating is intimate without being cramped, the light does what good natural 
 
 The ritual, for those who have found their way here, is a simple and entirely satisfying one: order at the counter, take what you have been given, and walk the five minutes to the beach. Sit with your slice and the Bay of Bengal and whatever conversation or silence the afternoon calls for. Return for the gelato. Consider, briefly, the brownie. Order the brownie.
 
+
+
+![](/assets/images/posts/img-20251130-wa0007.jpg)
+
+
+
 **The Food**
 
 Kaly's is entirely vegetarian, which in the context of ECR's predominantly vegetarian weekend crowd is not a constraint but a conviction, and the menu reflects a kitchen that has applied serious thought to a product that most people assume requires no thought at all.
 
 The pizzas are made with the kind of ingredient integrity that the live oven format rewards and the delivery box format obscures. The base has been given the attention it deserves: properly fermented, correctly blistered, with the structural confidence that tells you it was made by someone who has opinions about dough. The Margherita is the truest test of any pizza kitchen, and Kaly's passes it with ease: a tomato that tastes like a tomato, mozzarella that melts rather than slides, a crust that has enough character to be worth eating for its own sake.
+
+
+
+![](/assets/images/posts/kalys-25.jpg)
+
+
 
 The broader menu moves with the same intelligence. The Mushroom Magic is properly seasoned and properly restrained, the earthiness of the fungi present without being aggressive. The Green Wave makes its case for vegetable pizza with a freshness that the category rarely delivers. The Angry Pumpkin is the menu's most confident offering, a pumpkin-based creation that sounds unconventional and tastes inevitable. Earth and Ice completes a five-variety edit that reads, across its range, like a kitchen with a clear point of view.
 
@@ -40,11 +58,29 @@ But the conversation about Kaly's would be incomplete without the gelato, and th
 
 The brownies and cookies arrive from the same homemade philosophy and the same commitment to ingredients that are worth tasting. The brownie is fudgy in the correct sense, dense without being gummy, chocolate without being aggressive. The cookie is the kind that makes you question every cookie you have eaten before it. These are not afterthoughts on a menu. They are the dessert chapter of a kitchen that has thought carefully about every chapter.
 
+
+
+![](/assets/images/posts/kalys_july25_2026-22.jpg)
+
+
+
+![](/assets/images/posts/kalys_july25_2026-33.jpg)
+
+
+
 **The Live Catering**
 
 For those who want to bring Kaly's to their gathering rather than going to it, the live catering operation extends the restaurant's philosophy to beach houses, private parties, weddings, and corporate events across the ECR and OMR corridor from Adyar to Mahabalipuram. The oven arrives, the team arrives, and the pizzas come out of a live counter at your venue: the same ingredients, the same care, the same product, now at your terrace or your beach house lawn or your wedding after-party.
 
 It is the natural extension of what Kaly's does, because what Kaly's does is fundamentally about making good pizza in the right conditions and letting the setting do the rest. The conditions of an ECR beach house at sunset, with the oven glowing and the smell of baking dough moving through salt air, are, if anything, even better than the restaurant itself. Which is saying something.
+
+
+
+
+
+![](/assets/images/posts/kalys_july25_2026-13.jpg)
+
+
 
 **Why It Matters**
 
@@ -54,4 +90,4 @@ It is not trying to be the loudest thing on the coast. It is trying to be the be
 
 The gelato alone is worth the drive.
 
-*Follow Best List India for the culture, conversations, and ideas worth paying attention to.*
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
