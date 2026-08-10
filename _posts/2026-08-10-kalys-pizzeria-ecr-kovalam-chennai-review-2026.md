@@ -8,6 +8,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Food
+image: /assets/images/posts/tbl-banner-kaly.png
 featured: false
 meta_title: "Kaly's Pizzeria ECR Kovalam Review 2026: Chennai's Most Charming
   Hidden Gem by the Shore"
