@@ -8,7 +8,7 @@ date: 2026-08-10 14:41:00 +0530
 author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
-  - Health
+  - Weddings
 image: /assets/images/posts/tbl-banner-wv-connect.png
 featured: false
 meta_title: "WV Connect Season 4 Flag Hoisting Hyderabad 2026: The Countdown to
