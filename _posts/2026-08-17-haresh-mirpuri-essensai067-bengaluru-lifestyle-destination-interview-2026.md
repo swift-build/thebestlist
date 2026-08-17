@@ -8,7 +8,6 @@ date: 2026-08-17 08:52:00 +0530
 author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
-  - Health
   - Lifestyle
 image: /assets/images/posts/tbl-banner.-essensia.png
 featured: false
