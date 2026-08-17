@@ -1,8 +1,8 @@
 ---
 layout: post
 draft: false
-title: "Haresh M. Mirpuri of Essensai067: The Man Building a Space That Doesn't
-  Have a Name Yet"
+title: "Essensai067 Is the Golden Hour: Haresh M. Mirpuri on Building a
+  Destination, Not a Business"
 slug: haresh-mirpuri-essensai067-bengaluru-lifestyle-destination-interview-2026
 date: 2026-08-17 08:52:00 +0530
 author: Kiran
