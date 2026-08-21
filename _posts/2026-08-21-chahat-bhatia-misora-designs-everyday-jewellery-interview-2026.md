@@ -1,9 +1,9 @@
 ---
 layout: post
 draft: false
-title: "Chahat Bhatia of Misora Designs: The Jewellery Brand Built for the Woman
-  Who Never Takes It Off"
-slug: chahat-bhatia-misora-designs-everyday-jewellery-interview-2026
+title: "Pranathi Boorlagadda of Misora Designs: The Jewellery Brand Built for
+  the Woman Who Never Takes It Off"
+slug: pranathi-boorlagadda-misora-designs-everyday-jewellery-interview-2026
 date: 2026-08-21 07:53:00 +0530
 author: Kiran
 author_image: /assets/images/posts/kiran.jpg
@@ -11,14 +11,14 @@ categories:
   - Fashion
 image: /assets/images/posts/tbl-banner-misora.png
 featured: false
-meta_title: "Chahat Bhatia, Misora Designs: Building India's Most Wearable
-  Everyday Jewellery Brand"
+meta_title: "Pranathi Boorlagadda, Misora Designs: Building India's Most
+  Wearable Everyday Jewellery Brand"
 excerpt: She built Misora while studying at NIFT Hyderabad, driven by a
   conviction that jewellery should live in your life rather than your jewellery
-  box. Chahat Bhatia on restraint, real customers, and the five-minute moment
-  before you leave the house.
+  box. Pranathi Boorlagadda on restraint, real customers, and the five-minute
+  moment before you leave the house.
 ---
-There is a particular kind of founder origin story that begins not with a market gap identified on a spreadsheet but with a personal frustration so specific and so familiar that it immediately explains everything that followed. Chahat Bhatia, founder of Misora Designs, bought a piece of jewellery she loved, wore it once or twice, and watched it tarnish. The piece went into the box. The box went into the drawer. The drawer went unopened.
+There is a particular kind of founder origin story that begins not with a market gap identified on a spreadsheet but with a personal frustration so specific and so familiar that it immediately explains everything that followed. **Pranathi Boorlagadda**, founder of Misora Designs, bought a piece of jewellery she loved, wore it once or twice, and watched it tarnish. The piece went into the box. The box went into the drawer. The drawer went unopened.
 
 That experience, entirely ordinary and almost universally shared, became the founding logic of Misora: jewellery that is anti-tarnish, waterproof, and hypoallergenic as a matter of non-negotiable principle, because everyday jewellery should be wearable every day. Bhatia built the brand while completing her degree at NIFT Hyderabad, managing product development, sourcing, social media, customer experience, and marketing alongside assignments and deadlines, and arrived at graduation with a business rather than simply a qualification.
 
@@ -30,11 +30,7 @@ Misora came from something I personally felt was missing. I grew up around jewel
 
 The idea was simple: jewellery should be part of your everyday life, not something you save for a special occasion. I wanted Misora to combine the beauty and feeling of fine jewellery with the practicality and accessibility of something you can actually live in.
 
-
-
 ![](/assets/images/posts/misora-designs-pranathi-boorlagadda-00.jpeg)
-
-
 
 **What was it like building Misora while completing your degree at NIFT Hyderabad?**
 
@@ -54,13 +50,9 @@ That really stayed with me because I thought, why should something I love have t
 
 That is when anti-tarnish, waterproof, and hypoallergenic became non-negotiable for Misora. We spent a lot of time understanding materials, plating, and manufacturing to make sure we could give women jewellery that looked beautiful but could actually keep up with their lives.
 
-
-
 ![](/assets/images/posts/the-royal-radiance-set.png)
 
 ![](/assets/images/posts/misora-2.jpg)
-
-
 
 **What are women telling you Misora gives them that other jewellery does not?**
 
@@ -71,8 +63,6 @@ One moment that really stayed with me was when I was travelling and spotted a wo
 That was such a surreal moment for me because she was not praising the brand because she knew who I was or because I had sent her the jewellery. She was just a genuine customer who happened to love the product.
 
 Those moments make me realise that Misora has become more than something people purchase. It has become part of their everyday lives. And I think that is what the community represents, having those few pieces that make you feel a little more put together without feeling overdressed.
-
-
 
 **What does total ownership give the brand, and what does it cost you personally?**
 
@@ -90,13 +80,9 @@ That means the piece has to feel good when you open the box, look good when you 
 
 We want someone to spend between one thousand and two thousand rupees on a piece and feel like they got something far more considered than what they paid for. That is the standard we are trying to maintain.
 
-
-
 ![](/assets/images/posts/misora-3.jpg)
 
 ![](/assets/images/posts/image-3-.jpeg)
-
-
 
 **How do you hold restraint as a creative and commercial position?**
 
