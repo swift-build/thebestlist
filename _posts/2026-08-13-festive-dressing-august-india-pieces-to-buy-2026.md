@@ -75,9 +75,9 @@ Here is what to buy, and why August is the only sensible time to do it.
 
 
 
-![](/assets/images/posts/mk49-001.webp)
+![](/assets/images/posts/whatsapp-image-2026-08-21-at-8.52.15-am.jpeg)
 
-**[Mrunal Khimji Saree with Embroidered Border & Tassles Paired with Corset Blouse](https://mrunalkhimji.com/collections/ignis/mk-49/)**
+##### **[Mrunal Khimji Saree with Embroidered Border Paired with Full Embroidered Corset Blouse](https://mrunalkhimji.com/collections/ignis/mk-45/)**
 
 
 
