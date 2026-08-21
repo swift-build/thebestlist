@@ -65,23 +65,19 @@ Here is what to buy, and why August is the only sensible time to do it.
 
 **[Celesta Heart Studs By Ekaraa Jewellery](https://ekaraa.com/product/celesta-heart-studs)**
 
-
-
 ![](/assets/images/posts/cv_28574_1400x.webp)
-
-
 
 **[Charu and Vasundhara TAVLEEN](https://charuandvasundhara.com/products/tavleen)**
 
-
-
 ![](/assets/images/posts/screenshot-2026-08-11-at-5.03.44-pm.png)
-
-
 
 **[Prints by Radhika Embroidered Kaftan Style Kurta With Drape Skirt Set](https://printsbyradhika.com/products/arushi-mehra-in-our-embroidered-kaftan-style-kurta-with-drape-skirt-set?variant=45951751782597)**
 
 
+
+![](/assets/images/posts/mk49-001.webp)
+
+**[Mrunal Khimji Saree with Embroidered Border & Tassles Paired with Corset Blouse](https://mrunalkhimji.com/collections/ignis/mk-49/)**
 
 
 
