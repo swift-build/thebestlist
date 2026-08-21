@@ -8,7 +8,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Travel
-image: /assets/images/posts/2.-aman-residence-1.webp
+image: /assets/images/posts/amanvari-mexico_office_31260.jpg
 featured: true
 meta_title: "first look at Amanvari, Aman's debut resort in Mexico, set within
   the Costa Palmas estate on Baja California Sur's East Cape. Eighteen private
