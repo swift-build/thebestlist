@@ -24,11 +24,7 @@ Twenty-six dishes, sometimes more, arranged on the leaf in an order that has bee
 
 The Sadya is not a meal you consume. It is a meal you participate in. And in 2026, the places doing it most seriously, from Kerala's most revered kitchens to the hotel dining rooms across India that have earned the right to serve it, are doing it with a quality of attention that makes the participation worthwhile. 
 
-
-
 ![](/assets/images/posts/sadya-image.jpg)
-
-
 
 As the season of harvest, gratitude, and togetherness arrives, Onam brings with it the comforting flavours of Kerala and the joy of gathering around a traditional feast. This August, embrace the festive spirit with an authentic Grand Onam Sadhya at Seasonal Tastes, The **Westin Hyderabad Mindspace**, where timeless culinary traditions meet warm hospitality. 
 
@@ -49,11 +45,7 @@ Price: 
 * Non-Alcoholic Buffet: INR 3,300++ per person 
 * Lunch/Dinner Price – INR 2450 ++ Onwards 
 
-
-
 ![](/assets/images/posts/image_onam.jpeg)
-
-
 
 **Conrad Bengaluru** invites guests to experience the warmth, flavour, and traditions of Kerala with a specially curated Onam Celebration at Caraway Kitchen on 26 August. Inspired by the legendary homecoming of King Mahabali, the celebration brings together authentic culinary traditions, vibrant cultural elements, and Conrad's signature hospitality.  Guests can indulge in a traditional Onam Sadhya, thoughtfully served on a banana leaf and featuring an elaborate spread of classic vegetarian delicacies prepared using time-honored Kerala recipes. The experience begins with a traditional welcome, complete with a beautifully crafted Pookalam, while festive touches such as Chenda Melam performances and a King Mahabali mascot enhance the celebratory atmosphere.  
 
@@ -64,15 +56,9 @@ Price: 
 * Experience: Traditional Onam Sadhya & Cultural Celebrations 
 * Price: INR 2,500++ per person 
 
-
-
 ![](/assets/images/posts/masterchef-asai-thambi-the-leela-ambience-gurugram.jpg)
 
-
-
 ![](/assets/images/posts/spectra-the-leela-ambience-gurugram.png)
-
-
 
 This Onam, **The Leela Ambience Gurugram** is presenting a traditional Sadhya feast at Spectra from 16th to 25th August 2026, a curated celebration of Kerala's timeless culinary heritage. Thoughtfully curated by South Indian MasterChef Asai Thambi, the experience brings together the soul of a traditional Onam feast through classic recipes, regional flavours and cherished preparations that have been passed down through generations.
 
@@ -81,11 +67,7 @@ Date: 16th – 25th August 2026
 Venue: Spectra, The Leela Ambience Gurugram Hotel & Residences
 Timings: Lunch & Dinner
 
-
-
 ![](/assets/images/posts/jw-marriott-prestige-golfshire-lagoon-pool.jpeg)
-
-
 
 Embracing the joy, abundance, and rich traditions of Kerala's harvest festival, **JW Marriott Bengaluru Prestige Golfshire Resort & Spa** invites guests to a specially curated Onam Sadhya celebration at The Aviary on 26th August. Promising an immersive cultural and culinary experience, the festive lunch is designed to bring together families, friends, and the community for an afternoon steeped in tradition, authenticity, and warm hospitality. 
 
@@ -99,8 +81,6 @@ Date: 26th August 
 Venue: The Aviary 
 Time: 12:00 PM onwards 
 Price: INR 4,000++ per adult | INR 2,000++ per child 
-
- 
 
 ![](/assets/images/posts/onam-sadya-omo-gurgaon-last-year-s-images-for-reference-11.jpeg)
 
@@ -118,17 +98,11 @@ At its heart, OMO's Sadya is an exercise in restraint. In a restaurant built aro
 * Price: ₹2,199
 * Tickets to be booked- <https://link.district.in/DSTRKT/x9bxqbei>
 
-
-
 ![](/assets/images/posts/onam-1.jpeg)
-
-
 
 ![](/assets/images/posts/terra-at-mulberry-shades.jpeg)
 
-
 This August, **Mulberry Shades Bengaluru Nandi Hills**, A Tribute Portfolio Resort invites guests to celebrate the season with two distinctive culinary experiences at Terra, each inspired by Onam's rich traditions and flavours.Terra brings the flavours of Kerala to Bengaluru with two immersive Onam experiences. Guests can savour an elaborate Onam Feast featuring a traditional Sadhya served on a banana leaf, or indulge in a specially curated Onam Thali, celebrating the rich culinary heritage of the harvest festival through authentic flavours, time-honoured recipes, and warm festive hospitality.
-
 
 **Event Details**
 Venue: Terra, Mulberry Shades Bengaluru Nandi Hills, A Tribute Portfolio Resort
@@ -137,6 +111,19 @@ Time: 12:30 PM to 4:00 PM
 Pricing: INR 3,000++ per person (Non-Alcoholic) | INR 4,000++ per person (Alcoholic)
 For reservations, please call +91 73378 77235.
 
+
+
+![](/assets/images/posts/onam-thali-banana-leaf-.png)
+
+
+
+**Banana Leaf** Brings the Grand Onam Sadhya Back with a 25+ Dish Traditional Kerala Feast
+Known for celebrating the rich culinary heritage of South India, Banana Leaf has become a favourite destination for authentic regional flavours across Mumbai. Continuing its much-loved annual tradition, the restaurant once again presents its authentic Onam Sadhya on 26th & 27th August 2026, inviting diners to experience Kerala's iconic harvest festival through one of its most cherished culinary traditions. Served on a traditional banana leaf, the elaborate vegetarian feast features over 25 festive delicacies, including Upperi, Sharkara Varati, Avial, Olan, Kootu Curry, Kerala Paratha, boiled brown rice, Sambar, Rasam, buttermilk, Ada Payasam, Parippu Payasam and more. Every dish is prepared using time-honoured recipes, bringing together the vibrant flavours, colours and textures that define an authentic Onam celebration.
+
+**Event Details**
+
+Where: Banana Leaf, Versova Outlet 
+When: 26th & 27th August,2026
 
 
 
