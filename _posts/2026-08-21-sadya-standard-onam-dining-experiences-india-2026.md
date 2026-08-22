@@ -111,11 +111,7 @@ Time: 12:30 PM to 4:00 PM
 Pricing: INR 3,000++ per person (Non-Alcoholic) | INR 4,000++ per person (Alcoholic)
 For reservations, please call +91 73378 77235.
 
-
-
 ![](/assets/images/posts/onam-thali-banana-leaf-.png)
-
-
 
 **Banana Leaf** Brings the Grand Onam Sadhya Back with a 25+ Dish Traditional Kerala Feast
 Known for celebrating the rich culinary heritage of South India, Banana Leaf has become a favourite destination for authentic regional flavours across Mumbai. Continuing its much-loved annual tradition, the restaurant once again presents its authentic Onam Sadhya on 26th & 27th August 2026, inviting diners to experience Kerala's iconic harvest festival through one of its most cherished culinary traditions. Served on a traditional banana leaf, the elaborate vegetarian feast features over 25 festive delicacies, including Upperi, Sharkara Varati, Avial, Olan, Kootu Curry, Kerala Paratha, boiled brown rice, Sambar, Rasam, buttermilk, Ada Payasam, Parippu Payasam and more. Every dish is prepared using time-honoured recipes, bringing together the vibrant flavours, colours and textures that define an authentic Onam celebration.
@@ -124,6 +120,18 @@ Known for celebrating the rich culinary heritage of South India, Banana Leaf has
 
 Where: Banana Leaf, Versova Outlet 
 When: 26th & 27th August,2026
+
+
+
+![](/assets/images/posts/img_8972.jpeg)
+
+
+
+Onam, Kerala's most celebrated harvest festival, reflects the state's rich cultural heritage. Marking King Mahabali's legendary homecoming, this ten-day celebration symbolises prosperity, gratitude, unity, and togetherness, expressed through colourful floral carpets, traditional feasts, music, and festivities that welcome the world to experience Kerala's essence.
+
+The **[Malabar House](https://www.relaischateaux.com/us/hotel/the-malabar-house/)** in Fort Kochi, a boutique 4-star heritage hotel and member of the prestigious Relais & Châteaux association, honours this cherished tradition with an authentic, immersive festive experience. From Atham to Thiruvonam, the hotel will feature a beautifully handcrafted Pookkalam, freshly designed each day to capture the season's colours and joy.
+
+On Thiruvonam, signature restaurant Malabar Junction will serve an authentic Traditional Onam Sadya for lunch. Presented on a banana leaf, the Sadya offers a thoughtfully curated selection of Kerala's classic vegetarian delicacies, prepared with fresh seasonal ingredients and time-honoured recipes. This festive culinary experience captures the warmth, generosity, and gastronomic heritage at the heart of Onam, giving guests a genuine taste of Kerala's most celebrated festival.
 
 
 
