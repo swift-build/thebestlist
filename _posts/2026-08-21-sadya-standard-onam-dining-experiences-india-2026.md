@@ -141,9 +141,13 @@ Rooted in the festive traditions of Kerala, the Sadhya is an elaborate feast tha
 
 **Event Details**
 
-23rd August | 12:30 PM – 3:30 PM
-₹2,500 + taxes per person
-Reservations: +91 72170 25225
+Date: 23rd August 
+
+Time: 12:30 PM – 3:30 PM
+
+Price: ₹2,500 + taxes per person
+
+For Reservations: +91 72170 25225
 
 
 
