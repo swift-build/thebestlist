@@ -121,17 +121,29 @@ Known for celebrating the rich culinary heritage of South India, Banana Leaf has
 Where: Banana Leaf, Versova Outlet 
 When: 26th & 27th August,2026
 
-
-
 ![](/assets/images/posts/img_8972.jpeg)
-
-
 
 Onam, Kerala's most celebrated harvest festival, reflects the state's rich cultural heritage. Marking King Mahabali's legendary homecoming, this ten-day celebration symbolises prosperity, gratitude, unity, and togetherness, expressed through colourful floral carpets, traditional feasts, music, and festivities that welcome the world to experience Kerala's essence.
 
 The **[Malabar House](https://www.relaischateaux.com/us/hotel/the-malabar-house/)** in Fort Kochi, a boutique 4-star heritage hotel and member of the prestigious Relais & Châteaux association, honours this cherished tradition with an authentic, immersive festive experience. From Atham to Thiruvonam, the hotel will feature a beautifully handcrafted Pookkalam, freshly designed each day to capture the season's colours and joy.
 
 On Thiruvonam, signature restaurant Malabar Junction will serve an authentic Traditional Onam Sadya for lunch. Presented on a banana leaf, the Sadya offers a thoughtfully curated selection of Kerala's classic vegetarian delicacies, prepared with fresh seasonal ingredients and time-honoured recipes. This festive culinary experience captures the warmth, generosity, and gastronomic heritage at the heart of Onam, giving guests a genuine taste of Kerala's most celebrated festival.
+
+
+
+![](/assets/images/posts/onam-sadhya-pilibhit-house-ihcl-seleqtions-2026-08-19-14-17-24.webp)
+
+
+
+**Pilibhit House - IHCL SeleQtions**, Haridwar’s distinguished heritage hotel, celebrates the spirit of Onam with an authentic Onam Sadhya, being hosted on 23rd August 2026, from 12:30 PM to 3:30 PM. Marking a celebration of South Indian culinary traditions at the heritage riverside retreat, the experience brings the rich flavours and festive traditions of Kerala to the sacred banks of the Ganges, inviting guests to savour an elaborate traditional feast in the tranquil setting of Pilibhit House.
+
+Rooted in the festive traditions of Kerala, the Sadhya is an elaborate feast that brings together an array of preparations, offering a balance of sweet, savoury, tangy and spiced flavours. The menu at Pilibhit House, Haridwar draws from the region’s traditional culinary repertoire, with coconut, curry leaves, yoghurt, tamarind and spices coming together across a thoughtfully curated selection of classic preparations.
+
+**Event Details**
+
+23rd August | 12:30 PM – 3:30 PM
+₹2,500 + taxes per person
+Reservations: +91 72170 25225
 
 
 
