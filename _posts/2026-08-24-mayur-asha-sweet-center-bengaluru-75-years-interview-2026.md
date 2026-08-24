@@ -23,11 +23,7 @@ Mayur, who now stewards the brand across twenty stores, did not build Asha Sweet
 
 We spoke with him about what 75 years of customer loyalty teaches you about what people are actually buying, how much you can modernise without losing what made people love you, and what Asha Sweet Center should look like when it turns 100.
 
-
-
 ![](/assets/images/posts/first-outlet.jpg)
-
-
 
 **What did you inherit that no balance sheet could capture, and what was the weight of that inheritance?**
 
@@ -36,8 +32,6 @@ I inherited trust. Not just from customers, but from our employees, suppliers an
 **Do you honour the institution as you found it, or make it your own?**
 
 For me, it was never about choosing one over the other. The values had to remain unchanged, but the way we operate had to evolve. I realised quite early that preserving the legacy also means preparing it for the next generation.
-
-
 
 **What does it feel like to be a brand that belongs to Malleshwaram?**
 
@@ -50,8 +44,6 @@ Asha's home ground is Malleshwaram, where it was born. Over the years, our custo
 **How much do you modernise without losing what made people love you?**
 
 We modernise everything that improves the experience, but we are very careful about what we change at the core. The taste, quality and trust cannot be compromised. If modernisation comes at the cost of what people love about us, then it is not progress.
-
-
 
 ![](/assets/images/posts/sweet-box-2.jpg)
 
@@ -68,8 +60,6 @@ Customers have always felt that Asha is their own brand. They have come to us an
 **If Asha Sweet Center were one mithai, which would it be?**
 
 Mysore Pak. It is simple, rooted and timeless, but getting it right requires tremendous attention to detail. In many ways, that is what Asha stands for: keeping something traditional relevant through consistency and quality.
-
-
 
 ![](/assets/images/posts/factory-image-3.jpg)
 
@@ -91,11 +81,7 @@ Though we spread our wings across the country, we will continue to stay grounded
 
 At 100, I would want Asha to be a brand that has grown in scale, but has never lost its soul.
 
-
-
 ![](/assets/images/posts/photo-23-08-26-11-06-17-am.jpg)
-
-
 
 **What 75 Years Actually Means**
 
@@ -109,4 +95,4 @@ They are buying continuity. They are buying the taste of a specific memory. They
 
 At 100, if Asha Sweet Center has grown in scale without losing its soul, it will have achieved what very few businesses in any category manage across a century. The Mysore Pak will confirm it.
 
-*Follow Best List India for the culture, conversations, and ideas worth paying attention to.*
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
