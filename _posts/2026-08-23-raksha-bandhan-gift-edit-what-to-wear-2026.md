@@ -53,10 +53,15 @@ The thread has always mattered. What surrounds it is worth thinking about more c
 
 ![](/assets/images/posts/chupps.png)
 
-**\[Chupps Pro Sliders](<Chupps Pro Sliders
-Soft, breathable FOAM6 padding keeps every step comfortably cushioned and sweat-free.
-A sustainable build helps reduce your environmental footprint without compromising on style.
-The textured dotted strap adds a playful, distinctive touch to the design. Finished with an ERGO X footbed for dependable grip, support and all-day comfort.>)**: Soft, breathable FOAM6 padding keeps every step comfortably cushioned and sweat-free. A sustainable build helps reduce your environmental footprint without compromising on style. The textured dotted strap adds a playful, distinctive touch to the design. Finished with an ERGO X footbed for dependable grip, support and all-day comfort.
+**[Chupps Pro Sliders:](https://chupps.com/collections/mens/products/pro-sliders?_pos=5&_fid=2d82f9378&_ss=c&variant=46876063596702?variant=46876063498398)** Soft, breathable FOAM6 padding keeps every step comfortably cushioned and sweat-free. A sustainable build helps reduce your environmental footprint without compromising on style. The textured dotted strap adds a playful, distinctive touch to the design. Finished with an ERGO X footbed for dependable grip, support and all-day comfort.
+
+
+
+![](/assets/images/posts/oriflame-s-the-one-irresistible-touch-high-shine-lipstick.webp)
+
+
+
+**[Oriflame's The One Irresistible Touch High Shine Lipstick](https://in.oriflame.com/products/product?code=38871&query=The%2520One%2520Irresistible%2520Touch%2520High%2520Shine%2520Lipstick&store=UK-ashleighhammond):** Oriflam’s THE ONE Irresistible Touch High Shine Lipstick is a highly pigmented liquid lipstick designed for an intense, glossy lip look. Its creamy, lightweight formula delivers full coverage in one stroke, while the sculpted cushion-tip applicator helps define the lips with precision. The AttractPlus formula combines concentrated pigments for intense colour with a moisturising gel to help lips feel hydrated and comfortable. The high-shine finish creates a smooth, show-stopping effect, while the formula is designed for long-lasting wear. Designed for a statement-making lip, it is an elevated addition to any beauty routine.
 
 ![](/assets/images/posts/caara_pouch_and_wallet-cherry_wallet-caara_pouch_and_wallet-cherry_wallet-5_31c3512b-28fb-4bf7-b27a-a44816794eec_1400x.webp)
 
