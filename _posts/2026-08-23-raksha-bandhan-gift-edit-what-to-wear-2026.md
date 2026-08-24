@@ -9,7 +9,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Lifestyle
-image: /assets/images/posts/333e4c3f-5ed4-4173-bdd5-392fdf927690.png
+image: /assets/images/posts/f27232a7-3322-4d73-92bd-719780e182b0.png
 featured: false
 meta_title: raksha-bandhan-gift-edit-what-to-wear-2026
 excerpt: "Raksha Bandhan 2026: The Gift Edit, What to Wear and How to Mark It
