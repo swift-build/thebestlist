@@ -33,7 +33,7 @@ The thread has always mattered. What surrounds it is worth thinking about more c
 
 ![](/assets/images/posts/photoframe12234.png)
 
-**[Yaadon ka jharoka frame ](https://www.parishri.com/product/yaadon-ka-jharokha-photo-frame-17151517?f_id=tohfa&f_source=collection&f_content=2&size=OS)**An elegant keepsake crafted with timeless charm, this vintage photo frame is designed to hold your most cherished memories. With its intricate detailing and classic finish, it brings a touch of old-world grace to any space. Perfect for gifting, home décor, or preserving special moments, it beautifully complements both modern and traditional settings.
+**[Parishri Yaadon ka jharoka frame ](https://www.parishri.com/product/yaadon-ka-jharokha-photo-frame-17151517?f_id=tohfa&f_source=collection&f_content=2&size=OS)**An elegant keepsake crafted with timeless charm, this vintage photo frame is designed to hold your most cherished memories. With its intricate detailing and classic finish, it brings a touch of old-world grace to any space. Perfect for gifting, home décor, or preserving special moments, it beautifully complements both modern and traditional settings.
 
 ![](/assets/images/posts/multi-stone-enamel-bracelet-1-.png)
 
@@ -41,7 +41,7 @@ The thread has always mattered. What surrounds it is worth thinking about more c
 
 ![](/assets/images/posts/champagnefootwear.png)
 
-**[Ivory Bloom mule](https://houseofvitti.com/collections/vacation-footwear-festive-footwear/products/ivory-bloom-mule)**: Crafted on a champagne/light beige base, this mule is a masterpiece of elegance and grace. Adorned with intricate flowers made of polished pearls and glass rhinestones, with a center of high-grade glass pearls, the Ivory Bloom mule exudes sophistication. The delicate detailing, including circular rhinestones and transparent crystals, creates a shimmering effect reminiscent of a spring morning. The mule is further enhanced by pearl danglers that add a playful movement and charm to its design. The Zardozi and Aari embroidery add an extra layer of allure, making the Ivory Bloom mule a standout piece for your collection.
+**[House of Vitti Ivory Bloom Mule](https://houseofvitti.com/collections/vacation-footwear-festive-footwear/products/ivory-bloom-mule)**: Crafted on a champagne/light beige base, this mule is a masterpiece of elegance and grace. Adorned with intricate flowers made of polished pearls and glass rhinestones, with a center of high-grade glass pearls, the Ivory Bloom mule exudes sophistication. The delicate detailing, including circular rhinestones and transparent crystals, creates a shimmering effect reminiscent of a spring morning. The mule is further enhanced by pearl danglers that add a playful movement and charm to its design. The Zardozi and Aari embroidery add an extra layer of allure, making the Ivory Bloom mule a standout piece for your collection.
 
 ![](/assets/images/posts/f25gb1_sage_1.jpg)
 
