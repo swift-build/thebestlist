@@ -21,4 +21,4 @@ It is also, in 2026, an occasion that the Indian gifting and fashion market has 
 
 The thread has always mattered. What surrounds it is worth thinking about more carefully than the last-minute chocolate box or the predictable silk saree that is chosen because choosing it requires the least effort. Raksha Bandhan, at its most intentional, is an opportunity to give something that reflects actual knowledge of the person receiving it, to dress in a way that honours the occasion without overdoing it, and to approach the day with the attention that the relationship it celebrates has always deserved.
 
-Here's What To Gift
+**Here's What To Gift**
