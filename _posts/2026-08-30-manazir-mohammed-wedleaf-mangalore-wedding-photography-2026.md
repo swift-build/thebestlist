@@ -17,6 +17,7 @@ excerpt: He built Wedleaf in Mangalore when most serious wedding photographers
   were building in metros. Now the industry is paying attention. Manazir
   Mohammed on finding stories before he arrives and the quality of light that
   defines everything he does.
+instagram_url: https://www.instagram.com/wedleaf.in/?hl=en
 ---
 Mangalore is not where the Indian wedding photography conversation has historically happened. The studios that set the visual language of the country's most watched celebrations have tended to operate out of Mumbai, Delhi, Bengaluru, the cities with the largest markets, the densest networks, the most visible clientele. The photographer building something genuinely distinctive from a coastal Karnataka city, without the institutional advantages of a metro base, without a photographic legacy or an industry network to begin with, is building against the current by definition.
 
