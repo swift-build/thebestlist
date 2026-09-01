@@ -9,6 +9,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Fashion
+image: /assets/images/posts/tbl-banner-anaar.png
 featured: false
 meta_title: "Anaar Founder Interview 2026: Solving Indian Occasion Dressing's
   Comfort Problem in Style"
@@ -16,6 +17,7 @@ excerpt: She built CERIZ across 300 retail touchpoints, partnered with Hidesign
   on Holli, and then launched Anaar, the first Indian footwear brand to show at
   New York Fashion Week. On why the most radical thing she could do was make a
   wedding sneaker.
+instagram_url: https://www.instagram.com/worldofanaar/?hl=en
 ---
 There is a sentence that the founder of Anaar heard so many times, from so many women, across so many conversations about occasion dressing, that it eventually stopped sounding like a complaint and started sounding like a brief. The outfit is perfect, but I cannot wait to take my shoes off.
 
@@ -33,6 +35,14 @@ I kept hearing the same thing from women: the outfit is perfect, but I cannot wa
 
 A decade in fashion taught me that a beautiful product is only half the story. Understanding the consumer wearing it is everything. I brought that obsession with product, retail and consumer insight into Anaar. What I consciously left behind was the pressure to build for everyone. Anaar was born from a very specific point of view: fewer compromises, more personality, and products that make you want to wear them again and again.
 
+
+
+
+
+![](/assets/images/posts/screenshot-2026-09-01-at-4.58.00 pm.png)
+
+
+
 **Anaar's signature wedge sneakers, cushioned soles, lightweight construction, elevated silhouettes, became a standout innovation almost immediately. Walk us through the design process behind that product. What did it take to make something that looks like it belongs at a wedding and feels like it belongs on a walk?**
 
 We started with a slightly rebellious question: why cannot your wedding footwear actually be your most comfortable one? We played endlessly with proportions, cushioning, lightweight soles and silhouettes until the sneaker felt elevated enough for occasion dressing without losing its ease. Then came the fun part, bringing in zardozi, mirror work, crystals and Indian craftsmanship. The result had to look like it belonged under a lehenga, but feel like your favourite everyday sneaker.
@@ -48,6 +58,12 @@ Anaar is really about the art of showing up. Whether it is a pair of sneakers, a
 **You have degrees from Carnegie Mellon and Imperial College London, and a background that moves between business strategy and design sensibility. How do those two modes of thinking, the analytical and the creative, actually work together when you are making product decisions?**
 
 For me, the two are constantly in conversation. The analytical side asks: does this make sense? Who is our consumer? Will they wear it? The creative side asks: but does it make them feel something? The best Anaar products sit right in the middle, commercially smart, but with enough magic to make you stop scrolling and say, I need that.
+
+
+
+![](/assets/images/posts/5e8898ae-af83-48d8-a968-6ed83f6b744e.jpeg)
+
+![](/assets/images/posts/4f4ca506-9122-4ae4-a6ec-2ca02f516f3b.jpeg)
 
 **The Indian wedding and festive occasion market is one of the most emotionally charged and commercially significant in the world. What does a woman actually feel when she puts on a pair of Anaar wedge sneakers at a wedding, and why does that feeling matter more than the product itself?**
 
