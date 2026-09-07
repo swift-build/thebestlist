@@ -5,7 +5,7 @@ title: "Chef Harsh of The Gourmet Kitchen: The Man Who Walked Away From Food and
   Came Back Knowing Exactly What He Was Doing"
 slug: chef-harsh-gourmet-kitchen-studio-interview-2026
 date: 2026-09-01 16:43:00 +0530
-author: Kira
+author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Food
@@ -17,7 +17,7 @@ excerpt: He opened a restaurant at 2001, walked away, returned a decade later
   with considerably more wisdom, and has since catered for the Ambanis, fed
   1,200 guests in Phuket, and built four distinct food brands. Chef Harsh on
   what it actually takes to make an evening feel effortless.
-instagram_url: https://www.instagram.com/chefharsh/
+instagram_url: https://www.instagram.com/chefharsh.shodhan
 ---
 There is a kind of experience that only arrives through failure, and a kind of wisdom that only arrives through the willingness to begin again. Chef Harsh, founder of The Gourmet Kitchen and Studio and the four-brand culinary ecosystem he has built around it, has both in abundance, and he does not pretend otherwise. He opened Mirch Masala, a Gujarati thali restaurant, in 2001, watched it succeed and then close, stepped away from food entirely, and returned in 2012 carrying something he could not have acquired any other way: the specific and irreplaceable knowledge of what he had done wrong, and the clarity of purpose that comes from having tested your own conviction against reality and still found it intact.
 
