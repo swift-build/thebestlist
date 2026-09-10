@@ -1,15 +1,15 @@
 ---
 layout: post
 draft: false
-title: "Immortal Arts: The Three-Founder Studio That Stopped Photographing
-  Weddings and Started Witnessing Them"
+title: "Immortal Arts: How Three Photographers Stopped Shooting Weddings and
+  Started Witnessing Them"
 slug: immortal-arts-wedding-photography-film-studio-interview-2026
 date: 2026-09-08 18:29:00 +0530
 author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Weddings
-image: /assets/images/posts/tbl-banner-immportal-banner.png
+image: /assets/images/posts/tbl-banner-immortal-2.png
 featured: false
 meta_title: "Immortal Arts Photos and Films: The Studio That Stopped
   Photographing Weddings and Started Witnessing Them"
@@ -35,11 +35,7 @@ A father looking at his daughter. A mother quietly watching from the corner of a
 
 Those photographs made us realise that the wedding itself was only the setting. The people were the story. That became the turning point for Immortal Arts. We stopped asking only how do we photograph this wedding beautifully, and began asking what does this wedding mean to these people. That question continues to influence almost everything we do today.
 
-
-
 ![](/assets/images/posts/screenshot-2026-09-08-at-6.32.09 pm.png)
-
-
 
 **You have said you do not want to be vendors but witnesses who happen to carry cameras. What does a couple have to feel around you before they forget you are even there?**
 
@@ -53,11 +49,7 @@ A couple stops posing and starts interacting. Friends stop behaving like subject
 
 For us, that trust is not separate from the photography. It is part of the craft.
 
-
-
-![](/assets/images/posts/screenshot-2026-09-08-at-6.33.09 pm.png)
-
-
+![](/assets/images/posts/screenshot-2026-09-10-at-11.26.16 am.png)
 
 **Every wedding is choreographed chaos: florists, families, five ceremonies in one day. How do you find the one unguarded second inside all of that?**
 
@@ -71,13 +63,11 @@ For us, documentary photography is less about reacting quickly and more about pa
 
 
 
-
-
-![](/assets/images/posts/screenshot-2026-09-08-at-6.33.43 pm.png)
+![](/assets/images/posts/screenshot-2026-09-10-at-11.28.56 am.png)
 
 
 
-![](/assets/images/posts/screenshot-2026-09-08-at-6.33.59 pm.png)
+![](/assets/images/posts/screenshot-2026-09-10-at-11.29.22 am.png)
 
 
 
@@ -91,11 +81,7 @@ Ananya's mother, Tejaswita, had spent years encouraging her daughter towards ind
 
 That was the story that stayed with us. The news could tell people what the wedding represented. We were fortunate enough to witness what it meant to the people standing inside it.
 
-
-
-![](/assets/images/posts/screenshot-2026-09-08-at-6.34.41 pm.png)
-
-
+![](/assets/images/posts/screenshot-2026-09-08-at-6.33.59 pm.png)
 
 **That wedding has been called path-breaking. For you, was it? Or was it simply love, photographed honestly?**
 
@@ -105,11 +91,7 @@ Perhaps that is why the experience became so meaningful to us. The more honestly
 
 So yes, their wedding was path-breaking. But for us, it was also something much simpler: it was love, family and a life milestone photographed honestly.
 
-
-
 ![](/assets/images/posts/screenshot-2026-09-08-at-6.35.10 pm.png)
-
-
 
 **You talk about photographs becoming family archives, the ones a child finds twenty years later and asks, who were these people? What is the weight of knowing you are making something for a person who has not yet been born?**
 
@@ -119,13 +101,7 @@ That possibility makes us think differently about what deserves to be preserved.
 
 So when we are photographing, we are often asking ourselves a slightly different question: will this photograph still mean something when nobody remembers what camera we used or how we edited it? If the answer is yes, that is the photograph we are interested in.
 
-
-
-
-
-![](/assets/images/posts/screenshot-2026-09-08-at-6.35.48 pm.png)
-
-
+![](/assets/images/posts/screenshot-2026-09-10-at-11.27.12 am.png)
 
 **Indian weddings are maximalist by nature: colour, scale, spectacle. How do you stay drawn to stillness inside all that noise?**
 
@@ -133,11 +109,7 @@ We do not think stillness has to compete with spectacle. In fact, we think the c
 
 We are drawn to that contrast. We love the visual richness of Indian weddings: the fashion, architecture, décor, colour and scale. But we are equally interested in the human moments happening inside all of it. The spectacle gives a wedding its visual energy. The people give it its emotional meaning. Our job is to find the intersection between the two.
 
-
-
 ![](/assets/images/posts/screenshot-2026-09-08-at-6.36.34 pm.png)
-
-
 
 **If Immortal Arts had to describe its visual language in three words, what would they be, and what is the one shot you have never quite managed to plan, only receive?**
 
@@ -149,11 +121,7 @@ The photographs we have never been able to plan are often the ones we value most
 
 You can create the conditions for these moments. But you cannot manufacture them. The camera can be ready. The moment cannot.
 
-
-
-![](/assets/images/posts/screenshot-2026-09-08-at-6.37.09 pm.png)
-
-
+![](/assets/images/posts/screenshot-2026-09-10-at-11.30.24 am.png)
 
 **Documentary photography demands you disappear. Filmmaking demands you shape a narrative. How do three founders agree on where observation ends and storytelling begins?**
 
