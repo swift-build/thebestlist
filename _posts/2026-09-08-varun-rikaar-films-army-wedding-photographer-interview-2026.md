@@ -9,14 +9,14 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Weddings
-image: /assets/images/posts/tbl-banner-varuj.png
+image: /assets/images/posts/tbl-banner-varun.png
 featured: false
 meta_title: "Varun, Rikaar Films: The Army Officer Who Became One of India's
   Most Compelling Wedding Photographers"
-excerpt: He spent 25 years in the Indian Army, 12 of them in Kashmir, earned a
-  Gallantry award, and documented over 150 weddings across continents, mostly
-  while still in uniform. Varun of Rikaar Films on the image that started
-  everything and the one he still hasn't taken.
+excerpt: He spent 25 years in the Indian Army, 10 of them in Kashmir, earned a
+  Gallantry award, and documented over 150 weddings across continents, balancing
+  work and passion. Varun of Rikaar Films on the image that started everything
+  and the one he still hasn't taken.
 instagram_url: https://www.instagram.com/rikaarfilms/?hl=en
 ---
 There are photographers who found their calling in a classroom, and there are those who found it in a place no classroom could have prepared them for. Varun, founder of Rikaar Films, belongs to the second category with a specificity that even the most dramatic origin stories rarely match. He spent twenty-five years in the Indian Army, twelve of them in Jammu & Kashmir, developed his eye across UN peacekeeping postings in Ethiopia and Eritrea, earned a Gallantry award for service under conditions that most people will never encounter, and learned to read a room with the particular quality of attention that only comes from environments where reading it correctly is not a professional advantage but a matter of consequence.
@@ -29,17 +29,19 @@ Two years since retirement, Varun is fully here. And the work is only getting mo
 
 What often gets overlooked in the conversation about Rikaar Films is that weddings are only one dimension of a body of work that extends considerably further. Varun's documentary photography, built across decades of service and refined through commissions that took him from the deserts of the Middle East to the highlands of East Africa, represents a parallel and equally serious creative practice. His work for the Indian Army, producing films, exhibitions, and visual records of an institution that rarely allows outsiders its most interior moments, required not only technical skill but the kind of institutional trust that is extended only to those who have earned it on both sides of the lens. That foundation, of documentary rigour, of the discipline that comes from working in environments where the image has to be true rather than simply beautiful, is what sits underneath the wedding work and makes it different from most of what the category produces. Rikaar Films is, in the most accurate sense of the phrase, a visual storytelling practice that happens to include weddings, rather than a wedding studio that occasionally ventures beyond them.
 
-
-
 ![](/assets/images/posts/whatsapp-image-2026-08-24-at-12.01.47-pm.jpeg)
 
 ![](/assets/images/posts/d3c683ce-2f45-4d91-9d96-11418e7054d4.jpeg)
 
-
-
-**There is a particular kind of eye that only comes from bearing witness, to landscapes, to people under pressure, to moments that will not repeat themselves. You developed yours over 25 years in the Indian Army, 12 of them in Jammu & Kashmir. Before we talk about weddings, tell us about the photographer you became in the valley. What were you learning to see?**
+**There is a particular kind of eye that only comes from bearing witness, to landscapes, to people under pressure, to moments that will not repeat themselves. You developed yours over 25 years in the Indian Army, 10 of them in Jammu & Kashmir. Before we talk about weddings, tell us about the photographer you became in the valley. What were you learning to see?**
 
 I would not dare call myself a teacher of photography. I am still very much a student, and I take that seriously. What the army gave me, and Kashmir specifically, was the discipline of daily investment in the craft. No matter how demanding the schedule, I always found time and energy to upskill myself. Time is not enough on its own. Energy matters equally. That combination, applied consistently over years, is where the eye actually develops.
+
+
+
+![](/assets/images/posts/varun-carousel.png)
+
+
 
 **A Gallantry award. An operational injury that changed the course of your service. And then, a camera that became something more than a hobby. How did photography become the thing that held you together during that transition, and what did it ask of you that the uniform never had?**
 
@@ -49,11 +51,7 @@ The real beginning was in Ethiopia, part of a United Nations peacekeeping missio
 
 That waiting, that anticipation, that discovery months later of what you had managed to see and hold, taught me a quality of patience that cannot be taught in any classroom. It is something you arrive at through practice, through repetition, through the particular discipline of working with film when film is the only option available. That experience became foundational to everything that followed.
 
-
-
 ![](/assets/images/posts/whatsapp-image-2026-08-24-at-12.01.46-pm.jpeg)
-
-
 
 **You carried a camera through United Nations postings in Ethiopia, through parts of India that exist outside the frame of most people's imagination, and eventually the Army itself began to use your lens. What is the image from that chapter of your life that stays with you?**
 
@@ -71,15 +69,7 @@ What I found was that everything I had been searching for across the world in do
 
 What I also recognised was that wedding photography, at its best, could be something considerably more than pictures of people looking at the camera or pictures of what happened rather than what was felt. It could be sophisticated, considered, emotionally true. It could look like a life genuinely lived rather than an occasion documented. That realisation was the beginning of everything that followed.
 
-
-
-
-
 ![](/assets/images/posts/whatsapp-image-2026-08-24-at-11.58.52-am.jpeg)
-
-
-
-
 
 **Over 150 weddings. A body of work built largely while you were still in uniform, still serving. Now that you are fully here, fully behind the camera on your own terms, what has changed about the work itself?**
 
@@ -87,13 +77,7 @@ In terms of the philosophy and the passion, nothing has changed at all. The soul
 
 What I have chosen to hold constant is the decision to shoot every project myself, which means we are intentionally selective about how many weddings we take on in a year. That selectivity is not a limitation. It is the thing that keeps the work honest. The moment you delegate the creative centre of what you do, you lose the thing that made people choose you in the first place.
 
-
-
-
-
 ![](/assets/images/posts/whatsapp-image-2026-08-24-at-11.58.58-am.jpeg)
-
-
 
 **Wedding photography at this level is as much about reading people as it is about reading light. You have spent a career in environments where reading a room correctly was not a professional skill but something considerably more urgent. How does that instinct show up in the way you move through a celebration?**
 
@@ -101,15 +85,9 @@ The most important thing I have learned, and the most important thing I teach my
 
 That instinct, developed over years of operating in environments where reading the room had real stakes, is probably the most directly transferable thing my career in the army gave to my career behind the camera. You learn, very quickly, that the decisive moment does not wait for you to arrive at it. You have to be there first.
 
-
-
 ![](/assets/images/posts/whatsapp-image-2026-08-24-at-11.58.57-am.jpeg)
 
-
-
 ![](/assets/images/posts/whatsapp-image-2026-08-24-at-11.59.00-am.jpeg)
-
-
 
 **Rikaar Films has documented weddings across cultures and continents. What is the one thing that is always the same, regardless of where in the world you are standing?**
 
@@ -117,17 +95,21 @@ The core soul of every wedding, no matter whose God you are paying reverence to,
 
 What makes every wedding unique is the tradition and the ritual that surrounds that act. The way love is expressed, celebrated, witnessed, and sealed differs across cultures in ways that are endlessly fascinating. But the act at the centre is always the same. And when you understand that, you can walk into any ceremony in the world and find your way into the emotional truth of it very quickly.
 
+
+
+![](/assets/images/posts/varun-212.png)
+
+
+
+
+
 **After Kashmir, after Ethiopia, after a career's worth of weddings on every continent, what is the image you still have not taken?**
 
 I genuinely believe my best photograph is the one I have not taken yet. And I am not working toward any particular image or any particular milestone. What I am doing, every day, is loving the process. The everyday creativity, the conversations with couples, the particular quality of anticipation before a wedding, the satisfaction of a gallery that tells a true story: that joy is the work, and the work is the joy.
 
 I think the moment a photographer decides they have arrived, something important goes out of the work. The best students are the ones who never stop being students. That is the only thing I am certain of.
 
-
-
 ![](/assets/images/posts/whatsapp-image-2026-08-24-at-12.00.47-pm.jpeg)
-
-
 
 **You are, by your own admission, still learning what it means to run a business rather than simply make beautiful work within one. What does this chapter feel like, and what does Rikaar Films look like when you have built it entirely on your own terms?**
 
