@@ -1,9 +1,9 @@
 ---
 layout: post
 draft: false
-title: "Tasneem Anwarali of TAN | 365: The Lawyer Who Read the Fine Print on
-  Women's Health and Built a Brand Around It"
-slug: tasneem-anwarali-tan-365-nutrition-wellness-interview-2026
+title: "Tanisha Bawa of TAN | 365: The Lawyer Who Read the Fine Print on Women's
+  Health and Built a Brand Around It"
+slug: tanisha-bawa-tan-365-nutrition-wellness-interview-2026
 date: 2026-08-10 13:00:00 +0530
 author: Kiran
 author_image: /assets/images/posts/kiran.jpg
@@ -11,15 +11,15 @@ categories:
   - Health
 image: /assets/images/posts/tbl-banner-tan.png
 featured: false
-meta_title: "Tasneem Anwarali, TAN | 365: The Nutrition Coach Redefining
-  Preventive Health for Indian Women"
+meta_title: "Tanisha Bawa, TAN | 365: The Nutrition Coach Redefining Preventive
+  Health for Indian Women"
 excerpt: She managed her PCOD through nutrition when medicine offered only
   management. She left litigation to build an evidence-based wellness brand.
-  Tasneem Anwarali of TAN | 365 on what the body can do when you finally start
+  Tanisha Bawa of TAN | 365 on what the body can do when you finally start
   listening to it.
 instagram_url: https://www.instagram.com/tan365studio
 ---
-There is a particular kind of founder whose company is inseparable from the thing that happened to them before it. Tasneem Anwarali, founder of TAN | 365, was a litigation lawyer when she was diagnosed with PCOD during law school and told, as so many women are told, that the symptoms were simply something she would have to manage. She decided not to accept that. She changed what she ate, how she exercised, how she slept, how she handled stress. The PCOD came under control. The understanding that followed, of what the body can do when it is given what it actually needs, became the founding logic of everything she has since built.
+There is a particular kind of founder whose company is inseparable from the thing that happened to them before it. Tanisha Bawa, founder of TAN | 365, was a litigation lawyer when she was diagnosed with PCOD during law school and told, as so many women are told, that the symptoms were simply something she would have to manage. She decided not to accept that. She changed what she ate, how she exercised, how she slept, how she handled stress. The PCOD came under control. The understanding that followed, of what the body can do when it is given what it actually needs, became the founding logic of everything she has since built.
 
 TAN | 365, launched in 2021, operates at the intersection of functional nutrition, gut health, hormonal balance, fertility, pregnancy, postpartum recovery, and metabolic health, serving clients through a multidisciplinary team of nutritionists whose approach is evidence-based, deeply personalised, and built around the conviction that lasting health is a lifestyle rather than a programme. The brand has since extended into EAT by TAN | 365, a clean-label, gluten-free, vegan, refined sugar-free functional food line, and a corporate wellness offering that takes the same philosophy into organisations. We spoke with Anwarali about what litigation taught her about nutrition science, why the Indian wellness industry's appetite for noise is a problem worth resisting, and what preventive healthcare in India looks like when it reaches the scale it deserves.
 
