@@ -1,7 +1,7 @@
 ---
 layout: post
 draft: false
-title: "Immortal Arts: How Three Photographers Stopped Shooting Weddings and
+title: "Immortal Arts: How Three Storytellers Stopped Shooting Weddings and
   Started Witnessing Them"
 slug: immortal-arts-wedding-photography-film-studio-interview-2026
 date: 2026-09-08 18:29:00 +0530
@@ -61,15 +61,9 @@ That requires anticipation. You have to be present enough to know that a particu
 
 For us, documentary photography is less about reacting quickly and more about paying attention deeply.
 
-
-
 ![](/assets/images/posts/screenshot-2026-09-10-at-11.28.56 am.png)
 
-
-
 ![](/assets/images/posts/screenshot-2026-09-10-at-11.29.22 am.png)
-
-
 
 **Tell us about Ananya and Vignesh. Not the headline, the frame. What did you see through the lens that the world did not get to see in the news coverage?**
 
@@ -91,7 +85,7 @@ Perhaps that is why the experience became so meaningful to us. The more honestly
 
 So yes, their wedding was path-breaking. But for us, it was also something much simpler: it was love, family and a life milestone photographed honestly.
 
-![](/assets/images/posts/screenshot-2026-09-08-at-6.35.10 pm.png)
+![](/assets/images/posts/screenshot-2026-09-10-at-6.19.18 pm.png)
 
 **You talk about photographs becoming family archives, the ones a child finds twenty years later and asks, who were these people? What is the weight of knowing you are making something for a person who has not yet been born?**
 
