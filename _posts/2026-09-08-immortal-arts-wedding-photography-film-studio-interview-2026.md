@@ -35,7 +35,7 @@ A father looking at his daughter. A mother quietly watching from the corner of a
 
 Those photographs made us realise that the wedding itself was only the setting. The people were the story. That became the turning point for Immortal Arts. We stopped asking only how do we photograph this wedding beautifully, and began asking what does this wedding mean to these people. That question continues to influence almost everything we do today.
 
-![](/assets/images/posts/screenshot-2026-09-08-at-6.32.09 pm.png)
+![](/assets/images/posts/tbl-carousels-2-.png)
 
 **You have said you do not want to be vendors but witnesses who happen to carry cameras. What does a couple have to feel around you before they forget you are even there?**
 
