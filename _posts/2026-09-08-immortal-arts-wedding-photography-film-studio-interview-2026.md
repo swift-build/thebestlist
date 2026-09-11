@@ -17,7 +17,7 @@ excerpt: Three founders, one philosophy, and a body of work that includes one of
   the most quietly extraordinary weddings photographed in India in recent years.
   Immortal Arts on trust, stillness inside spectacle, and the photographs made
   for people not yet born.
-instagram_url: https://www.immortalarts.in/
+instagram_url: https://www.instagram.com/immortalarts.in/?hl=en
 ---
 There is a question that most wedding photography studios ask themselves at the beginning of every brief: how do we photograph this wedding beautifully? Immortal Arts, the three-founder studio that has been building one of the more quietly distinctive bodies of work in Indian wedding photography since 2019, stopped asking that question some time ago. The question they ask instead is both simpler and considerably more demanding: what does this wedding mean to these people?
 
