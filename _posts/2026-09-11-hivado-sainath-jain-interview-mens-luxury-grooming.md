@@ -8,6 +8,8 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Beauty
+tags:
+  - Men Skincare
 image: /assets/images/posts/tbl-banner-hivado.png
 featured: false
 meta_title: In conversation with Sainath Jain, founder of Hivado, on building an
