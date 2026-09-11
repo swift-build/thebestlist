@@ -17,7 +17,7 @@ excerpt: She managed her PCOD through nutrition when medicine offered only
   management. She left litigation to build an evidence-based wellness brand.
   Tanisha Bawa of TAN | 365 on what the body can do when you finally start
   listening to it.
-instagram_url: https://www.instagram.com/tan365studio
+instagram_url: https://www.instagram.com/tanisha.bawa
 ---
 There is a particular kind of founder whose company cannot be separated from the thing that happened to them first. Tanisha Bawa was a litigation lawyer, deep in law school, when she was diagnosed with PCOD and told, as so many women are, that the symptoms were simply something to manage rather than something to fix. She decided otherwise. She rebuilt how she ate, how she moved, how she slept, how she handled stress, until the PCOD came under control. What stayed with her afterward was not the diagnosis but the discovery beneath it: how much the body can do when it is finally given what it actually needs. That conviction became the founding logic of everything she has built since.
 
@@ -33,9 +33,13 @@ Rather than accepting it as my new normal, I decided to change my lifestyle. I r
 
 I continued practising as a litigation lawyer, but when the pandemic brought the world to a standstill, it also gave me the time and space to pursue something I had become deeply passionate about. I enrolled to study functional nutrition, initially to better understand my own health. What started as curiosity quickly became a calling.
 
-The more I learnt, the more I realised how unaware most people are of the role food and lifestyle play in preventing and even reversing many chronic health concerns. I saw an opportunity to bridge the gap between science and everyday life, to make nutrition practical, evidence-based and accessible rather than overwhelming. That realisation eventually became TAN | 365.
+The more I learnt, the more I realised how unaware most people are of the role food and lifestyle play in preventing and even reversing many chronic health concerns. I saw an opportunity to bridge the gap between science and everyday life to make nutrition practical, evidence-based and accessible rather than overwhelming. That realisation eventually became TAN | 365.
 
-What I discovered on the other side was not just symptom relief. It was a completely different perspective on health. Our bodies have an incredible capacity to heal when we understand what they need. That belief continues to shape everything we do today.
+What I discovered on the other side wasn’t just symptom relief it was a completely different perspective on health. Our bodies have an incredible capacity to heal when we understand what they need. That belief continues to shape everything we do today.
+
+
+
+
 
 **You trained as a litigation lawyer before becoming a nutrition coach and gut and hormone health expert. That is one of the more unexpected pivots in Indian wellness entrepreneurship. What did the law teach you about argument, evidence, and building a case, and how much of that thinking goes into the way you approach nutrition science with your clients?**
 
