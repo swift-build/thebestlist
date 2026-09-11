@@ -15,8 +15,8 @@ meta_title: "Tanisha Bawa, TAN | 365: The Nutrition Coach Redefining Preventive
   Health for Indian Women"
 excerpt: She managed her PCOD through nutrition when medicine offered only
   management. She left litigation to build an evidence-based wellness brand.
-  Tanisha Bawa of TAN | 365 on what the body can do when you finally start
-  listening to it.
+  Tanisha Bawa, founder of TAN | 365 health and wellness studio, on what the
+  body can do when you finally start listening to it.
 instagram_url: https://www.instagram.com/tanisha.bawa
 ---
 There is a particular kind of founder whose company cannot be separated from the thing that happened to them first. Tanisha Bawa was a litigation lawyer, deep in law school, when she was diagnosed with PCOD and told, as so many women are, that the symptoms were simply something to manage rather than something to fix. She decided otherwise. She rebuilt how she ate, how she moved, how she slept, how she handled stress, until the PCOD came under control. What stayed with her afterward was not the diagnosis but the discovery beneath it: how much the body can do when it is finally given what it actually needs. That conviction became the founding logic of everything she has built since.
