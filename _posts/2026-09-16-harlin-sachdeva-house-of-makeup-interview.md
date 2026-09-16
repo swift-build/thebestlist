@@ -8,6 +8,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Beauty
+image: /assets/images/posts/tbl-banner-harlin.png
 featured: false
 meta_title: In conversation with Harlin Sachdeva, founder of House Of Makeup, on
   leaving Nykaa to build her own brand, holding every product to stringent EU
@@ -33,6 +34,12 @@ What I learnt most was the importance of being able to move between the larger p
 
 I try to bring that into House Of Makeup as well. I'm very clear about the larger direction of the brand, but I also spend time looking at things like why a particular shade isn't moving, what consumers are saying in reviews or whether a formula needs more work. I think you need both perspectives as a founder. You can't build a consumer brand purely from a 30,000-foot view.
 
+
+
+![](/assets/images/posts/zoom-in-crease-free-creamy-concealer-by-house-of-makeup-1.jpg)
+
+
+
 **You chose to formulate every House Of Makeup product against stringent EU cosmetic standards, even though nothing in India requires that standard. What was the actual moment you decided "good enough for the Indian market" wasn't good enough for you?**
 
 It was really a personal decision rather than one particular moment. I kept coming back to a very simple question: if I wasn't comfortable giving a product to my own family to use every day, why would I sell it to someone else?
@@ -55,6 +62,16 @@ We had started as a retail-first business, and beauty traditionally relies quite
 
 There was also a lot of trial and error. We were learning at the same time as the entire industry was changing. Ultimately, we had to stop thinking about how we had originally planned to sell makeup and focus instead on how the consumer was now choosing to buy it. That shift ended up making the business much more digitally mature.
 
+
+
+![](/assets/images/posts/glam-set.jpeg)
+
+![](/assets/images/posts/hom21.png)
+
+![](/assets/images/posts/hom212.png)
+
+
+
 **With over 100 SKUs now live and no product priced above ₹799, you've built genuine performance at a genuinely accessible price. What's the hardest trade-off in keeping both of those promises true at once?**
 
 The biggest challenge is deciding where to spend and where not to. There are certain things we simply don't compromise on, formulation, ingredient quality, testing, fill quantity and packaging stability.
@@ -75,6 +92,12 @@ As we grow, maintaining that level of scrutiny becomes harder because there are 
 
 I think the biggest difference is whether there is substance behind the claim. A list of ingredients a brand chooses not to use doesn't tell you everything. I want to know what formulation standards the brand follows, why certain ingredients have been excluded, what testing has been done and whether those claims apply to the finished product. I'm also quite conscious of not approaching clean beauty through fear. Natural doesn't automatically mean better, and synthetic doesn't automatically mean harmful. There is a lot of misinformation around individual ingredients, particularly on social media. We're trying to make the conversation more evidence-led. Our Face Anything Skin Tint, for example, has been developed with acne-prone and sensitive skin in mind, and relevant claims are supported through independent third-party testing and certifications. For me, that is a much more meaningful way of talking about clean beauty, being clear about the standards you follow and being able to substantiate what you say.
 
+
+
+![](/assets/images/posts/face-anything-luminous-skin-tint-house-of-makeup-1-.png)
+
+
+
 **If House Of Makeup were a single product, not your bestseller, but the one that most completely captures what the brand stands for, which one would it be, and why?**
 
 I would still choose the Face Anything Skin Tint, because it captures what I was trying to solve when I started House Of Makeup. I wanted complexion makeup that was genuinely enjoyable to use, luminous, buildable and high-performing, but I also wanted someone with sensitive or acne-prone skin to feel comfortable using it. That meant looking at both sides of the product very seriously. The finish and performance had to be right, but so did the formulation, testing and ingredients. I think that balance is very representative of the brand. We don't position makeup as skincare, but we also don't think consumers should have to choose between a product performing beautifully and being thoughtful about their skin.
@@ -86,7 +109,5 @@ And, importantly, it had to be accessible. That combination of performance, cons
 I would like House Of Makeup to have a much larger product universe, a strong offline presence in India and, eventually, a meaningful presence in international markets. I'd also like us to be recognised as a beauty brand that was built in India but competes comfortably with the best brands globally. I think the opportunity is much larger than ₹100 crore.
 
 What matters most to me, though, is that growth doesn't change the way we think about the consumer. As the company gets larger, there will naturally be more complexity, larger teams, more distribution, more products and more commercial pressures. I want us to retain the same discipline around formulation and product quality that we have today. No matter how large we grow, our consumers should always feel that there is a lot of thought behind what they are buying. That, more than anything else, is the part I would want to remain unchanged.
-
-
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
