@@ -14,9 +14,10 @@ meta_title: In conversation with Tanisha Bawa, founder of TAN | 365, on trading
   a litigation career for functional nutrition, building an evidence-first
   approach to gut health, hormones and fertility, and why India's wellness
   industry needs fewer trends and more patience.
-excerpt: Tanisha Bawa left litigation law to build TAN | 365, India's
-  evidence-based nutrition brand, after healing her own PCOD through lifestyle
-  change. She talks noise, evidence and preventive health.
+excerpt: She managed her PCOD through nutrition when medicine offered only
+  management. She left litigation to build an evidence-based wellness brand.
+  Tanisha Bawa, founder of TAN | 365 health and wellness studio, on what the
+  body can do when you finally start listening to it.
 instagram_url: https://www.instagram.com/tanisha.bawa
 ---
 
