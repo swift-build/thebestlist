@@ -20,7 +20,7 @@ excerpt: Harlin Sachdeva left a career spanning FAB BAG, Unilever and Nykaa to
   scale.
 instagram_url: https://www.instagram.com/houseofmakeupofficial/?hl=en
 ---
-There is a particular kind of founder who leaves the room everyone else is trying to get into. Harlin Sachdeva had already helped FAB BAG pivot into SUGAR Cosmetics, moved through Unilever and Nykaa, and worked directly alongside Falguni Nayar to launch Nykaa's private label, an enviable resume by any measure, before walking away to build something of her own. House Of Makeup, founded in 2019, holds every product to stringent EU cosmetic standards that nothing in India requires, keeps every SKU under ₹799, and has grown to over a hundred products without, Sachdeva insists, compromising on either promise. We spoke to her about the cost of standards nobody is forcing you to meet, what she deliberately doesn't do that she learned at bigger companies, and the one thing that has to survive the brand's growth intact.
+There is a particular kind of founder who leaves the room everyone else is trying to get into. Harlin Sachdeva had already helped FAB BAG pivot into SUGAR Cosmetics, moved through Unilever and Nykaa, and worked on launching Nykaa's private label before walking away to build something of her own. House Of Makeup, founded in 2019, holds every product to stringent EU cosmetic standards that nothing in India requires, keeps every SKU under ₹799, and has grown to over a hundred products without, Sachdeva insists, compromising on either promise. We spoke to her about the cost of standards nobody is forcing you to meet, what she deliberately doesn't do that she learned at bigger companies, and the one thing that has to survive the brand's growth intact.
 
 **You were part of the early core team that helped FAB BAG pivot into SUGAR Cosmetics, then went on to Unilever and Nykaa before starting your own brand. Most people would call that the perfect resume to stay employed. What made you walk away from it instead?**
 
@@ -34,11 +34,7 @@ What I learnt most was the importance of being able to move between the larger p
 
 I try to bring that into House Of Makeup as well. I'm very clear about the larger direction of the brand, but I also spend time looking at things like why a particular shade isn't moving, what consumers are saying in reviews or whether a formula needs more work. I think you need both perspectives as a founder. You can't build a consumer brand purely from a 30,000-foot view.
 
-
-
 ![](/assets/images/posts/zoom-in-crease-free-creamy-concealer-by-house-of-makeup-1.jpg)
-
-
 
 **You chose to formulate every House Of Makeup product against stringent EU cosmetic standards, even though nothing in India requires that standard. What was the actual moment you decided "good enough for the Indian market" wasn't good enough for you?**
 
@@ -62,15 +58,11 @@ We had started as a retail-first business, and beauty traditionally relies quite
 
 There was also a lot of trial and error. We were learning at the same time as the entire industry was changing. Ultimately, we had to stop thinking about how we had originally planned to sell makeup and focus instead on how the consumer was now choosing to buy it. That shift ended up making the business much more digitally mature.
 
-
-
 ![](/assets/images/posts/glam-set.jpeg)
 
 ![](/assets/images/posts/hom21.png)
 
 ![](/assets/images/posts/hom212.png)
-
-
 
 **With over 100 SKUs now live and no product priced above ₹799, you've built genuine performance at a genuinely accessible price. What's the hardest trade-off in keeping both of those promises true at once?**
 
@@ -92,11 +84,7 @@ As we grow, maintaining that level of scrutiny becomes harder because there are 
 
 I think the biggest difference is whether there is substance behind the claim. A list of ingredients a brand chooses not to use doesn't tell you everything. I want to know what formulation standards the brand follows, why certain ingredients have been excluded, what testing has been done and whether those claims apply to the finished product. I'm also quite conscious of not approaching clean beauty through fear. Natural doesn't automatically mean better, and synthetic doesn't automatically mean harmful. There is a lot of misinformation around individual ingredients, particularly on social media. We're trying to make the conversation more evidence-led. Our Face Anything Skin Tint, for example, has been developed with acne-prone and sensitive skin in mind, and relevant claims are supported through independent third-party testing and certifications. For me, that is a much more meaningful way of talking about clean beauty, being clear about the standards you follow and being able to substantiate what you say.
 
-
-
 ![](/assets/images/posts/face-anything-luminous-skin-tint-house-of-makeup-1-.png)
-
-
 
 **If House Of Makeup were a single product, not your bestseller, but the one that most completely captures what the brand stands for, which one would it be, and why?**
 
