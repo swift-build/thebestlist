@@ -20,4 +20,4 @@ There is a particular quality to the September wardrobe that no other month in t
 
 The fashion crowd, whose professional relationship with clothes gives them both more opinions and more permission than most, enters September with a very specific set of moves. The wardrobe is being reorganised. The festive pieces are arriving from tailors and ateliers. The occasion shoes are being broken in before they are needed. And in the in-between, the daily dressing is doing something more considered and more interesting than the months on either side of it allow.
 
-Here is what they are reaching for.
+Here is what they are reaching for
