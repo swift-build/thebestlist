@@ -23,116 +23,141 @@ There is a particular kind of founder whose company cannot be separated from the
 
 Launched in 2021, TAN | 365 sits at the intersection of functional nutrition, gut health, hormonal balance, fertility, pregnancy, postpartum recovery and metabolic health, delivered through a multidisciplinary team of nutritionists whose approach is evidence-based, deeply personalised, and built on a simple, unfashionable conviction: that lasting health is a lifestyle, not a programme. The brand has since expanded into EAT by TAN | 365, a clean-label, gluten-free, vegan, refined-sugar-free functional food line, and a corporate wellness arm carrying the same philosophy into organisations. We spoke with Bawa about what litigation taught her about nutrition science, why the Indian wellness industry's appetite for noise is a problem worth resisting, and what preventive healthcare in India looks like once it finally reaches the scale it deserves.
 
-**Your own experience with PCOD became the starting point for TAN | 365. What changed for you?**
 
-My own health journey is where TAN | 365 truly began. During law school, I was diagnosed with PCOD. Like many women, I was told that period issues, hormonal symptoms and medication were simply something I would have to manage.
 
-What surprised me was how little attention was given to nutrition, stress, sleep and lifestyle—the very factors that influence our hormones every single day.
+**1. TAN | 365 was founded in 2021 with a mission to make personalised, evidence-based nutrition accessible, practical, and sustainable. But before the brand, there was a deeply personal journey overcoming PCOD through nutrition and lifestyle. Take us back to that experience. What broke, what shifted, and what did you discover on the other side?**
 
-Rather than accepting it as my new normal, I decided to change my lifestyle. I removed inflammatory foods, changed the way I exercised, prioritised sleep and learnt to manage stress more intentionally. Over time, those changes helped me manage my PCOD naturally.
+My own health journey is where TAN | 365 truly began. During law school, I was diagnosed with PCOD. Like many women, I was told that period issues, hormonal symptoms and medication were simply something I would have to manage. What surprised me was how little attention was given to nutrition, stress, sleep and lifestyle, the very factors that influence our hormones every single day.
 
-It was the first time I truly understood how powerfully our daily choices influence our health.
+Rather than accepting it as my new normal, I decided to change my lifestyle. I removed inflammatory foods, changed the way I exercised, prioritised sleep and learnt to manage stress more intentionally. Over time, those changes helped me manage my PCOD naturally. It was the first time I truly understood how powerfully our daily choices influence our health.
 
 I continued practising as a litigation lawyer, but when the pandemic brought the world to a standstill, it also gave me the time and space to pursue something I had become deeply passionate about. I enrolled to study functional nutrition, initially to better understand my own health. What started as curiosity quickly became a calling.
 
-#### **You trained as a litigation lawyer before moving into nutrition. What did law teach you about the way you approach health?**
+The more I learnt, the more I realised how unaware most people are of the role food and lifestyle play in preventing and even reversing many chronic health concerns. I saw an opportunity to bridge the gap between science and everyday life to make nutrition practical, evidence-based and accessible rather than overwhelming. That realisation eventually became TAN | 365.
 
-While law and nutrition may appear unrelated, they share one fundamental principle: every recommendation should be backed by evidence.
+What I discovered on the other side wasn’t just symptom relief it was a completely different perspective on health. Our bodies have an incredible capacity to heal when we understand what they need. That belief continues to shape everything we do today.
 
-As a litigation lawyer, I was trained to question assumptions, evaluate facts critically and build a case based on credible evidence rather than opinion. That is exactly how I approach my nutrition coaching practice today.
 
-I spend a significant amount of time reading peer-reviewed research, with a particular focus on randomised controlled trials, and translating that science into practical, easy-to-understand guidance for my clients. Before I recommend a supplement, I want to know what the highest-quality evidence says.
 
-Every recommendation is backed by research, clinical reasoning and the individual's unique health history. Even the supplement brands we work with are carefully vetted for quality, ingredient transparency and third-party testing before we recommend them to our clients.
 
-#### **The wellness industry thrives on quick fixes and novelty. TAN | 365 takes the opposite approach. Why?**
+**2. You trained as a litigation lawyer before becoming a nutrition coach and gut and hormone health expert. That is one of the more unexpected pivots in Indian wellness entrepreneurship. What did the law teach you about argument, evidence, and building a case and how much of that thinking goes into the way you approach nutrition science with your clients?**
 
-It requires patience and conviction.
+While law and nutrition may appear unrelated, they share one fundamental principle: every recommendation should be backed by evidence. As a litigation lawyer, I was trained to question assumptions, evaluate facts critically and build a case based on credible evidence rather than opinion. That is exactly how I approach my nutrition coaching practice today.
 
-The wellness industry often rewards dramatic transformations, restrictive diets and sensational claims because they grab attention. But those approaches rarely create lasting health.
+That mindset has stayed with me throughout my career. I spend a significant amount of time reading peer-reviewed research, with a particular focus on randomised controlled trials, and translating that science into practical, easy-to-understand guidance for my clients. Before I recommend a supplement, I want to know what the highest-quality evidence says.
 
-Our philosophy has always been simple: when we work with a client, we are fostering a lifestyle change and helping them implement it.
+Every recommendation is backed by research, clinical reasoning and the individual’s unique health history. Even the supplement brands we work with are carefully vetted for quality, ingredient transparency and third-party testing before we recommend them to our clients.
 
-The way we coach our clients is not about getting them through a three-month programme. It is about helping them build a lifestyle. During those three months, our first priority is to help them heal and address the root cause of their health concerns. Once they are on the path to recovery, we work alongside them to integrate sustainable lifestyle changes into their everyday routine.
+The same principle applies to nutrition protocols. No two clients receive the same plan because no two people have the same story. We look at medical history, blood work, symptoms, lifestyle, stress, digestion, sleep and long-term goals before making recommendations. Instead of asking, “What supplement fixes this symptom?”, we ask, “Why is this happening in the first place?”
 
-By the time they complete the programme, they are equipped to confidently navigate real life—whether they are travelling, attending weddings, celebrating special occasions or simply enjoying dinner out with friends—without feeling restricted or having to start over.
+To me, evidence-based nutrition isn’t about blindly following research or dismissing lived experience. It’s about combining robust scientific evidence with clinical experience and the individual’s unique circumstances to create solutions that are both effective and sustainable.
 
-#### **Your work spans gut health, hormones, fertility, pregnancy, postpartum recovery and metabolic health. What connects these seemingly different disciplines?**
 
-The body does not work in silos.
 
-Gut health, hormones, metabolic health, fertility and reproductive health are deeply interconnected. The way we eat, digest and absorb nutrients, manage blood sugar, sleep, handle stress and recover can influence multiple systems at the same time.
 
-So when we look at a woman's health, we have to look at the whole picture rather than treating each symptom or life stage in isolation.
+**3. India’s wellness industry is flooded with trends, quick fixes, and restrictive protocols. TAN | 365 is built on the opposite philosophy: Smart, Simple, Sustainable. What does it take to hold that position in a market that is constantly rewarding noise and novelty?**
 
-Women move through so many different physiological stages across their lives—from menstruation and hormonal changes to conception, pregnancy, postpartum and eventually perimenopause and menopause. Yet historically, many of these stages have not received the attention, research or personalised support they deserve.
+It requires patience and conviction. The wellness industry often rewards dramatic transformations, restrictive diets and sensational claims because they grab attention. But those approaches rarely create lasting health.
 
-Personalised nutrition goes far beyond giving someone a meal plan or a list of foods to eat and avoid.
+Our philosophy has always been simple: when we work with a client, we are fostering a lifestyle change and helping our clients implement it.
 
-It starts with understanding the individual: their medical history, symptoms, blood work, lifestyle, food preferences, stress, sleep, exercise and, most importantly, their long-term goals.
+The way we coach our clients isn’t about getting them through a three-month programme, it's about helping them build a lifestyle. During those three months, our first priority is to help them heal and address the root cause of their health concerns. Once they’re on the path to recovery, we work alongside them to integrate sustainable lifestyle changes into their everyday routine. Through consistent guidance, accountability and support, those habits become second nature. By the time they complete the programme, they’re equipped to confidently navigate real life whether they’re travelling, attending weddings, celebrating special occasions or simply enjoying dinner out with friends without feeling restricted or having to start over.
 
-Two people can come to us with the same diagnosis or the same symptom, but the underlying reasons can be completely different. That is why our approach begins with understanding why something is happening before deciding what to do about it.
+To me, success isn’t measured by how much weight someone loses in a few weeks or how perfectly they followed a plan. It’s measured by whether they leave our programme feeling confident enough to nourish themselves for years to come. That’s the difference between a temporary intervention and lasting health.
 
-We work closely with clients throughout the programme, adapting protocols as their body responds and their needs change. It is a process of education, observation and refinement rather than simply handing someone a plan and expecting them to follow it.
 
-#### **EAT by TAN | 365 extends the philosophy into food itself. What gap were you trying to fill?**
+
+
+**4. Your programmes cover gut health, hormonal balance, fertility, pregnancy, postpartum recovery, and metabolic health a remarkably wide and deeply specialised range. What connects all of those disciplines in your mind, and what does working at that intersection reveal about how women’s bodies have been consistently underserved by mainstream healthcare?**
+
+What connects all of these areas is that the body doesn’t work in silos. Gut health, hormones, metabolic health, fertility and reproductive health are deeply interconnected. The way we eat, digest and absorb nutrients, manage blood sugar, sleep, handle stress and recover can influence multiple systems at the same time. So when we look at a woman’s health, we have to look at the whole picture rather than treating each symptom or life stage in isolation.
+
+This is particularly important because women move through so many different physiological stages across their lives from menstruation and hormonal changes to conception, pregnancy, postpartum and eventually perimenopause and menopause. Yet historically, many of these stages have not received the attention, research or personalised support they deserve.
+
+I’ve also seen how often women are expected to normalise symptoms such as painful periods, persistent bloating, fatigue, irregular cycles or hormonal changes instead of being encouraged to understand why they are happening. Women’s health needs more attention, more research and, importantly, a more integrated approach.
+
+My work sits at that intersection because I believe nutrition can play an important role in supporting women through these different stages. It’s not about looking at one hormone or one symptom in isolation; it’s about understanding how the different systems interact and using that understanding to create a more personalised approach to health.
+
+
+
+
+**5. You lead a multidisciplinary team of nutritionists and deliver programmes tailored to each client’s medical history, lifestyle, and long-term goals. What does genuinely personalised nutrition actually look like in practice and how is it different from what most people think it is?**
+
+Personalised nutrition goes far beyond giving someone a meal plan or a list of foods to eat and avoid. It starts with understanding the individual their medical history, symptoms, blood work, lifestyle, food preferences, stress, sleep, exercise and, most importantly, their long-term goals.
+
+We don’t believe in a one-size-fits-all approach. Two people can come to us with the same diagnosis or the same symptom, but the underlying reasons can be completely different. That’s why our approach begins with understanding *why* something is happening before deciding *what* to do about it.
+
+We work closely with clients throughout the programme, adapting protocols as their body responds and their needs change. It’s a process of education, observation and refinement rather than simply handing someone a plan and expecting them to follow it.
+
+For me, genuinely personalised nutrition is about first helping someone heal and address the health concerns they came to us with, and then helping them turn those changes into a lifestyle. Once we have helped them feel better and understand their body, we focus on giving them the knowledge, confidence and tools to sustain that progress independently within their real life, whether that’s travelling, going out for dinner, attending a wedding or navigating a busy work schedule.
+
+
+
+
+**6. EAT by TAN | 365 clean-label, gluten-free, vegan, refined sugar-free functional foods is an extension of the brand into everyday eating. What was the gap you were seeing in your clients’ lives that made you decide to build the food itself rather than just advise around it?**
 
 EAT by TAN | 365 started with a very simple observation: there was a gap in the Indian market for snacks and desserts that could genuinely fit into a health-conscious lifestyle without compromising on taste.
 
-When we looked at the market, we found brands that were gluten-free, or vegan, or sugar-free, but very few that brought all of these together while still creating food that people actually wanted to eat.
+When we looked at the market, we found brands that were gluten-free, or vegan, or sugar-free but very few that brought all of these together while still creating food that people actually wanted to eat. Working with all three parameters is not easy, especially when you also want the product to taste indulgent and enjoyable.
 
-Working with all three parameters is not easy, especially when you also want the product to taste indulgent and enjoyable.
+We also saw this gap through our clients. Many people have specific dietary restrictions or health goals that make finding suitable snacks and desserts difficult. And even for someone without any restrictions, I don’t believe that wanting to indulge occasionally means you have to completely compromise on the quality of what you’re eating.
 
-For us, it is not about labelling food as guilt-free or telling people they should not indulge. It is about creating better choices so that health and indulgence do not always have to be at opposite ends of the spectrum.
+That’s why we built EAT by TAN | 365 as a snack and dessert brand with the same philosophy as TAN | 365 as a whole: health should be practical and enjoyable. If you want a dessert, why shouldn’t there be an option made with better ingredients that you can genuinely enjoy?
 
-#### **Your corporate wellness programmes take this philosophy beyond the individual. What changes when health becomes part of workplace culture?**
+For us, it’s not about labelling food as “guilt-free” or telling people they shouldn’t indulge. It’s about creating better choices so that health and indulgence don’t always have to be at opposite ends of the spectrum.
+
+
+
+
+**7. Your corporate wellness programmes take this philosophy into organisations. What happens to a workplace when the people in it start eating and living differently and what resistance do you encounter from companies that think wellness is a perk rather than a foundation?**
 
 When people feel better physically and mentally, it inevitably influences how they show up at work. Better nutrition, sleep, movement and stress management can support energy, focus, productivity and overall wellbeing.
 
-The biggest shift we try to create through our corporate programmes is moving wellness away from being a one-off activity and towards becoming part of workplace culture.
-
-A wellness talk or health day can create awareness, but sustainable change requires ongoing education and an environment that makes healthier choices easier.
+The biggest shift we try to create through our corporate programmes is moving wellness away from being a one-off activity and towards becoming part of workplace culture. A wellness talk or health day can create awareness, but sustainable change requires ongoing education and an environment that makes healthier choices easier.
 
 There is still a mindset among some organisations that wellness is an employee benefit or perk. I believe it is much more fundamental than that. Employees are the foundation of every organisation, and investing in their health is ultimately an investment in the organisation itself.
 
-#### **If TAN | 365 were an ingredient rather than a supplement or wellness trend, what would it be?**
 
-Turmeric.
 
-It is ancient, accessible and incredibly versatile, but it has also stood the test of time. Long before wellness made individual ingredients fashionable, turmeric was already deeply embedded in Indian food and traditional practices.
 
-What I love about it is that it represents something I strongly believe in: you do not need the newest or most expensive wellness trend to support your health.
+**8. If TAN | 365 were a single ingredient not a supplement or a superfood trend, but something ancient, whole, and quietly powerful. What would it be and why?**
 
-Sometimes the most powerful things are the simplest ones, especially when they are incorporated consistently into everyday life.
+I would choose turmeric. It is ancient, accessible and incredibly versatile, but it has also stood the test of time. Long before wellness made individual ingredients fashionable, turmeric was already deeply embedded in Indian food and traditional practices.
 
-That, in many ways, is what TAN | 365 stands for: going back to the fundamentals, understanding the science behind them and making them practical for modern life.
+What I love about it is that it represents something I strongly believe in: you don’t need the newest or most expensive wellness trend to support your health. Sometimes the most powerful things are the simplest ones, especially when they are incorporated consistently into everyday life.
 
-#### **What does lasting behavioural change actually require?**
+That, in many ways, is what TAN | 365 stands for going back to the fundamentals, understanding the science behind them and making them practical for modern life.
 
-It starts with understanding that behaviour change is not about willpower.
 
-People need to understand why they are making a change and experience enough positive reinforcement to want to continue it.
+
+
+**9. Lasting behavioural change rather than temporary results is your defining promise. In a world of 21-day challenges and 30-day detoxes, what does it actually take to help someone build a relationship with food and their body that holds for life?**
+
+It starts with understanding that behaviour change isn’t about willpower. People need to understand why they are making a change and experience enough positive reinforcement to want to continue it.
 
 We focus on education, consistency and gradual integration rather than restriction. Clients learn how their body responds to different foods, how to make choices in different situations and how to listen to their own hunger, energy and digestive cues.
 
-We do not expect people to live in a bubble. Real life includes travel, weddings, celebrations, dinners out and busy periods at work. If someone's health plan only works when everything is perfect, it is not sustainable.
+We help our clients heal their concerns with our functional approach and thereafter help them create a lifestyle which means we don’t expect people to live in a bubble. Real life includes travel, weddings, celebrations, dinners out and busy periods at work. If someone’s health plan only works when everything is perfect, it isn’t sustainable.
 
-Our role is to give clients the knowledge and confidence to navigate those situations without guilt or the feeling that they have failed. That is when nutrition stops being a programme and becomes a way of life.
+Our role is to give clients the knowledge and confidence to navigate those situations without guilt or the feeling that they’ve failed. That’s when nutrition stops being a programme and becomes a way of life.
 
-#### **What comes next for TAN | 365?**
 
-The next phase for TAN | 365 is about building a larger preventive health ecosystem—one that brings together personalised nutrition, education, functional foods, community and technology, while staying true to the evidence-based approach we started with.
 
-I believe the future of healthcare has to move from reactive to preventive.
 
-Instead of waiting until someone develops a chronic condition and then trying to manage it, we need to start much earlier—understanding our bodies, nutrition, metabolic health, gut health, hormones, sleep and lifestyle before problems become entrenched.
+**10. What is coming next for TAN | 365 and what does preventive healthcare in India look like when the work you are doing reaches the scale it deserves?**
 
-EAT by TAN | 365 will be an important part of that journey. We have already started building community-led programmes, including one focused on educating people about blood sugar balance, and we want to expand these into more areas of preventive health.
+The next phase for TAN | 365 is about building a larger preventive health ecosystem, one that brings together personalised nutrition, education, functional foods, community and technology, while staying true to the evidence-based approach we started with.
 
-Education is one of the most powerful forms of prevention, because when people understand what is happening inside their bodies, they are better equipped to make informed decisions about their health.
+I believe the future of healthcare has to move from reactive to preventive. Instead of waiting until someone develops a chronic condition and then trying to manage it, we need to start much earlier understanding our bodies, nutrition, metabolic health, gut health, hormones, sleep and lifestyle before problems become entrenched.
 
-My long-term vision for TAN | 365 is to help shift the conversation in India from **“How do I fix this?”** to **“How do I prevent this from happening in the first place?”**
+EAT by TAN | 365 will be an important part of that journey. We want to continue developing functional foods that aren’t just healthier alternatives, but are thoughtfully formulated around specific nutritional needs. We have already started doing this with our Seed Cycling Energy Bites, which make incorporating seeds into the diet simple and convenient while supporting our cycle-syncing philosophy. Going forward, I see us building a wider range of functional foods that make it easier for people to incorporate evidence-informed nutrition into everyday life.
 
-If we can make evidence-based nutrition more accessible, practical and enjoyable, and give people the tools to understand and take ownership of their health, we can help create a generation that thinks about healthcare before they need it.
+Education and community will be another important part of our growth. We have already started building community-led programmes, including one focused on educating people about blood sugar balance, and we want to expand these into more areas of preventive health. I believe education is one of the most powerful forms of prevention because when people understand what is happening inside their bodies, they are better equipped to make informed decisions about their health.
+
+At the same time, we want to use technology to make high-quality nutrition support more accessible. I don’t think preventive healthcare should be something people turn to only after they develop a health problem. It should become part of how we live.
+
+My long-term vision for TAN | 365 is to help shift the conversation in India from “How do I fix this?” to “How do I prevent this from happening in the first place?” If we can make evidence-based nutrition more accessible, practical and enjoyable and give people the tools to understand and take ownership of their health we can help create a generation that thinks about healthcare before they need it.
+
+
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
