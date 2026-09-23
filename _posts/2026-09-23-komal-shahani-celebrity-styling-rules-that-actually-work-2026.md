@@ -26,11 +26,7 @@ Komal Shahani, the stylist whose client roster includes Akshay Kumar and Saif Al
 
 Here are the five she swears by.
 
-
-
-![](/assets/images/posts/img_0426.jpg.jpeg)
-
-
+![](/assets/images/posts/img_0420.jpg.jpeg)
 
 **Rule One: Tailoring Over Tags**
 
@@ -40,11 +36,7 @@ Perfect alterations change more than the silhouette. They change posture. They c
 
 Celebrity clients understand this instinctively, because they have sat through enough fittings to know that the label inside the collar is invisible once the garment is on the body, while the fit is the only thing anyone actually sees.
 
-
-
-![](/assets/images/posts/img_0426.jpg.jpeg)
-
-
+![](/assets/images/posts/img_0422.jpg.jpeg)
 
 **Rule Two: Dimensional Layering**
 
@@ -56,11 +48,7 @@ The layering that works best is not additive in a way that crowds the look. It i
 
 These are the moves that make a look feel inhabited rather than assembled.
 
-
-
-![](/assets/images/posts/img_0422.jpg.jpeg)
-
-
+![](/assets/images/posts/img_0424.jpg.jpeg)
 
 **Rule Three: The Hero Piece Strategy**
 
@@ -70,11 +58,7 @@ The hero piece strategy is the discipline of choosing one anchor, a statement ja
 
 This is why the most memorable celebrity looks tend to resolve themselves around a single decision: the coat, the jewellery piece, the shoe. Everything else is edited to allow that decision to land. The outfit that tries to make five things interesting simultaneously tends to make nothing interesting at all.
 
-
-
 ![](/assets/images/posts/img_0427.jpg.jpeg)
-
-
 
 **Rule Four: High-Low Textural Play**
 
@@ -84,11 +68,7 @@ Heavy denim paired with fluid silk. A chunky knit against sleek leather. A rough
 
 This is the principle behind the most interesting off-duty celebrity looks: the denim and slip dress combination that photographs beautifully in any light, the oversized knit with leather trousers that creates instant visual tension. The contrast is doing the work that colour or pattern would otherwise be called upon to do, and doing it more elegantly.
 
-
-
 ![](/assets/images/posts/img_0425.jpg.jpeg)
-
-
 
 **Rule Five: Own the Room**
 
