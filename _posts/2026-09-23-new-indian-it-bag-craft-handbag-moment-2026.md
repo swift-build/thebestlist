@@ -30,70 +30,43 @@ In India, this shift has been accelerated by two additional forces. The first is
 
 The result is a market in which the most interesting handbag conversation is no longer happening between Indian consumers and international houses but between Indian consumers and Indian makers, and in which the question of what makes a bag worth investing in has acquired a specificity and a sophistication that the logo era never quite demanded.
 
-
-
 **These pieces should make your wardrobe!**
 
 ![](/assets/images/posts/bella_baguette_-_orange.webp)
 
 **EN TOI Bella Baguette-** *[Shop Here](https://www.entoi.com/products/bella-baguette-orange)*
 
-
-
 ![](/assets/images/posts/img_0508.webp)
-
 
 **House of Namaera London Bag**- *[Shop Here](https://www.houseofnamaera.com/products/london-bag?variant=43792351363151)*
 
-
-
 ![](/assets/images/posts/screenshot-2026-09-23-at-4.42.41 pm.png)
 
-
-
-**Irth Iris Tote in Tan** -* [Shop Here](https://www.irth.in/product/iris-tote---tan-r241tolap03tn1.html)*
-
-
+**Irth Iris Tote in Tan** - *[Shop Here](https://www.irth.in/product/iris-tote---tan-r241tolap03tn1.html)*
 
 ![](/assets/images/posts/1_4a8ca844-16dd-428b-a672-47059eb39159_1800x1800.jpg)
 
-
-
-**Chiaroscuro Madurai, Petite Ana**-* [Shop Here](https://chiaroscuro.in/collections/the-madurai-edit/products/madurai-petite-ana)*
-
-
+**Chiaroscuro Madurai, Petite Ana**- *[Shop Here](https://chiaroscuro.in/collections/the-madurai-edit/products/madurai-petite-ana)*
 
 ![](/assets/images/posts/39_54511fa9-4e02-46a2-9db0-82eecf1e490f.webp)
 
 **Mistry Selena Fringe in Blue Azure**- *[Shop Here](https://www.shopmistry.com/products/selena-fringes-in-silver-copy)*
 
-
-
 ![](/assets/images/posts/harness_tool_box_blue_1.webp)
-
-
 
 **Swarang Designs, Harness Tool Box, Blue**- *[Shop Here](https://swarang.in/products/harness-tool-box-blue?_pos=18&_sid=64a257a89&_ss=r)*
 
-
 ![](/assets/images/posts/screenshot-2026-09-23-at-4.48.49 pm.png)
 
-**Tann Trim The Heart Bag**-[ *Shop Here*](https://www.tanntrim.com/products/the-heart-bag?_pos=1&_sid=5aabfdc24&_ss=r)
-
-
+**Tann Trim The Heart Bag**- *[Shop Here](https://www.tanntrim.com/products/the-heart-bag?_pos=1&_sid=5aabfdc24&_ss=r)*
 
 ![](/assets/images/posts/36_9a448c4b-9268-455f-b243-e0c55eae77c6_1024x1024-2x.webp)
 
 **Claymango Maeve Crescent Clutch in Olive**- *[Shop Here](https://www.claymango.com/products/maeve-crescent-clutch-in-olive?_pos=1&_psq=Maeve+Crescent+Clutch+in+Olive&_psid=56b64c4e3&_ss=e)*
 
-
-
 ![](/assets/images/posts/nami-soiree-4601738.webp)
 
-
-
 **Kadamhaat Nami soirée - Sumi-** *[Shop Here](https://www.kadamhaat.com/products/nami-soiree?_pos=1&_sid=07703bf88&_ss=r)*
-
 
 **The Design Language of the Moment**
 
