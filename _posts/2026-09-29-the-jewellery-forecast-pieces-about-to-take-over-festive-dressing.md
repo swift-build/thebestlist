@@ -53,6 +53,16 @@ Emeralds, rubies, and sapphires (or their beautifully executed lookalikes) are e
 
 
 
+![](/assets/images/posts/statement-gold-watch-by-kataria-jewellers-.png)
+
+**Statement Gold Watch by Kataria Jewellers**
+
+
+
+![](/assets/images/posts/ektaragifting.png)
+
+
+
 **The Takeaway**
 
 This festive season, the jewellery does not accessorise the outfit. It leads it. Choose the piece that feels like a statement, wear it like an heirloom, and let the rest of the look follow.
