@@ -22,6 +22,12 @@ instagram_url: https://www.instagram.com/shopfllae/?hl=en
 ---
 Some brands are born out of a business plan. FLLAE was born at a party, when a NIFT-and-London-College-of-Fashion-trained designer and an engineer with no formal fashion training discovered they shared an obsession with fashion, music and travel, and decided that was reason enough to build something together. What followed is a label defined less by a singular aesthetic than by a working method: nothing leaves the studio until it has been fit-tested on two co-founders with entirely different bodies. We spoke to Alekya and Sritha about why that became non-negotiable, the failed prototypes behind their signature convertible pieces, and what inclusivity actually requires once you stop treating it as a size chart.
 
+
+
+![](/assets/images/posts/whatsapp-image-2026-09-17-at-6.46.08-pm.jpeg)
+
+
+
 **Alekya, you trained at NIFT Hyderabad and London College of Fashion and worked on a Kering Group project with Bottega Veneta. Sritha, you're an engineer with no formal fashion training. What made you two decide, of all the people you could have built something with, that you needed each other?**
 
 **Alekya:** FLLAE actually started at a party, where Sritha and I discovered a shared obsession with fashion, music, travel and the desire to create something of our own. What made us the right partners was how differently we approached the same idea. My background in fashion naturally makes me think through design, fabric, proportion and construction, while Sritha's engineering background brings a strong lens of functionality and problem-solving.
@@ -50,6 +56,8 @@ We didn't set out to find a fashion designer and an engineer. We simply realised
 
 We do have our good days and bad days too that come out of disagreements but we put the brand first and think practically and take decisions.
 
+
+
 **Your signature piece is the detachable, multi-way convertible outfit, technically one of the hardest things to design well. What was the failure before you got the first one right?**
 
 **Alekya:** Our first multi-way outfit came in our second collection. We wanted one midi dress to transform into a short dress and then into a top, so the same piece could genuinely take you from day to night.
@@ -60,6 +68,12 @@ The biggest challenge was proportion. Every time we changed one length, another 
 
 **Alekya:** The breakthrough was realising that the three versions couldn't feel like compromises of one another. Each had to look like a complete garment in its own right. That's what finally made the concept work, and we started exploring more styles in skirts, dresses and pants in the same concept in every collection of ours since then.
 
+
+
+![](/assets/images/posts/screenshot-2026-10-06-at-5.56.55 pm.png)
+
+
+
 **"The Elevated Bodysuit" is a very specific obsession to build a brand pillar around. Why does that one garment matter so much to what FLLAE is trying to say?**
 
 **Alekya:** Our obsession is because it sits perfectly between statement and effortless dressing. A beautifully constructed bodysuit can instantly make you look more polished and put-together, without feeling like you've tried too hard.
@@ -67,6 +81,12 @@ The biggest challenge was proportion. Every time we changed one length, another 
 It also creates a clean, flattering silhouette without the rolling, bunching or folds you often get with conventional fitted tops.
 
 **Sritha:** And we've taken that very functional foundation and made it distinctly FLLAE through interesting silhouettes, surface detailing and embellishment. So it can either be the subtle foundation of a look or the statement itself, and there are hardly many brands doing this so you will find the right options with us.
+
+
+
+![](/assets/images/posts/screenshot-2026-10-06-at-5.58.11 pm.png)
+
+![](/assets/images/posts/screenshot-2026-10-06-at-5.57.35 pm.png)
 
 **You've said fashion should be "liberating, inclusive, and an absolute blast." What does a FLLAE piece let a woman do that she couldn't do in her wardrobe before?**
 
@@ -113,7 +133,5 @@ That's what we love most, when the innovation is invisible and all you see is a 
 **Alekya:** Most importantly, we want to stay close to the product. FLLAE started with two friends who loved fashion and having fun with clothes. As we grow, that sense of experimentation, individuality and joy has to stay exactly the same, but to survive the tough market, we hope to not drift away from keeping the business commercially viable too.
 
 So you will see more casual yet distinct styles added in limited batches to keep the exclusivity alive, and we plan to add something that is all things extra soon too, to cater to extraordinary, tasteful personalities as well.
-
-
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
