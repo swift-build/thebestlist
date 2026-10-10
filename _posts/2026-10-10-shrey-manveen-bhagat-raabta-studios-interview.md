@@ -41,11 +41,7 @@ My role was to bring that structure behind Shrey’s creativity without ever int
 
 I think that balance has become a big part of Raabta. Shrey protects the soul of the work, and I make sure we build a business strong enough to protect that soul as we grow.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-10-at-5.48.34 pm.png)
-
-
 
 **“It truly takes a village to build something meaningful, and even more to build something that lasts.” What has that village looked like for the two of you, and what has it cost you to build something that lasts rather than something that simply grows?**
 
@@ -56,6 +52,12 @@ But our village extends far beyond our own team. One of the most beautiful thing
 It is such a wonderful industry to be a part of because it feels enormous from the outside, but is actually such a small, closely connected world. Everyone knows someone who can help, everyone has each other’s backs, and ultimately we are all working towards the same thing: making the most important days of someone’s life as magical as they can be.
 
 And perhaps that is also what building something that lasts has meant to us. It has never been about growing at any cost. It has been about building relationships, earning trust and creating a community of people who genuinely care about the work and about each other.
+
+
+
+![](/assets/images/posts/screenshot-2026-10-10-at-5.53.08 pm.png)
+
+
 
 **In four years, Raabta has documented over 100 weddings across destinations like Italy, Greece, the Maldives and the UAE. Is there one wedding, one destination, one family that changed the way you work?**
 
@@ -71,11 +73,7 @@ You also have to remember that you are not photographing models. You are photogr
 
 For me, the photograph is never more important than the moment itself. If I have to choose between creating a great photograph and allowing something genuine to happen uninterrupted, I will always protect the moment. And ironically, those are often the photographs that end up meaning the most.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-10-at-5.49.38 pm.png)
-
-
 
 **You’ve worked with the Birlas, the Ambanis, the Salgaocars and some of India’s most private families. How do you earn the trust of people who have spent their whole lives being watched?**
 
@@ -89,11 +87,7 @@ But ultimately, I think people trust us because they know we care about the peop
 
 The greatest compliment for us is when, after a few hours, people stop noticing the cameras. They laugh, cry, hug, dance and behave exactly as they would if we weren’t there. That is when we know we have earned their trust.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-10-at-5.51.18 pm.png)
-
-
 
 **Manveen, you’ve said what truly builds a brand is delivering with the same intent every single time. What does that discipline look like on the one day no one is allowed to go wrong?**
 
@@ -121,13 +115,7 @@ We also don’t believe that a wedding should have to fit into one visual langua
 
 For us, evolution is really about staying curious. The moment we feel we have perfected one way of telling a story is probably the moment we should start asking ourselves what else is possible.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-10-at-5.50.05 pm.png)
-
-
-
-
 
 **From Vogue India’s Top 5 Wedding Photographers to the Condé Nast Destination Wedding Guide 2025, the recognition has followed quickly. Which moment made you both pause and realise how far Raabta had come?**
 
@@ -155,14 +143,8 @@ There is something quite special about building a company with your partner. We 
 
 And that is probably what the next chapter of Raabta means to us. Not becoming the biggest, but becoming better. Not just building a successful photography company, but building something with a soul, something our team feels proud to belong to and something that, years from now, still makes a couple feel exactly what they felt on the day we photographed them.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-10-at-5.50.39 pm.png)
 
-
-
 There is a quiet paradox at the centre of Raabta’s success: the studio has become one of India’s most in-demand names by deliberately refusing to chase demand. Shrey protects the moment, Manveen builds the structure that lets him, and between them they have made a business out of a simple, unfashionable conviction, that presence cannot be scaled, only chosen. In an industry that rewards volume, the Bhagats keep betting on depth. If the photographs that return a couple to the exact feeling of their wedding day are the real measure, then Raabta, whose name means “connection,” has been honouring its promise all along.
-
-
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
