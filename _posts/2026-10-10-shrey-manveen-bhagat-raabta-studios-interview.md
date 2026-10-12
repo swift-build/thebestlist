@@ -53,11 +53,7 @@ It is such a wonderful industry to be a part of because it feels enormous from t
 
 And perhaps that is also what building something that lasts has meant to us. It has never been about growing at any cost. It has been about building relationships, earning trust and creating a community of people who genuinely care about the work and about each other.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-10-at-5.53.08 pm.png)
-
-
 
 **In four years, Raabta has documented over 100 weddings across destinations like Italy, Greece, the Maldives and the UAE. Is there one wedding, one destination, one family that changed the way you work?**
 
@@ -75,7 +71,7 @@ For me, the photograph is never more important than the moment itself. If I have
 
 ![](/assets/images/posts/screenshot-2026-10-10-at-5.49.38 pm.png)
 
-**You’ve worked with the Birlas, the Ambanis, the Salgaocars and some of India’s most private families. How do you earn the trust of people who have spent their whole lives being watched?**
+**You’ve worked with the Birlas, the Salgaocars and some of India’s most private families. How do you earn the trust of people who have spent their whole lives being watched?**
 
 **Shrey & Manveen:** I think the first thing is understanding that access is a privilege, not an entitlement.
 
