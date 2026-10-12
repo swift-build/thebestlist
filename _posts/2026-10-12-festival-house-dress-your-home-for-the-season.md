@@ -22,8 +22,6 @@ There is a particular kind of anticipation that settles over a house in the week
 
 This season, the calendar is generous. Navratri runs through 19 October, with Dussehra on 20 October, followed by Dhanteras on 6 November and Diwali on Sunday 8 November. That is the better part of a month of celebration, which is exactly why the smartest approach to dressing your home is to build in layers, not to redo it all at once.
 
-
-
 ![](/assets/images/posts/gulmohar_dinner_set_for_1_1800x1200_1.webp)
 
 **[Gulmohar Dinner Set for 1 By Indian Heirloom Co.- The House of Things](https://thehouseofthings.com/gulmohar-dinner-set-for-1.html)**
@@ -34,11 +32,7 @@ This season, the calendar is generous. Navratri runs through 19 October, with Du
 
 ![](/assets/images/posts/irra-kumidini.png)
 
-
-
 **[The Kumidini Tealight Holder from IRRA Luxury Living](https://irraluxury.com/products/kumidini-tealight-holder)**
-
-
 
 ![](/assets/images/posts/sacred-spaces-scented-candle-leather.avif)
 
@@ -48,17 +42,13 @@ This season, the calendar is generous. Navratri runs through 19 October, with Du
 
 **[Longwa Dining Chair from Cane Concepts](https://caneconcept.com/products/longwa-chair)**
 
-
-
 ![](/assets/images/posts/sq_akwl-1310-0001.jpg)
 
 **[Zuri: Hand knotted wool Rug in aspen gold/poppy red square from Jaipur Rugs](https://www.jaipurrugs.com/in/rugs/akwl-1310-aspen-gold-poppy-red-rug)**
 
-
-
 ![](/assets/images/posts/tiger01.webp)
 
-**[Vikram Goyal's Vyaghra | The Tiger Sculpture](https://vikramgoyal.com/products/vyaghra-the-tiger-sculpture?variant=52686784004464)**
+**Vikram Goyal's Vyaghra | The Tiger Sculpture**
 
 ![](/assets/images/posts/photo-2026-02-24-22-56-59.webp)
 
@@ -67,8 +57,6 @@ This season, the calendar is generous. Navratri runs through 19 October, with Du
 ![](/assets/images/posts/thot23224_1800x1200.webp)
 
 **[Tholu Bommalata Hanuman Art by Kaash Gallery By THOT Collectibles](https://thehouseofthings.com/accessories/tholu-bommalata-hanuman-art.html)**
-
-
 
 ### **A Month-Long Plan**
 
