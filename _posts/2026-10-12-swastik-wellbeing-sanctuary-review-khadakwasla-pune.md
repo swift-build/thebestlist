@@ -17,7 +17,7 @@ meta_title: Swastik Luxury Wellbeing Sanctuary in Peacock Valley, Khadakwasla,
 excerpt: Cocoon-shaped suites, pulse diagnosis, a sound bath and a lake that
   quietens everything. Swastik is a wellbeing sanctuary where every element,
   from the plaster to the plate, has been designed around the guest.
-instagram_url: https://www.instagram.com/swastikwellbeing/?hl=en
+instagram_url: https://www.instagram.com/swastikwellbeing/
 ---
 There is a particular kind of luxury that does not announce itself. It is the luxury of waking to greenery instead of concrete, of hearing birds instead of traffic, of realising by the second morning that you have spent an hour looking at a lake and have not once reached for your phone. Swastik Luxury Wellbeing Sanctuary is built around that kind of luxury, and it delivers it with a coherence that is rare even among India’s best retreats.
 
