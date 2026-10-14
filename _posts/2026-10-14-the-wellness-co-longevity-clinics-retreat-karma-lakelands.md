@@ -24,19 +24,23 @@ There is a quiet shift under way in how affluent India thinks about health. The 
 
 Co-founded by Rishabh Jain and his brother, the company now operates integrative wellness and longevity clinics across eight Indian cities, from Defence Colony and Golf Course Road to Marine Drive, Bandra, Banjara Hills, Chennai’s TTK Road, Ahmedabad, Ludhiana and three addresses in Bengaluru. This season, it is adding something larger: a retreat at Karma Lakelands, built to take the same philosophy and give it room to breathe.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-14-at-4.51.55 pm.png)
-
-
 
 **A Founding Idea**
 
-Jain puts the ambition plainly. “We set out with a clear yet ambitious vision: to transform the way people approach health by moving from treating illness to prioritising prevention, and from simply extending lifespan to improving quality of life.” The company’s thesis is that true wellness begins at the cellular level, where advanced science, personalised diagnostics, nutrition, recovery technologies and mindful living can address underlying causes rather than managing symptoms.
+Jain puts the ambition plainly,
 
-His measure of success is refreshingly unquantified. “Our success isn’t measured by how many therapies we offer,” he says, “but by how meaningfully we improve people’s lives.” The longer aspiration is a national one: to make India a global destination for science-led wellness.
+> *“We set out with a clear yet ambitious vision: to transform the way people approach health by moving from treating illness to prioritising prevention, and from simply extending lifespan to improving quality of life.”* 
 
 
+
+The company’s thesis is that true wellness begins at the cellular level, where advanced science, personalised diagnostics, nutrition, recovery technologies and mindful living can address underlying causes rather than managing symptoms.
+
+His measure of success is refreshingly unquantified. 
+
+> “Our success isn’t measured by how many therapies we offer, but by how meaningfully we improve people’s lives.” 
+
+The longer aspiration is a national one: to make India a global destination for science-led wellness.
 
 ![](/assets/images/posts/screenshot-2026-10-14-at-4.52.09 pm.png)
 
@@ -48,11 +52,7 @@ The clinic experience is built around three organising principles the company re
 
 The audience, by the brand’s own description, is high achievers, men and women at the top of the success ladder who carry real strain on both mind and body, and who want a tailored plan rather than a generic one.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-14-at-4.52.15 pm.png)
-
-
 
 **The Retreat at Karma Lakelands**
 
@@ -64,11 +64,7 @@ The facilities map to that thinking. A Health Optimization Lab houses red light 
 
 Stays come in four lengths: three nights (The Reset), five (The Recalibration), seven (The Transformation) and fourteen (The Renewal).
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-14-at-4.52.21 pm.png)
-
-
 
 **The Sleep Chapter**
 
