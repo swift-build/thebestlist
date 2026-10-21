@@ -5,8 +5,10 @@ title: "Rhea Poddar Loyalka of Deshya by Ma Passion: Never Before. Never Again."
 slug: rhea-poddar-loyalka-deshya-ma-passion-gemstone-carving-jewellery-interview-2026
 date: 2026-10-21 18:06:00 +0530
 author: Kiran
+author_image: /assets/images/posts/kiran.jpg
 categories:
   - Fashion
+image: /assets/images/posts/tbl-banner-deshya.png
 featured: false
 meta_title: "Rhea Poddar Loyalka, Deshya by Ma Passion: The Creative Director
   Redefining Gemstone Carving and Coloured Jewellery"
@@ -41,10 +43,6 @@ Technically, that freedom comes with its own challenges. Carved and unusual gems
 
 For me, carrying this philosophy forward is not about recreating Ma Passion in jewellery. It is about carrying forward the same spirit of discovery and giving it a distinct Deshya expression.
 
-
-
-
-
 **Most jewellery brands work backward from diamonds, rubies, emeralds and sapphires. You start somewhere else entirely. Walk us through how you choose a raw, exotic gemstone and decide what it wants to become.**
 
 For me, it always begins with curiosity. I am drawn to gemstones that have something unexpected about them, whether it is an unusual colour, an interesting origin, a natural inclusion or simply a character I have not encountered before.
@@ -62,6 +60,12 @@ One experience that really taught me something was with a parcel of rough tsavor
 I decided to take the risk and go ahead. Thankfully, the stone held together, but because the kaarigar was understandably cautious about damaging it, the final carving was more restrained than I had envisioned. It was less sculptural and not as deeply carved as I had imagined.
 
 What it taught me was that carving is as much about trust and conviction as it is about technical skill. As a designer, I need to push an idea, but I also need my kaarigar to believe in it and feel confident taking that risk with me. When that conviction is shared, I think that is when you get the best work.
+
+
+
+![](/assets/images/posts/screenshot-2026-10-21-at-6.04.41 pm.png)
+
+
 
 **Deshya moves fluidly between statement, couture and fine jewellery. How do you decide when a piece should whisper and when it should be the loudest thing in the room?**
 
@@ -87,6 +91,8 @@ So, if I had to describe Deshya entirely through colour, it would be a world tha
 
 
 
+![](/assets/images/posts/screenshot-2026-10-21-at-6.03.48 pm.png)
+
 
 
 **Bridal and festive dressing in India has its own grammar: heirloom, heavy, traditional. Where does Deshya choose to honour that grammar, and where does it deliberately break it?**
@@ -110,6 +116,8 @@ The process became a real collaboration between the carver and me. We had to con
 For me, that was the biggest learning: sometimes the skill is not carving more, but in knowing when to let the stone speak for itself.
 
 
+
+![](/assets/images/posts/screenshot-2026-10-21-at-6.02.28 pm.png)
 
 
 
