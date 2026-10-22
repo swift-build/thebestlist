@@ -21,13 +21,9 @@ excerpt: Farid on designing celebrations like choreography, why Edible Tables
   table, generous food and genuine service.
 instagram_url: https://www.instagram.com/farid_al_atrash_
 ---
-Some people arrive in hospitality by design. Farid Mimouni arrived by accident, and stayed because, for the first time, work did not feel like work. Today his practice sits at the intersection of gastronomy, art direction and event choreography, with credits that include a 12-metre Edible Table at the Museum of the Future, a dinner staged on the Dubai Opera stage and a party in an underground car park. Through FM Consulting, Boutique Catering and Waldi, a personal project created with Zeyneb, he approaches every celebration the same way: look at the bigger picture, then obsess over the smallest detail. We spoke to him about why the table is the most powerful storytelling device in a room, what Edible Tables can bring to weddings, and why he hopes clients will stop relying on AI to write their briefs.
-
-
+Some people arrive in hospitality by design. Farid Mimouni arrived by accident, and stayed because, for the first time, work did not feel like work. Today his practice sits at the intersection of gastronomy, art direction and event choreography, with credits that include a 12-metre Edible Table at the Museum of the Future, a dinner staged on the Dubai Opera stage and a party in an underground car park. Through FM Consulting and Boutique Catering, he approaches every celebration the same way: look at the bigger picture, then obsess over the smallest detail. Alongside them sits Waldi, a personal project he created with Zeyneb. We spoke to him about why the table is the most powerful storytelling device in a room, what Edible Tables can bring to weddings, and why he hopes clients will stop relying on AI to write their briefs.
 
 ![](/assets/images/posts/img_2563.jpg)
-
-
 
 **What first drew you to the world of food and hospitality, and what made you stay?**
 
@@ -44,8 +40,6 @@ I look at every single element of a project, from the initial concept to the fin
 There’s the creative side, the brand identity, the aesthetics, the food, the taste, the operational requirements and, of course, the budget.
 
 I think my signature is that ability to look at the bigger picture while paying attention to the smallest details.
-
-
 
 ![](/assets/images/posts/dsc02674.jpg)
 
@@ -68,8 +62,6 @@ It’s where people gather, where conversations begin, where food is shared and 
 For me, a table is never just a combination of plates, glasses, flowers and decorative elements.
 
 Every detail has to be there for a reason. The choice of materials, the colours, the proportions, the way the table is dressed: everything contributes to creating an atmosphere.
-
-
 
 ![](/assets/images/posts/dsc00936.jpg)
 
@@ -111,11 +103,7 @@ For me, the objective is to protect the creative intention without losing sight 
 
 It’s about finding alternatives that maintain the aesthetics, the taste and the overall experience while making sure everything can actually be delivered.
 
-
-
 ![](/assets/images/posts/dsc02737.jpg)
-
-
 
 **Each of the cultures you have worked in carries very different expectations of hospitality. How much does that range shape your menus and your design?**
 
@@ -129,11 +117,7 @@ I come from a French and Algerian background, and those are cuisines and culture
 
 If a project requires a specific culinary identity, whether that’s Emirati, Indian or South American, I would rather collaborate with a chef or specialist who genuinely understands that cuisine than pretend I can interpret it myself.
 
-
-
 ![](/assets/images/posts/dsc04367.jpg)
-
-
 
 **FM Consulting, Boutique Catering and Waldi are three connected concepts. How do they inform one another, and what does Waldi let you say that an event cannot?**
 
@@ -161,8 +145,6 @@ I also think about my time working with the creative team at INKED, particularly
 
 All these experiences stay with me for different reasons.
 
-
-
 ![](/assets/images/posts/dsc03012.jpg)
 
 ![](/assets/images/posts/dsc03323.jpg)
@@ -189,10 +171,6 @@ I believe there’s something powerful about returning to the fundamentals of ho
 
 What I do hope, however, is that clients will stop relying so heavily on AI to create F&B briefs and visual references that often don’t reflect the reality.
 
-
-
 *There is a through-line in everything Farid says, and it is humility dressed as discipline. He starts from the guest’s point of view, protects a vision without ignoring the kitchen, and knows where his own expertise ends, preferring to bring in a specialist rather than fake a cuisine he does not know. It makes for an unfashionable kind of luxury: one that is less interested in what looks impressive in a photograph than in what feels right at the table, an hour into the evening. If the next chapter of celebrations really is a return to the fundamentals, a beautiful table, generous food and genuine service, then Farid has been practising it all along.*
-
-
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
