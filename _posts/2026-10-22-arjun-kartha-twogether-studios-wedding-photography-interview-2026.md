@@ -8,7 +8,7 @@ author: Kiran
 author_image: /assets/images/posts/kiran.jpg
 categories:
   - Weddings
-image: /assets/images/posts/screenshot-2026-10-22-at-7.18.26 pm.png
+image: /assets/images/posts/tbl-banner-arjun-.png
 featured: false
 meta_title: "Arjun Kartha, Twogether Studios: 18 Years, 700 Weddings and the
   Case for Letting the Wedding Happen"
