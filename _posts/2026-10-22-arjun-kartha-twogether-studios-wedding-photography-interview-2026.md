@@ -38,8 +38,6 @@ So I started photographing what was happening. People being themselves, with all
 
 I certainly did not arrive in 2008 announcing that I was going to help change an industry. I just thought there had to be a better way. Looking back, I am proud to have been part of that early shift towards what became known as candid wedding photography in India.
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-22-at-7.13.50 pm.png)
 
 ![](/assets/images/posts/screenshot-2026-10-22-at-7.14.07 pm.png)
@@ -72,11 +70,7 @@ Once people saw photographs of themselves laughing properly, or discovered somet
 
 ![](/assets/images/posts/screenshot-2026-10-22-at-7.16.40 pm.png)
 
-
-
 ![](/assets/images/posts/screenshot-2026-10-22-at-7.15.12 pm.png)
-
-
 
 **You say you anticipate moments without manufacturing them. How do you learn a family well enough to know when something is about to happen, and where is the line you will not cross?**
 
@@ -89,8 +83,6 @@ Once you understand those relationships, you know where to look. Experience help
 The boundary is someone’s comfort. If a bride is overwhelmed and needs a few minutes alone with her mother, we give her that space. If a family tells us something is private, we respect it. Having access to a moment does not automatically mean you are entitled to photograph it.
 
 Being invited into a family’s most personal moments comes with a responsibility to behave like someone they were right to trust.
-
-
 
 **A father’s expression before his daughter walks down the aisle. Tell us about a frame that stopped you, and the story behind it.**
 
@@ -120,11 +112,7 @@ Think of everyone erupting when a particular song comes on. You want to see the 
 
 Those sounds tell you what it was like to be in that room. They give the pictures their full meaning, and make the film unmistakably yours.
 
-
-
-![](/assets/images/posts/screenshot-2026-10-22-at-7.15.48 pm.png)
-
-![](/assets/images/posts/screenshot-2026-10-22-at-7.16.11 pm.png)
+![](/assets/images/posts/screenshot-2026-10-24-at-9.56.28 am.png)
 
 **Documentary and editorial are rarely spoken of in the same breath. How do you hold honesty and beauty in the same frame without letting either one win?**
 
@@ -140,11 +128,9 @@ And documentary photographs can be beautifully composed. An honest moment does n
 
 A good wedding photographer should be able to do both. Some couples love the full fashion treatment; others feel most themselves laughing together. Often, the same couple wants a bit of each. The skill is understanding them well enough to make both feel natural to their wedding.
 
+![](/assets/images/posts/screenshot-2026-10-24-at-9.58.16 am.png)
 
-
-![](/assets/images/posts/screenshot-2026-10-22-at-7.17.34 pm.png)
-
-![](/assets/images/posts/screenshot-2026-10-22-at-7.17.10 pm.png)
+![](/assets/images/posts/screenshot-2026-10-24-at-9.58.51 am.png)
 
 **Palace celebrations in India, destination weddings across the world. What does each place ask of you as a storyteller, and what stays the same wherever you are?**
 
@@ -180,14 +166,8 @@ Decades from now, I hope the pictures set off a very lively conversation. That i
 
 If the family ends up laughing, remembering and telling stories long after they have opened the album, I will be very happy.
 
-
-
-
-
 *Kartha returns often to the people around the couple: the cousin whose importance no family tree could explain, the parent watching quietly, the friend who knows exactly what will set everyone laughing. Across eighteen years of changing cameras, styles and destinations, those relationships have kept giving him something new to photograph.*
 
 *Perhaps that is what gives a wedding story its longest life. Years later, a family opens an album, recognises an expression, and the conversation starts all over again.*
-
-
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
