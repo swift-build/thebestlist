@@ -71,15 +71,15 @@ Shed's Kirwani carrom board with marble inlay](https://www.instagram.com/outofth
 
 This is the Kirwani carrom board, a resplendent exploration in marble inlays with ambitious shapes in the form of different animals, all likening puzzle pieces fitting perfectly within each other. This carrom board is a custom piece made for a client who loves animals. We’ve exacted the dimensions on a standard board but re-interpreted lines to shoot from with figurines from the animal world. Inspirations were gathered from miniature painting forms erupting in different parts of the subcontinent: each animal is represented as if in motion and in its natural habitat. The set is complete with counters capturing essential Indian botanicals.
 
-![](/assets/images/posts/8_7ce754e4-4e2a-4df3-a8d5-e44da9782d3c.jxl)
+![](/assets/images/posts/ssbqe8rxy-471010313001_1_ls.avif)
 
-**[Tann Trim Do the Dare Jenga](https://www.tanntrim.com/products/tt-do-the-dare-jenga)**
 
-Redefine game nights with our luxury Jenga set, meticulously crafted in premium wood and wrapped in fine faux leather. Each block is not just a piece of the game but a conversation starter, featuring a unique dare that adds a playful twist to every move.Designed in warm, neutral tones, this Jenga set blends effortlessly into modern living spaces, doubling as a decorative piece when not in play. Perfect for family evenings, parties, or gifting, it combines the thrill of strategy with the elegance of luxury craftsmanship .Hand-crafted with care, this is more than a game — it’s a piece of art that makes every gathering unforgettable.
+
+**[Swasdesh Ganjifa Cedar Wood 6-in-1 Board Game Red](https://www.swadeshonline.com/product/gudphal-six-in-one-multi-fs-7513661)**
+
+Get ready to strategise like a pro with this six-in-one board game crafted with white cedar wood in Maharashtra. With a sleek matte finish, this game offers a range of classic and modern options for endless fun with friends and family.
 
 ![](/assets/images/posts/thot19786_1800x1200_12.jpg)
-
-
 
 **[Ludo from The Leather Garden](https://theleathergarden.com/products/ludo?_pos=1&_sid=e41801f65&_ss=r)**
 
