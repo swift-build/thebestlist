@@ -170,10 +170,9 @@ If the family ends up laughing, remembering and telling stories long after they 
 
 *Perhaps that is what gives a wedding story its longest life. Years later, a family opens an album, recognises an expression, and the conversation starts all over again.*
 
-***Explore more of Twogether Studios’ wedding photography and films on their website, or follow their latest stories on Instagram.”***
+***Explore more of Twogether Studios’ wedding photography and films on their website, or follow their latest stories on Instagram.***
 
-*    **Website**: https://twogetherstudios.in/*
-
-*    **Instagram**: https://www.instagram.com/twogetherstudios.in/*
+* **Website**: https://twogetherstudios.in/
+* **Instagram**: https://www.instagram.com/twogetherstudios.in/
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
