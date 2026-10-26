@@ -20,7 +20,7 @@ instagram_url: https://www.instagram.com/twogetherstudios.in/
 ---
 Before “candid” became a category in Indian wedding photography, Arjun Kartha was wondering why so much of a wedding had to stop for the camera. Couples waited for instructions, relatives assembled on cue, and somewhere between the carefully arranged portraits, the celebration carried on.
 
-He began photographing weddings in 2008 with a documentary photographer’s interest in what happened between those instructions. Eighteen years and more than 700 weddings later, that instinct remains at the centre of Twogether Studios, the wedding photography and films studio he founded in Gurgaon, Delhi NCR.
+He began photographing weddings in 2008 with a documentary photographer’s interest in what happened between those instructions. Eighteen years and more than 700 weddings later, that instinct remains at the centre of **[Twogether Studios](https://twogetherstudios.in/.)**, the wedding photography and films studio he founded in Gurgaon, Delhi NCR.
 
 The work has evolved from those early photographs into a shared practice across photographers, filmmakers, editors, and writers, documenting celebrations across India and internationally. So has his attention: beyond the couple and towards the relationships that make a wedding theirs.
 
@@ -169,5 +169,11 @@ If the family ends up laughing, remembering and telling stories long after they 
 *Kartha returns often to the people around the couple: the cousin whose importance no family tree could explain, the parent watching quietly, the friend who knows exactly what will set everyone laughing. Across eighteen years of changing cameras, styles and destinations, those relationships have kept giving him something new to photograph.*
 
 *Perhaps that is what gives a wedding story its longest life. Years later, a family opens an album, recognises an expression, and the conversation starts all over again.*
+
+***Explore more of Twogether Studios’ wedding photography and films on their website, or follow their latest stories on Instagram.”***
+
+*    **Website**: https://twogetherstudios.in/*
+
+*    **Instagram**: https://www.instagram.com/twogetherstudios.in/*
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
