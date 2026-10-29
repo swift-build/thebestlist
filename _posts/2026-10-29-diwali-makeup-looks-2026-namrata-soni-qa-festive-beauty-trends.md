@@ -6,11 +6,16 @@ title: "Dressed Up, Not Overdone: Namrata Soni on the Diwali Makeup Looks to Try
 slug: diwali-makeup-looks-2026-namrata-soni-qa-festive-beauty-trends
 date: 2026-10-29 17:46:00 +0530
 author: Kiran
+author_image: /assets/images/posts/kiran.jpg
 categories:
   - Beauty
 image: /assets/images/posts/tbl-banner-namrata-soni.png
 featured: false
-meta_title: ""
+meta_title: Diwali 2026 beauty is about luminous skin, softly defined eyes, a
+  pop of colour on the lips and blush that brings the face to life. In this Q&A,
+  makeup artist Namrata Soni shares the five festive makeup trends to try, how
+  to match makeup to a statement Indian outfit, tips to make it last through
+  long celebrations, and her signature Diwali look from skin to lips.
 excerpt: "Namrata Soni on Diwali makeup 2026: five festive trends, how to pair
   makeup with Indian outfits, long-wear tips and her signature look from skin to
   lips."
@@ -32,6 +37,12 @@ I think this Diwali is going to be all about beautiful skin and makeup that look
 
 For me, the idea is to look dressed up without looking like you have tried too hard.
 
+
+
+![](/assets/images/posts/img_2126.heic)
+
+![](/assets/images/posts/img_2368.heic)
+
 ### **Glowing skin, bold lips or statement eyes: what is the ultimate festive makeup look this year?**
 
 For me, it has to start with beautiful skin. You can wear the most gorgeous eyeshadow or the most beautiful lipstick, but if the skin doesn’t look good, the whole look can fall flat.
@@ -39,6 +50,12 @@ For me, it has to start with beautiful skin. You can wear the most gorgeous eyes
 I would go for luminous skin, softly defined eyes and a lip colour that complements the outfit. If you love a bold lip, let that be the focus and keep the eyes softer. If you want to do a statement eye, keep the lips more understated.
 
 I don’t think there’s one look that works for everyone. The best festive makeup is the one that makes you feel beautiful and comfortable in your own skin.
+
+![](/assets/images/posts/img_2482.heic)
+
+![](/assets/images/posts/img_2481.heic)
+
+
 
 ### **How can you make your makeup complement a statement Indian outfit without looking overdone?**
 
@@ -49,6 +66,12 @@ I always believe makeup should complement the outfit, not compete with it. If th
 If you’re wearing a simpler outfit, you can have a little more fun with your makeup, whether that’s a bold lip, a beautiful metallic eye or a stronger blush.
 
 The most important thing is balance. You don’t have to do everything at once. Sometimes, a beautiful eye, fresh skin and the right lip colour are all you need.
+
+![](/assets/images/posts/img_2506.heic)
+
+![](/assets/images/posts/img_2014.png)
+
+
 
 ### **What are your expert tips for making festive makeup last through long Diwali celebrations?**
 
@@ -73,6 +96,5 @@ For the eyes, I would use warm bronze and champagne tones, blended softly, with 
 For the lips, I would choose a beautiful rose brown or muted berry shade, depending on the outfit. I would finish with a soft glow on the skin and make sure everything is blended beautifully.
 
 I want the woman wearing this look to feel glamorous but still look like herself. For me, that’s what great makeup should do: bring out your features, make you feel confident and let your natural beauty shine through.
-
 
 ***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
