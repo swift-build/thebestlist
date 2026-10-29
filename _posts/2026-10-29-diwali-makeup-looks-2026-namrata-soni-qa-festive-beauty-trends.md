@@ -37,9 +37,7 @@ I think this Diwali is going to be all about beautiful skin and makeup that look
 
 For me, the idea is to look dressed up without looking like you have tried too hard.
 
-
-
-![](/assets/images/posts/img_2126.heic)
+![](/assets/images/posts/screenshot-2026-10-29-at-6.17.15 pm.png)
 
 ![](/assets/images/posts/img_2368.heic)
 
@@ -55,8 +53,6 @@ I don’t think there’s one look that works for everyone. The best festive mak
 
 ![](/assets/images/posts/img_2481.heic)
 
-
-
 ### **How can you make your makeup complement a statement Indian outfit without looking overdone?**
 
 When you’re wearing a statement outfit, especially something with heavy embroidery, intricate work or beautiful jewellery, you need to decide what you want the focus to be.
@@ -70,8 +66,6 @@ The most important thing is balance. You don’t have to do everything at once. 
 ![](/assets/images/posts/img_2506.heic)
 
 ![](/assets/images/posts/img_2014.png)
-
-
 
 ### **What are your expert tips for making festive makeup last through long Diwali celebrations?**
 
