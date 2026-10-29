@@ -39,7 +39,7 @@ For me, the idea is to look dressed up without looking like you have tried too h
 
 ![](/assets/images/posts/screenshot-2026-10-29-at-6.17.15 pm.png)
 
-![](/assets/images/posts/img_2368.heic)
+![](/assets/images/posts/screenshot-2026-10-29-at-6.17.21 pm.png)
 
 ### **Glowing skin, bold lips or statement eyes: what is the ultimate festive makeup look this year?**
 
@@ -49,9 +49,9 @@ I would go for luminous skin, softly defined eyes and a lip colour that compleme
 
 I don’t think there’s one look that works for everyone. The best festive makeup is the one that makes you feel beautiful and comfortable in your own skin.
 
-![](/assets/images/posts/img_2482.heic)
+![](/assets/images/posts/screenshot-2026-10-29-at-6.17.29 pm.png)
 
-![](/assets/images/posts/img_2481.heic)
+![](/assets/images/posts/screenshot-2026-10-29-at-6.17.43 pm.png)
 
 ### **How can you make your makeup complement a statement Indian outfit without looking overdone?**
 
@@ -63,7 +63,7 @@ If you’re wearing a simpler outfit, you can have a little more fun with your m
 
 The most important thing is balance. You don’t have to do everything at once. Sometimes, a beautiful eye, fresh skin and the right lip colour are all you need.
 
-![](/assets/images/posts/img_2506.heic)
+
 
 ![](/assets/images/posts/img_2014.png)
 
@@ -78,6 +78,12 @@ When applying foundation, work in thin layers rather than putting on too much pr
 For the eyes, use an eyeshadow primer to help the colours stay in place, and choose long-wearing products. A long-lasting lip colour is also a good idea, especially if you’re going to be eating and drinking.
 
 And finally, carry your lipstick and a little powder for touch-ups. You want your makeup to last, but you also want your skin to look like skin.
+
+
+
+![](/assets/images/posts/screenshot-2026-10-29-at-6.18.05 pm.png)
+
+
 
 ### **If you could create one signature Diwali makeup look for 2026, what would it look like, from skin and eyes to lips?**
 
