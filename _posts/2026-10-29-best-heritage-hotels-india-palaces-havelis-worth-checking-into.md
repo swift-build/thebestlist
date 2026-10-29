@@ -72,8 +72,15 @@ Built in 1820 as a summer home, Stok became the permanent residence of the Namgy
 
 
 
+![](/assets/images/posts/screenshot-2026-10-29-at-7.01.44 pm.png)
+
+![](/assets/images/posts/14900019.jpg)
+
 **Chidambara Vilas, near Pudukkottai**
 A 118-year-old Chettiar home, Chidambara Vilas was restored over three years by the Sangam group. Period details do much of the work, from Athangudi tiles and hand-operated panka fans to vintage-style switches. Meals are served on banana leaves, and guests can join cooking classes. The Darbar Hall and Valavu courtyard are the centrepieces. Go for the details and the food.
 
-**The Bangala, Karaikudi**
-Housed in a roughly century-old bungalow that began as a family club, The Bangala became Chettinad’s first heritage hotel around 1999. It is family-run, closer to a grand home than a hotel, and famous for its kitchen, where meals feel like edible history. Guided tours take guests into the region’s mansions. Go for the cuisine and the sense of being a guest.
+**In Closing**
+
+The best heritage hotels do not feel like museums. They feel lived in, with a story in the stone and staff who know it. Choose the building that fits your mood, book a second night, and let the architecture do the rest.
+
+***Follow Best List India for the stays, experiences, and destinations worth planning your life around.***
