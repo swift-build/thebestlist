@@ -19,7 +19,7 @@ meta_title: Diwali 2026 beauty is about luminous skin, softly defined eyes, a
 excerpt: "Namrata Soni on Diwali makeup 2026: five festive trends, how to pair
   makeup with Indian outfits, long-wear tips and her signature look from skin to
   lips."
-instagram_url: https://www.instagram.com/anne.jang/?hl=en
+instagram_url: https://www.instagram.com/namratasoni/
 ---
 Every Diwali brings the same happy dilemma: the outfit is sorted, the jewellery is chosen, and the makeup decision is left for the last minute. This year, the mood leans away from heavy and towards polished, with skin that looks like skin, eyes that are defined but soft, and colour used with intent.
 
