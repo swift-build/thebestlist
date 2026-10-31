@@ -36,8 +36,8 @@ The U.S. Polo Assn. Men's AW '26 collection marks the fifth season of its celebr
 
 ![](/assets/images/posts/3_13590296-e2a8-477a-9d0e-f41558a4608b.webp)
 
-**[House of Errors KNITTED SKI TEAM ZIP HOODIE
-](https://www.houseoferrors.org/products/knitted-ski-team-zip-hoodie)**Part of the brand’s new Autumn/Winter 2026 collection, this playful ski-inspired duo features a soft, fluffy zip-up hoodie and relaxed-fit heavy cotton denim jeans. Detailed with embroidered and screen-printed skiers, the pieces bring a whimsical alpine aesthetic to contemporary winter dressing. Finished with a two-way zip, functional pockets and distinctive detailing, the collection blends comfort, craftsmanship and statement style.
+**[House of Errors KNITTED SKI TEAM ZIP HOODIE AND SKI JEANS
+](https://www.houseoferrors.org/products/ski-jeans)**Part of the brand’s new Autumn/Winter 2026 collection, this playful ski-inspired duo features a soft, fluffy zip-up hoodie and relaxed-fit heavy cotton denim jeans. Detailed with embroidered and screen-printed skiers, the pieces bring a whimsical alpine aesthetic to contemporary winter dressing. Finished with a two-way zip, functional pockets and distinctive detailing, the collection blends comfort, craftsmanship and statement style.
 
 
 
@@ -57,25 +57,42 @@ Elevate everyday dressing with this refined pairing from Thomas Scott, featuring
 
 
 
+![](/assets/images/posts/https___hypebeast.com_image_2026_01_22_kartik-research-fall-winter-2026-menswear-collection-paris-fashion-week-runway-001.avif)
+
+![](/assets/images/posts/https___hypebeast.com_image_2026_01_22_kartik-research-fall-winter-2026-menswear-collection-paris-fashion-week-runway-002.avif)
+
+**[Kartik Research Fall/Winter 2026 – ‘Raag’ Collection](https://www.kartikresearch.com/)**
+
+Kartik Research returned to Paris Fashion Week with ‘Raag’, a Fall/Winter 2026 collection inspired by 1970s Indian archival textiles and artisanal craftsmanship. Blending heritage techniques with contemporary menswear silhouettes, the collection features intricate hand embroidery, kantha detailing, indigo-dyed patchwork and richly textured fabrics. A celebration of Indian craftsmanship on the global stage, it highlights the enduring relevance of traditional artistry in modern fashion.
+
+
+
+![](/assets/images/posts/207386.webp)
+
+
+
+**[Muvazo- Vespera Co-ord Set](https://www.muvazo.com/products/mzm-aw26-25152516-ny-cd)**
+
+A well-coordinated set pairing a heavy flannel jacket with straight-fit stitched denim. The jacket has taffeta binding, a metal zipper, slant pockets and elastic sleeve hems, while the contrast stitching adds character to the dark denim. Warm, balanced and stylish, wear it together or as separates.
+
+
+
+![](/assets/images/posts/cardred.webp)
+
+
+
+**[Rare Rabbit Button-Front V-Neck Sweater
+
+](https://thehouseofrare.com/products/card-mens-sweater-dark-red)**Part of Rare Rabbit’s Autumn/Winter 2026 collection, this versatile acrylic-blend cardigan features a classic V-neckline, full button-front closure and a clean, regular-fit silhouette. Finished with a flat-knit body and ribbed cuffs and hem, it makes for an effortless layering essential. Style it over tees or shirts for a relaxed yet refined cold-weather look.
+
+
+
 **Five Trends Running Through the Season**
 
-* **70s tailoring returns.**
-
-   Softer shoulders, wider lapels and relaxed trousers replace rigid suits.
-
-* **Preppy, reworked.**
-
-   Blazers over knits and denim, rugby shirts and cable sweaters, styled in a more lived-in way.
-
-* **Heritage over hype.**
-
-   Designers leaned on archives, family histories and traditional fabrics, and luxury was framed as something to keep.
-
-* **Designed for real life.**
-
-   Suits met puffers, technical fabrics hid inside classic coats, and layers moved easily between work and weekend.
-
-**Proportion play.** Longer sleeves, fuller trousers and cropped jackets did the work that loud prints used to do. Brown tones appeared across many of the strongest looks.
+* **70s tailoring returns**. Softer shoulders, wider lapels and relaxed trousers replace rigid suits.
+* **Preppy, reworked**. Blazers over knits and denim, rugby shirts and cable sweaters, styled in a more lived-in way.
+* **Designed for real life**. Suits met puffers, technical fabrics hid inside classic coats, and layers moved easily between work and weekend.
+* **Proportion play**. Longer sleeves, fuller trousers and cropped jackets did the work that loud prints used to do. Brown tones appeared across many of the strongest looks.
 
 
 
