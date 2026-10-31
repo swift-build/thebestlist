@@ -46,3 +46,41 @@ The U.S. Polo Assn. Men's AW '26 collection marks the fifth season of its celebr
 **[XYXX Half-Zip Knit Sweater - Pitch Black](https://xyxxcrew.com/products/mens-half-zip-knit-sweater-pitch-black)**
 
 Adding a refined touch to winter dressing, XYXX’s Half-Zip Knit Sweater is an effortless wardrobe essential that balances comfort with understated style. Crafted from a soft acrylic-cotton blend, it features a sleek stand collar, half-zip closure and raglan sleeves, making it a versatile pick for layering through the season.
+
+![](/assets/images/posts/thomasscott1.png)
+
+![](/assets/images/posts/thomasscott1-2.png)
+
+**[Wine Corduroy Shirt](https://thomasscott.in/products/wine-slim-fit-long-sleeves-corduroy-casual-shirt)** & **[Beige Pleated Linen Trousers](https://thomasscott.in/products/men-beige-smart-solid-regular-fit-woven-linen-pleated-trousers?_pos=45&_sid=9f0617795&_ss=r)** **– Thomas Scott**
+
+Elevate everyday dressing with this refined pairing from Thomas Scott, featuring a wine-hued slim-fit corduroy shirt crafted with a classic spread collar and long sleeves. Complementing it are beige pleated linen trousers in a comfortable regular fit, offering breathability and effortless sophistication. Together, the pieces strike the perfect balance between relaxed elegance and contemporary smart-casual style.
+
+
+
+**Five Trends Running Through the Season**
+
+* **70s tailoring returns.**
+
+   Softer shoulders, wider lapels and relaxed trousers replace rigid suits.
+
+* **Preppy, reworked.**
+
+   Blazers over knits and denim, rugby shirts and cable sweaters, styled in a more lived-in way.
+
+* **Heritage over hype.**
+
+   Designers leaned on archives, family histories and traditional fabrics, and luxury was framed as something to keep.
+
+* **Designed for real life.**
+
+   Suits met puffers, technical fabrics hid inside classic coats, and layers moved easily between work and weekend.
+
+**Proportion play.** Longer sleeves, fuller trousers and cropped jackets did the work that loud prints used to do. Brown tones appeared across many of the strongest looks.
+
+
+
+The throughline this winter is restraint with personality. The most coveted collections do not shout. They offer coats that feel inherited, tailoring that moves, and details that reward a second look, and they ask men to dress with intent.
+
+
+
+***Follow Best List India for the style, stories, and ideas worth paying attention to.***
