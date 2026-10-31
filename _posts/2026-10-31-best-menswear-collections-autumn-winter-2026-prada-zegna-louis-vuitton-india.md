@@ -22,4 +22,27 @@ As the season settles into wardrobes, here are the collections worth coveting, f
 
 
 
+![](/assets/images/posts/uspa-aw-26-menswear_2.jpg)
+
+![](/assets/images/posts/uspa-aw-26-menswear_1.jpg)
+
+**[U.S. Polo Assn. Men's AW '26 collection](https://uspoloassn.in/collections/aw26-shop-all-men?srsltid=AYCX9vJTiyTQzuLiAlEJpjP1X3J6HS36g-bdHBVoMewI9L5LGcEy5lQv)**
+
+The U.S. Polo Assn. Men's AW '26 collection marks the fifth season of its celebrated collaboration with HH Padmanabh Singh (Pacho), the brand's Global Brand Ambassador, setting the tone with an autumnal palette, alongside transitional and winter-ready knitwear and layering. Varsity influences return through contemporary interpretations of classic American codes, while indigo emerges as a defining seasonal story across polo shirts, sweatshirts, jackets and denim.
+
+
+
+![](/assets/images/posts/20261022_tom_e_errors_q4_04_005.webp)
+
+![](/assets/images/posts/3_13590296-e2a8-477a-9d0e-f41558a4608b.webp)
+
+**[House of Errors KNITTED SKI TEAM ZIP HOODIE
+](https://www.houseoferrors.org/products/knitted-ski-team-zip-hoodie)**Part of the brand’s new Autumn/Winter 2026 collection, this playful ski-inspired duo features a soft, fluffy zip-up hoodie and relaxed-fit heavy cotton denim jeans. Detailed with embroidered and screen-printed skiers, the pieces bring a whimsical alpine aesthetic to contemporary winter dressing. Finished with a two-way zip, functional pockets and distinctive detailing, the collection blends comfort, craftsmanship and statement style.
+
+
+
 ![](/assets/images/posts/xyxx.png)
+
+**[XYXX Half-Zip Knit Sweater - Pitch Black](https://xyxxcrew.com/products/mens-half-zip-knit-sweater-pitch-black)**
+
+Adding a refined touch to winter dressing, XYXX’s Half-Zip Knit Sweater is an effortless wardrobe essential that balances comfort with understated style. Crafted from a soft acrylic-cotton blend, it features a sleek stand collar, half-zip closure and raglan sleeves, making it a versatile pick for layering through the season.
