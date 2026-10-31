@@ -30,7 +30,7 @@ The U.S. Polo Assn. Men's AW '26 collection marks the fifth season of its celebr
 
 ![](/assets/images/posts/20261022_tom_e_errors_q4_04_005.webp)
 
-![](/assets/images/posts/3_13590296-e2a8-477a-9d0e-f41558a4608b.webp)
+![](/assets/images/posts/skipamts12.png)
 
 **[House of Errors KNITTED SKI TEAM ZIP HOODIE AND SKI JEANS
 ](https://www.houseoferrors.org/products/ski-jeans)**Part of the brand’s new Autumn/Winter 2026 collection, this playful ski-inspired duo features a soft, fluffy zip-up hoodie and relaxed-fit heavy cotton denim jeans. Detailed with embroidered and screen-printed skiers, the pieces bring a whimsical alpine aesthetic to contemporary winter dressing. Finished with a two-way zip, functional pockets and distinctive detailing, the collection blends comfort, craftsmanship and statement style.
