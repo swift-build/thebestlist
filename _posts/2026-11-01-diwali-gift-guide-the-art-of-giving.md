@@ -29,6 +29,24 @@ The good news is that the best gifts rarely depend on budget. They depend on att
 
 
 
+**[Chumbak Charbhagh Coasters Set of 4 | Haveli Socials](https://www.chumbak.com/products/charbhagh-coasters-set-of-4-haveli-socials)**
+
+Bring a playful festive touch to tea and coffee time with this set of 4 coasters featuring assorted folk-inspired motifs and vibrant patterns. Ideal for everyday use and festive gatherings
+
+***Priced at 1,999 INR***
+
+
+
+**[Bertolli Dress & Drizz Extra Virgin Olive Oil](https://www.amazon.in/Bertolli-Virgin-Squeeze-Control-Extracted/dp/B0G5Y6Q47K)**
+
+A finishing drizzle can bring together a dish, whether it is a fresh salad, roasted vegetables, paneer or other festive favourites. Bertolli Dress & Drizz Extra Virgin Olive Oil comes in a distinctive squeeze bottle made from 100% recycled plastic, with a rotating nozzle that allows for precise drizzling and greater control over oil usage.
+
+***Priced at 599 INR***
+
+
+
+
+
 
 
 **Wrapping and Etiquette**
