@@ -1,7 +1,7 @@
 ---
 layout: post
 draft: false
-title: "The Art of Giving: Diwali Gifts Worth Giving, and Receiving-"
+title: "The Art of Giving: The Diwali Gift Guide for Everyone on Your List"
 slug: diwali-gift-guide-the-art-of-giving
 date: 2026-11-01 08:59:00 +0530
 author: Kiran
@@ -43,6 +43,40 @@ Where artistry meets home fragrance, the **SEVA HOME x Payal Singhal Candle and 
 
 ***Priced 8,990 INR***
 
+
+
+![](/assets/images/posts/tbh7405clean_1000x.webp)
+
+
+
+**[Lakshmi from Collektklove](https://collektklove.com/products/lakshmi)**
+
+This sculptural interpretation of Lakshmi in glass reimagines the goddess of abundance, beauty and auspiciousness through a contemporary design language. Rising from a luminous pink lotus, the form draws on one of Lakshmi’s most enduring symbols—purity, renewal and the ability to flourish even amid adversity. Rather than depicting the goddess figuratively, her presence is suggested through familiar iconography: the lotus, the ceremonial vessel-like body and delicate, flame-like forms that evoke light, offering and prosperity.
+
+***Priced at 51,000 INR***
+
+
+
+![](/assets/images/posts/image_sep_19_2026_07_56_06_pm_1_1024x1024-2x.webp)
+
+**[ArtStory Beaded Ace of Hearts Coaster - Set of 4
+](https://artstoryonline.com/collections/gifts-items-for-home-decor/products/beaded-ace-of-hearts-coaster-set-of-4)**Add a playful touch of luxury to your tabletop with this **handcrafted beaded Ace of Hearts coaster**. Designed with a pearl-white beaded base, bold red heart and card-suit motifs, and elegant black and gold beaded borders, it combines intricate craftsmanship with a fun, statement-making aesthetic.
+***Priced at 1499 INR***
+
+
+
+![](/assets/images/posts/a-room-can-be-beautiful.but-the-right-details-make-it-unforgettable.-✨ribat-brings-together-rich.jpg)
+
+
+
+**Ribat by JJ Valaya**
+
+With Ribat, the grandeur of India’s royal past meets the distinctive design language of JJ Valaya, unfolding through rich textures, intricate motifs and considered details, made for the modern home. Ribat brings together rich colour, intricate motifs and refined detailing to turn the everyday bedroom into something worth looking at twice.
+
+***Available at Portico offline stores***
+
+
+
 ![](/assets/images/posts/swaasha.png)
 
 **[Sparkling Nights Diwali Jewellery Hamper from Swashaa](https://www.swashaa.com/collections/gift-hampers/products/sparkling-nights-diwali-jewellery-hamper)**
@@ -71,6 +105,43 @@ A finishing drizzle can bring together a dish, whether it is a fresh salad, roas
 
 ***Priced at 599 INR***
 
+
+
+![](/assets/images/posts/donut.jpeg)
+
+
+
+**Mad Over Donuts- The Diwali Luxe Edit**
+
+This Diwali, the mithai box has some competition. Mad Over Donuts has launched *The Diwali Luxe Edit*, a limited-edition collection of three premium donuts made for gifting, sharing and celebrating together. The line-up is built on three festive flavours: rich chocolate, creamy cashew and crunchy almond. Each donut is handcrafted, 100% vegetarian and designed to deliver a distinct mix of textures. Together, they give festive gifting a contemporary twist for anyone who wants to bring something different to the celebration.
+
+***Available at Mad Over Donuts stores and on online aggregator platforms***
+
+
+
+![](/assets/images/posts/fourseasons.webp)
+
+
+
+**Radiant Bloom Hampers from Four Seasons Bengaluru**
+
+As the festive season approaches, [Four Seasons Hotel Bengaluru at Embassy ONE](https://www.fourseasons.com/bengaluru/) unveils The Radiant Bloom, a curated collection of festive hampers designed to delight every member of the family and offering elevated, timeless and generous gifting options for personalised festive exchanges. Inspired by the journey of light, lotus purity and timeless elegance, the collection brings together Four Seasons culinary craftsmanship with fine chocolates, Indian sweets and artisanal indulgences, presented in bespoke lotus-inspired packaging.
+
+***Available at Four Seasons Hotel Bengaluru at Embassy ONE***
+
+
+
+![](/assets/images/posts/mini-cocotes-1.webp)
+
+
+
+[**Cumin.CoMini Cocottes**
+](https://www.cuminco.com/products/mini-cocottes-1)Handcrafted from premium ceramic, these Mini Cocottes are perfect for single-serve bakes, dips, and elegant individual portions. With a smooth, 100% toxin-free glaze and oven-to-table ease, they’re made for everyday baking and effortless hosting.
+
+***Priced at 1,599 INR***
+
+
+
 ![](/assets/images/posts/fragnote.jpeg)
 
 **[Fraganote: For the Love of Beautifully Scented Moments](https://fraganote.com/collections/gifting-collection)**
@@ -78,6 +149,16 @@ A finishing drizzle can bring together a dish, whether it is a fresh salad, roas
 A fragrance can turn an ordinary day into a memory, making it a particularly personal gift for someone special. This Diwali, Fraganote brings a playful, contemporary touch to the art of gifting with sets that go beyond a single bottle. The **Game Night Essentials Set** pairs a 50 ml perfume with poker chips, playing cards and a card holder, making it an inspired pick for the friend who loves hosting. For those who enjoy a more layered ritual, the **Fragrance Ritual Kits** bring together an Eau de Parfum, body wash, body lotion and perfume roll-on, while the **Minis Duo** pairs After Shave and London Bar in two 25 ml bottles. The **Baked Vanilla Perfume & Candle Gift Set**, featuring a 50 ml perfume, Café Vanilla soy candle and 10 ml Spice Wood fragrance, is a cosy, sensorial choice for anyone who loves making home feel special.
 
 ***Priced at 1,399–2,999 INR***
+
+
+
+![](/assets/images/posts/barebar.webp)
+
+**[Bare Bar Kahaniyan Festive Gift Set](https://www.thebarebar.in/products/kahaniyan-festive-gift-set)**
+
+Four cities. Four little stories. Four handcrafted soaps inspired by Rajasthan, in an illustrated gift box made for the festive season.
+
+***Priced at 1,599 INR***
 
 ![](/assets/images/posts/sammm.png)
 
