@@ -29,8 +29,6 @@ The good news is that the best gifts rarely depend on budget. They depend on att
 
 ![](/assets/images/posts/chumbakcoasters.png)
 
-
-
 ### **[Chumbak Charbhagh Coasters Set of 4 | Haveli Socials](https://www.chumbak.com/products/charbhagh-coasters-set-of-4-haveli-socials)**
 
 Bring a playful festive touch to tea and coffee time with this set of 4 coasters featuring assorted folk-inspired motifs and vibrant patterns. Ideal for everyday use and festive gatherings
@@ -55,8 +53,7 @@ This sculptural interpretation of Lakshmi in glass reimagines the goddess of abu
 
 ![](/assets/images/posts/image_sep_19_2026_07_56_06_pm_1_1024x1024-2x.webp)
 
-### **[ArtStory Beaded Ace of Hearts Coaster - Set of 4
-](https://artstoryonline.com/collections/gifts-items-for-home-decor/products/beaded-ace-of-hearts-coaster-set-of-4)**
+### ArtStory Beaded Ace of Hearts Coaster - Set of 4
 
 Add a playful touch of luxury to your tabletop with this **handcrafted beaded Ace of Hearts coaster**. Designed with a pearl-white beaded base, bold red heart and card-suit motifs, and elegant black and gold beaded borders, it combines intricate craftsmanship with a fun, statement-making aesthetic.
 ***Priced at 1499 INR***
@@ -85,11 +82,7 @@ Inspired by the majestic Bengal tiger, the Baagh Brooch is a versatile statement
 
 ***Priced at 2499 INR*** 
 
-
-
 ![](/assets/images/posts/screenshot-2026-11-01-at-10.41.57 am.png)
-
-
 
 ### **[Gift the Glow of Wellness & Longevity](https://www.thewellnessco.in/)**
 
@@ -108,8 +101,6 @@ This Diwali, go beyond traditional hampers and gift your loved ones something th
    Designed to support circulation and post-workout recovery, making it a thoughtful pick for fitness enthusiasts.
 
 ***Price Starting at 5,000 INR***
-
-
 
 ![](/assets/images/posts/bertolli-dress-drizz.jpeg)
 
@@ -188,7 +179,7 @@ Ingredients: 
 
 ***Priced at 2455 INR*** 
 
-**Wrapping and Etiquette**
+### **Wrapping and Etiquette**
 
 * Wrap in earthy, festive tones: terracotta, mustard, deep green, burgundy and gold.
 * Add a natural element: a sprig of dried flowers, a cinnamon stick or a small brass bell.
@@ -196,7 +187,7 @@ Ingredients: 
 * Deliver on time. A gift that arrives after Diwali is a missed moment.
 * When receiving, always say thank you in person or by message within a day.
 
-**The Finish**
+### **The Finish**
 
 The mark of a great gift is not what it costs. It is the feeling that someone paused, thought of you, and made an effort. In a season built on light, that quiet attention is the real luxury, and the one worth giving.
 
