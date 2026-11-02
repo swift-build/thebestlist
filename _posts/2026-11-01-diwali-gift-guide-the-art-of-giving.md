@@ -126,6 +126,32 @@ As the festive season approaches, [Four Seasons Hotel Bengaluru at Embassy ONE](
 
 ***Available at Four Seasons Hotel Bengaluru at Embassy ONE***
 
+
+
+![](/assets/images/posts/screenshot-2026-11-02-at-2.28.25 pm.png)
+
+
+
+### **[Oli Ohh Diwali Premium Gift Hamper - Pasta & Geisha Chocolate Collection](https://www.oliohh.in/products/oli-ohh-diwali-premium-gift-hamper-pasta-geisha-chocolate-collection-7-items)**
+
+Two packs of restaurant-style Arrabiata Red Sauce Pasta alongside a full Fazer Geisha collection — the heart tin plus dark and milk hazelnut-filled bars — and a Lindt Gold Bunny, in a hand-illustrated green Happy Diwali gift box.
+
+***Priced at 3,399 INR***
+
+
+
+![](/assets/images/posts/screenshot-2026-11-02-at-2.32.13 pm.png)
+
+
+
+### **[Haldiram's – Triple Mazzaa Gift Pack](https://blinkit.com/prn/x/prid/495578)**
+
+Diwali is made special by what we share with family and friends. This festive season, Haldiram's brings this sentiment alive with “Haldiram's Se Bani Khaas Diwali.” The Triple Mazzaa Gift Pack offers a delightful assortment of traditional Indian festive treats, bringing together the rich flavours of Gajjak Mix, Patisa, Panjeeri Ladoo and Gur Channa. A thoughtful gifting option for sharing with loved ones, it adds a touch of traditional flavour and sweetness to festive gatherings and celebrations.
+
+***Priced at 368 INR***
+
+
+
 ![](/assets/images/posts/mini-cocotes-1.webp)
 
 ### **[Mini Cocottes from Cumin Co](https://www.cuminco.com/products/mini-cocottes-1?_pos=2&_psq=Ceramic+Mini+Cocottes+%28Set+of+2%29&_psid=ec96cfeb0&_ss=e&variant=48805513789655)**
