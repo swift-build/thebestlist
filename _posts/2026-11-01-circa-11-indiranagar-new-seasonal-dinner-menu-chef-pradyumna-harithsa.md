@@ -23,13 +23,7 @@ Most restaurants treat a menu as a destination. At Circa 11, it is closer to a j
 
 In Indiranagar, Chef Pradyumna Harithsa’s new seasonal dinner menu is a study in curiosity. It does not settle into a single tradition. Instead, it borrows from many, using familiar ingredients in unfamiliar ways and moving from lighter, vegetable-led plates towards richer, more indulgent ones. It is a dinner designed to be explored one plate at a time.
 
-
-
 ![](/assets/images/posts/screenshot-2026-11-02-at-7.12.26 pm.png)
-
-
-
-
 
 **The Bar Bites: A Quiet Opening**
 
@@ -41,13 +35,9 @@ Here the kitchen shows its hand. Smoked Fresh Beans come with citrus truffle dre
 
 ![](/assets/images/posts/screenshot-2026-11-02-at-7.13.39 pm.png)
 
-
-
 ![](/assets/images/posts/screenshot-2026-11-02-at-7.13.16 pm.png)
 
 ![](/assets/images/posts/screenshot-2026-11-02-at-7.14.29 pm.png)
-
-
 
 The ceviche is worth a closer look, because it explains the whole menu. It has appeared in some form since Circa 11 opened, beginning with passion fruit ponzu before moving to cucumber and mint, and later to mango, chilli and raw mango. This season it returns to passion fruit, now with orange. The idea of the dish remains, while the flavour moves with the season. As Chef Pradyumna puts it, consistency does not mean a dish has to stay unchanged.
 
@@ -55,11 +45,7 @@ The ceviche is worth a closer look, because it explains the whole menu. It has a
 
 The mains travel the furthest. Biang Biang Noodles arrive with tofu and bok choy, while Ricotta and Lemon Raviolo is served with miso pumpkin sauce. Seafood Orzo brings together chorizo butter, prawns and clam meat, and Jackfruit Katsu Curry is served with jasmine rice. The Steamed Fish with Assamese black rice, herbs and garlic oil closes the savoury arc with a clean, regional anchor.
 
-
-
 ![](/assets/images/posts/tiramisu.png)
-
-
 
 **The Desserts**
 
@@ -69,9 +55,9 @@ The sweet end follows the same logic. Sweet Lime Catalana brings citrus to a cla
 
 Circa 11 was founded by Chef Pradyumna Harithsa, Sudhiksha Kaushik Anantharamu and Ankit Agarwal, and it calls itself a shapeshifting dining room. The rhythm changes through the day, from coffee and relaxed lunches to considered dinners and cocktails. The menu follows the same logic.
 
-For **Chef Pradyumna**, that means unlearning a common restaurant instinct: that once a dish works, you leave it alone. 
+For **Chef Pradyumna**, that means unlearning a common restaurant instinct: that once a dish works, you leave it alone. He adds,
 
-> If the menu is meant to evolve,” he says, “then the dishes have to be allowed to evolve too.
+> If the menu is meant to evolve, then the dishes have to be allowed to evolve too
 
 Each change forces a fresh look at balance, from the cure and the acidity to the sweetness, the temperature and how much liquid sits on the plate. With the mango ceviche, for instance, ripe mango risked making the dish too soft and sweet, so raw mango was brought in to restore some sharpness.
 
@@ -93,6 +79,5 @@ That is the quiet confidence behind the new menu. It is adventurous without bein
 **Timings:** Tuesday to Sunday, 6:30 PM onwards
 **Approximate price for two:** INR 3,500
 **For reservations:** [bookings.airmenus.in/circa11/order](https://bookings.airmenus.in/circa11/order)
-
 
 ***Follow Best List India for the food, stories, and ideas worth paying attention to.***
