@@ -144,7 +144,7 @@ A fragrance can turn an ordinary day into a memory, making it a particularly per
 
 ![](/assets/images/posts/barebar.webp)
 
-### **[Bare Bar Kahaniyan Festive Gift Set](https://www.thebarebar.in/products/kahaniyan-festive-gift-set)**
+### **[The Bare Bar Kahaniyan Festive Gift Set](https://www.thebarebar.in/products/kahaniyan-festive-gift-set)**
 
 Four cities. Four little stories. Four handcrafted soaps inspired by Rajasthan, in an illustrated gift box made for the festive season.
 
