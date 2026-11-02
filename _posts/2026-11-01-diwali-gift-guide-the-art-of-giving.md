@@ -128,6 +128,18 @@ As the festive season approaches, [Four Seasons Hotel Bengaluru at Embassy ONE](
 
 
 
+![](/assets/images/posts/612cbzzakel.jpg)
+
+
+
+### **[Teas of the World – Loose Tea Gifting Box](https://teacultureoftheworld.com/products/teas-of-the-world)**
+
+This Diwali, gift a journey around the world, one cup at a time. Tea Culture of the World's Teas of the World gift box brings together nine distinctive whole-leaf teas, from the robust character of Assam and English Breakfast to the delicate notes of Japanese Sencha and Jasmine, alongside Moroccan Mint, Oolong, Rooibos, Mate and Dimbula Ceylon. Thoughtfully curated for tea lovers and curious explorers alike, this elegant collection transforms everyday tea moments into a delightful discovery of global flavours. A considered gift for festive hosts, loved ones and anyone who appreciates the art of a good brew.
+
+***Priced at 2,500 INR***
+
+
+
 ![](/assets/images/posts/screenshot-2026-11-02-at-2.28.25 pm.png)
 
 
