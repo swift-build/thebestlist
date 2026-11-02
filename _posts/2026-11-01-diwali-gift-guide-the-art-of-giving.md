@@ -82,6 +82,24 @@ Inspired by the majestic Bengal tiger, the Baagh Brooch is a versatile statement
 
 ***Priced at 2499 INR*** 
 
+
+
+![](/assets/images/posts/kala-olive-.jpeg)
+
+
+
+
+
+### **[Neeman's कला Kicks For Men: Olive](https://neemans.com/products/%E0%A4%95%E0%A4%B2%E0%A4%BE-kicks-for-men-olive?_pos=1&_sid=bd3688cd8&_ss=r)**
+
+The jute-textured woven knit upper gives कला Kicks a raw, textured look, an instant artisan feel. Suede-like panels add a nice contrast and pop against the knit fabric. Then there's the flap sitting right over the laces. It’s hard to miss - A balance between a nod to the handcrafted design inspiration and pure self-expression.
+
+***Priced at 4999 INR*** 
+
+
+
+
+
 ![](/assets/images/posts/screenshot-2026-11-01-at-10.41.57 am.png)
 
 ### **[Gift the Glow of Wellness & Longevity](https://www.thewellnessco.in/)**
