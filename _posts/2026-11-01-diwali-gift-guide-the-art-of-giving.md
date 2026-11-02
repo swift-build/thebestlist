@@ -90,9 +90,9 @@ Inspired by the majestic Bengal tiger, the Baagh Brooch is a versatile statement
 
 
 
-### **[Neeman's कला Kicks For Men: Olive](https://neemans.com/products/%E0%A4%95%E0%A4%B2%E0%A4%BE-kicks-for-men-olive?_pos=1&_sid=bd3688cd8&_ss=r)**
+### **[Neeman's कला Kicks ](https://neemans.com/products/%E0%A4%95%E0%A4%B2%E0%A4%BE-kicks-for-men-olive?_pos=1&_sid=bd3688cd8&_ss=r)**
 
-The jute-textured woven knit upper gives कला Kicks a raw, textured look, an instant artisan feel. Suede-like panels add a nice contrast and pop against the knit fabric. Then there's the flap sitting right over the laces. It’s hard to miss - A balance between a nod to the handcrafted design inspiration and pure self-expression.
+Inspired by the colours and creativity of Indian streets, Neeman’s कला Kicks collection celebrates India’s rich craft heritage, drawing on traditional techniques such as Kantha embroidery from West Bengal and Odisha. Featuring earthy tones, jute-textured knit uppers and suede-like panels, the sneakers blend artisanal detailing with contemporary design. Breathable construction, soft Lycra lining and CloudSurge™ foam insoles ensure everyday comfort, making them equally suited to casual and festive styling.
 
 ***Priced at 4999 INR*** 
 
@@ -102,7 +102,7 @@ The jute-textured woven knit upper gives कला Kicks a raw, textured look, a
 
 ![](/assets/images/posts/screenshot-2026-11-01-at-10.41.57 am.png)
 
-### **[Gift the Glow of Wellness & Longevity](https://www.thewellnessco.in/)**
+### **[Gift the Glow of Wellness & Longevity from The Wellness Co.](https://www.thewellnessco.in/)**
 
 This Diwali, go beyond traditional hampers and gift your loved ones something that lasts beyond the festive season, the gift of better health, recovery and wellbeing
 
