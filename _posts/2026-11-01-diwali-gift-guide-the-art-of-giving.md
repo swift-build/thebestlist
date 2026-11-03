@@ -82,23 +82,13 @@ Inspired by the majestic Bengal tiger, the Baagh Brooch is a versatile statement
 
 ***Priced at 2499 INR*** 
 
-
-
-![](/assets/images/posts/kala-olive-.jpeg)
-
-
-
-
+![](/assets/images/posts/neeman-kala.jpeg)
 
 ### **[Neeman's कला Kicks ](https://neemans.com/products/%E0%A4%95%E0%A4%B2%E0%A4%BE-kicks-for-men-olive?_pos=1&_sid=bd3688cd8&_ss=r)**
 
 Inspired by the colours and creativity of Indian streets, Neeman’s कला Kicks collection celebrates India’s rich craft heritage, drawing on traditional techniques such as Kantha embroidery from West Bengal and Odisha. Featuring earthy tones, jute-textured knit uppers and suede-like panels, the sneakers blend artisanal detailing with contemporary design. Breathable construction, soft Lycra lining and CloudSurge™ foam insoles ensure everyday comfort, making them equally suited to casual and festive styling.
 
 ***Priced at 4999 INR*** 
-
-
-
-
 
 ![](/assets/images/posts/screenshot-2026-11-01-at-10.41.57 am.png)
 
@@ -144,11 +134,7 @@ As the festive season approaches, [Four Seasons Hotel Bengaluru at Embassy ONE](
 
 ***Available at Four Seasons Hotel Bengaluru at Embassy ONE***
 
-
-
 ![](/assets/images/posts/612cbzzakel.jpg)
-
-
 
 ### **[Teas of the World – Loose Tea Gifting Box](https://teacultureoftheworld.com/products/teas-of-the-world)**
 
@@ -156,11 +142,7 @@ This Diwali, gift a journey around the world, one cup at a time. Tea Culture of 
 
 ***Priced at 2,500 INR***
 
-
-
 ![](/assets/images/posts/screenshot-2026-11-02-at-2.28.25 pm.png)
-
-
 
 ### **[Oli Ohh Diwali Premium Gift Hamper - Pasta & Geisha Chocolate Collection](https://www.oliohh.in/products/oli-ohh-diwali-premium-gift-hamper-pasta-geisha-chocolate-collection-7-items)**
 
@@ -168,19 +150,13 @@ Two packs of restaurant-style Arrabiata Red Sauce Pasta alongside a full Fazer G
 
 ***Priced at 3,399 INR***
 
-
-
 ![](/assets/images/posts/screenshot-2026-11-02-at-2.32.13 pm.png)
-
-
 
 ### **[Haldiram's – Triple Mazzaa Gift Pack](https://blinkit.com/prn/x/prid/495578)**
 
 Diwali is made special by what we share with family and friends. This festive season, Haldiram's brings this sentiment alive with “Haldiram's Se Bani Khaas Diwali.” The Triple Mazzaa Gift Pack offers a delightful assortment of traditional Indian festive treats, bringing together the rich flavours of Gajjak Mix, Patisa, Panjeeri Ladoo and Gur Channa. A thoughtful gifting option for sharing with loved ones, it adds a touch of traditional flavour and sweetness to festive gatherings and celebrations.
 
 ***Priced at 368 INR***
-
-
 
 ![](/assets/images/posts/mini-cocotes-1.webp)
 
