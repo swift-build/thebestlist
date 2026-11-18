@@ -52,25 +52,21 @@ The**[ 24K Stash Bifold Wallet from Mokobara](https://mokobara.com/products/24k-
 
 ![](/assets/images/posts/raclette_grill_set.4.webp)
 
-
-
 **[The Bar Collective's Raclette Grill set](https://thebarcollective.com/products/raclette-grill-set?_pos=1&_sid=130b5f7c8&_ss=r)** is an effortless, Unique way to host a dinner party. With the 8 person VonShef Raclette Grilland stone, you can experience the joy of grilling or searing your own food at the dining table. Simply gather the raclette ingredients, pour your finest wines and enjoy your chilled out evening as your guests take control of creating their own mouth-watering gourmet feast.
-
-
 
 ![](/assets/images/posts/screenshot-2026-11-18-at-7.41.08 pm.png)
 
-
-
 **[The Mathey-Tissot Monsoon Square Limited Edition ](https://www.luxe.ajio.com/mathey-tissot-men-swiss-made-quartz-limited-edition-silver-bracelet-style-watch--h7917tv/p/702044293_silver?)**watch features a distinctive multicolour dial housed in a sleek 40 mm silver-tone stainless steel case. Powered by a Swiss-made Ronda 762 quartz movement, it combines precision timekeeping with contemporary design. Finished with a stainless steel bracelet, sapphire-coated crystal and 50-metre water resistance, it makes a distinctive addition to the modern gentleman’s collection.
-
-
 
 ![](/assets/images/posts/screenshot-2026-11-18-at-7.44.24 pm.png)
 
-
-
 **[The Almost Gods Hand Dyed Panelled Zip Jacket](https://almostgods.com/products/hand-dyed-panelled-zip-jacket)** brings an artisanal edge to contemporary streetwear with its distinctive hand-dyed finish and panelled construction. Featuring a relaxed silhouette and zip-front closure, it makes a statement through its unique colour variations and textural appeal. An expressive layering piece that blends experimental design with everyday versatility.
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.21.36 pm.png)
+
+
+
+This International Men's Day, make gifting a little more meaningful with essentials that encourage men to take time for themselves. Thoughtful, functional and easy to incorporate into everyday routines, **[Hivado's grooming range](https://thehivado.com/collections/our-product)** makes for a great gifting choice for the men who deserve a little extra care.
 
 
 
