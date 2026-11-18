@@ -36,6 +36,12 @@ Looking back, I think that is exactly why it worked. Passion does not sit down a
 
 I did not know then that I would one day be heading a company. I only knew that holding a camera felt like the most natural thing in the world, and that I would rather be in debt doing something I loved than comfortable doing something I did not. Sometimes the most important decisions in your life are the ones that make no sense on paper.
 
+![](/assets/images/posts/screenshot-2026-11-18-at-9.01.54 pm.png)
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.02.20 pm.png)
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.03.04 pm.png)
+
 **Your first wedding changed everything. What do you remember most about that day, and what did you get wrong?**
 
 It was a very traditional Kannadiga wedding, and it turned out beautifully. I was still learning, still figuring out where to stand and when to move, but something about that day just clicked.
@@ -44,12 +50,6 @@ What I remember most is walking in thinking I was there to do a job and walking 
 
 One of the videographers I shot with that day still works with me today. So in a way, Shutterbug’s first team came together at that wedding, before Shutterbug even had a name. If I got anything wrong, it was thinking it was just one wedding. I treated it as a single assignment, when really it was the beginning of everything that followed.
 
-
-
-
-
-
-
 **You say you want to preserve how a moment felt, not just how it looked. What does that mean when you are standing in the middle of a chaotic baraat?**
 
 I have always believed photographs and films can carry emotions that words simply cannot. And the strange thing about big moments is that the people inside them rarely see them. They are too busy living them.
@@ -57,6 +57,18 @@ I have always believed photographs and films can carry emotions that words simpl
 A baraat is loud, wild, and gloriously chaotic, and on the surface everyone sees the dancing, the dhol, the crowd. But inside that chaos there are quieter truths: a cousin who is happier for you than you have ever seen them, friends who have been waiting years to dance at your wedding, a parent watching from the edge with tears they will deny later.
 
 Anyone can photograph what a baraat looks like. Our job is to find the depth inside the noise. That means watching faces more than movement, and waiting for the half-second where someone’s guard drops. Years from now, the couple should not just remember that it was a great party. They should remember how loved they were.
+
+
+
+
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.00.59 pm.png)
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.01.24 pm.png)
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.02.30 pm.png)
+
+
 
 **In an industry moving toward trends and replication, what do you refuse to copy?**
 
@@ -82,6 +94,12 @@ As an artist, there is something deeply meaningful about being recognised by you
 
 It also is not mine alone. Every award belongs to the team that stood beside me through every wedding that led there.
 
+![](/assets/images/posts/screenshot-2026-11-18-at-8.59.46 pm.png)
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.01.08 pm.png)
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.02.08 pm.png)
+
 **You now shoot across 90+ cities. What has working across cultures taught you about how people celebrate?**
 
 That language barriers do not really exist at a wedding. I have stood in rooms where I did not understand a single word being spoken, and it did not matter, because the only language in the room was love, and everyone speaks it fluently.
@@ -95,6 +113,12 @@ Working across cultures has taught me to walk in with curiosity instead of assum
 ...be uniquely you. It should be your story, told the way the day actually felt.
 
 Every couple is different, and their film should be too. It should capture the essence of the day as it truly was, the laughter, the nerves, the chaos, the quiet in-betweens, without forcing it into someone else’s idea of a perfect wedding. When a couple watches their film and says that is exactly us, we have done our job.
+
+
+
+![](/assets/images/posts/screenshot-2026-11-18-at-9.18.14 pm.png)
+
+
 
 **You have built Shutterbug alongside your life partner. How sustainable is it to share both a life and a business?**
 
@@ -112,4 +136,4 @@ Wedding photography is often seen as a purely creative field. Payal represents t
 
 It is a fitting counterpart to a founder who began with a camera he could not afford and a conviction he could not explain. One of them said yes before the studio was ready. The other made sure it was.
 
-*Follow Best List India for the culture, conversations, and ideas worth paying attention to.*
+***Follow Best List India for the culture, conversations, and ideas worth paying attention to.***
