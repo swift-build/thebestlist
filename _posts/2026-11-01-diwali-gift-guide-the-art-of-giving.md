@@ -126,7 +126,7 @@ This Diwali, the mithai box has some competition. Mad Over Donuts has launched *
 
 ***Available at Mad Over Donuts stores and on online aggregator platforms***
 
-![](/assets/images/posts/fourseasons.webp)
+![](/assets/images/posts/abundance-hamper.jpg)
 
 ### **Radiant Bloom Hampers from Four Seasons Bengaluru**
 
