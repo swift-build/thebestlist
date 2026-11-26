@@ -54,16 +54,10 @@ The**[ 24K Stash Bifold Wallet from Mokobara](https://mokobara.com/products/24k-
 
 **[The Bar Collective's Raclette Grill set](https://thebarcollective.com/products/raclette-grill-set?_pos=1&_sid=130b5f7c8&_ss=r)** is an effortless, Unique way to host a dinner party. With the 8 person VonShef Raclette Grilland stone, you can experience the joy of grilling or searing your own food at the dining table. Simply gather the raclette ingredients, pour your finest wines and enjoy your chilled out evening as your guests take control of creating their own mouth-watering gourmet feast.
 
+![](/assets/images/posts/screenshot-2026-11-26-at-9.17.19 pm.png)
 
-
-![](/assets/images/posts/screenshot-2026-11-19-at-7.59.28 am.png)
-
-
-
-Give the man in your life a reason to make hair care a priority with the **[Advanced Hair Regrowth Regime from Man Matters](https://manmatters.com/dp/1x-minoxifin-1x-nourish-hair-gummies/2025093?widgetSourceId=shop-product-card-grid)**. Designed as a 360° hair-care solution, this triple-action kit combines topical, nutritional and mechanical support to address hair fall and support regrowth. It features CETOSOMAL® Technology, a patented delivery system designed to deliver up to 50% more Minoxidil to the hair follicles, alongside nutritional support and mechanical stimulation. With consistent use, the regime aims to support visible hair regrowth in 5–6 months. A practical self-care upgrade for men looking to take charge of their hair health.
-
-
-
+Designed for men looking to build a fuller beard, **[Man Matters Beard Growth Kit for Low Beard](https://manmatters.com/dp/beard-growth-kit-1-month-pack/26166966?widgetSourceId=shop-product-card-grid)** three-step regime combines 5% alcohol-free Minoxidil, nutrient-rich beard gummies with Biotin, D-aspartic Acid and Creatine, and a derma roller to support follicle stimulation, nourishment, and beard growth from the roots.
+health.
 
 ![](/assets/images/posts/screenshot-2026-11-18-at-7.41.08 pm.png)
 
@@ -75,11 +69,7 @@ Give the man in your life a reason to make hair care a priority with the **[Adva
 
 ![](/assets/images/posts/screenshot-2026-11-18-at-9.21.36 pm.png)
 
-
-
 This International Men's Day, make gifting a little more meaningful with essentials that encourage men to take time for themselves. Thoughtful, functional and easy to incorporate into everyday routines, **[Hivado's grooming range](https://thehivado.com/collections/our-product)** makes for a great gifting choice for the men who deserve a little extra care.
-
-
 
 **Gifting Etiquette, Briefly**
 
