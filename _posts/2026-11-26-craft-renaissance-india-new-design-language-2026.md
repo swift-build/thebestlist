@@ -23,7 +23,15 @@ That posture is changing. Across fashion, jewellery, accessories and the home, a
 
 This is the craft renaissance. It is less a revival than a reorientation: the moment a tradition stops being treated as heritage and starts being used as a language.
 
-#### **Brands Championing The Craft**
+#### **Labels Championing The Craft**
+
+
+
+![](/assets/images/posts/mahajan.png)
+
+
+
+**Diksha Mahajan** is a couture label specialising in bridal and trousseau wear. Founded by designer Diksha Mahajan, the brand draws inspiration from the tradition of passing down wedding sarees and lehengas across generations. This idea of clothing as a personal keepsake forms the foundation of its design philosophy. Its collections include lehengas, sarees, skirts, cocktail gowns and other occasionwear, catering to modern brides and women dressing for special celebrations. The label places emphasis on carefully selected fabrics, individual preferences and personal detailing, creating outfits that carry an emotional connection beyond current fashion trends.
 
 ![](/assets/images/posts/golden_hand_embroidered_sherwani_with_stoll.webp)
 
@@ -41,6 +49,16 @@ Our interpretation of craft is equally reflected in our choice of materials – 
 
 At Neeman’s, artistry resides as much in the visible as in the experiential. Through considered silhouettes, intelligent construction and an interplay of form and function, we bring traditional influences into a contemporary design context, where every detail serves a purpose and comfort becomes a design language in itself.
 
+
+
+![](/assets/images/posts/massey.png)
+
+
+
+**Deepanshi Massey** is an Indian occasionwear label specialising in contemporary Indian ensembles. Its collections focus on concept sarees, lehengas and shararas, with designs that bring together statement detailing and modern silhouettes. The label offers a range of outfits for weddings, festive occasions and celebrations, with an emphasis on contemporary interpretations of traditional Indian dressing. Its product range includes embellished sarees, pearl-detailed ensembles and statement lehengas. The brand also offers customization on select pieces, allowing customers to make adjustments according to their preferences. Deepanshi Massey caters to women looking for occasionwear that combines traditional dressing with a more contemporary aesthetic.
+
+
+
 ![](/assets/images/posts/bombaybombay.jpeg)
 
 Indian craftsmanship has long been defined by its richness, intricate detailing and regional textile traditions. With her latest collection, **‘Bombay से Beyond – Postcard to Reality**’, designer Maheka Mirpuri has brought these elements into a contemporary couture context, drawing inspiration from the glamour, elegance and old-world sophistication of Bombay.
@@ -55,13 +73,46 @@ Speaking about the collection, Maheka Mirpuri shares,
 
 
 
-#### **The Questions Worth Asking**
+![](/assets/images/posts/mrunal-khimji-embroidery-details-4.jpeg)
+
+
+
+**Mrunal Khimji, Founder and Creative Director, Mrunal Khimji says,** I believe India’s rich craft heritage is one of our greatest strengths as a design community. Our understanding of textiles, embroidery and intricate handwork is something we have taken immense pride in for generations, and it is wonderful to see the world increasingly recognise and appreciate the extraordinary calibre of Indian craftsmanship. What is emerging as India’s new design language is, in many ways, a renewed appreciation for what we have always been known for.
+
+Today, almost any embroidery can be replicated by a machine, but the real artistry lies in the hands of an artisan who has spent years perfecting the craft. From the delicacy of fine threadwork to the intricacy of zardozi and aari embroidery, each technique requires a remarkable understanding of fabric, texture, proportion and detail. As a designer, I find immense creative freedom in working with these traditional techniques, exploring unconventional placements, contemporary silhouettes and interesting combinations of materials while preserving the integrity of the craft.
+
+At a time when fashion can be produced and replicated so quickly, a beautifully hand-embroidered garment has become an increasingly prized possession. There is a certain luxury in knowing that something has been painstakingly created by hand, with a level of skill and attention that cannot be hurried. I believe this appreciation for craftsmanship will continue to define India’s place in the global design conversation.
+
+
+
+![](/assets/images/posts/falod.png)
+
+
+
+**Mohit Falod** is a Jaipur-based couture label that draws inspiration from India's rich cultural heritage, particularly the art and craftsmanship of Rajasthan. Established in 1997, the label focuses on handcrafted clothing that brings traditional Indian artistry into contemporary fashion. Its signature work includes Gota Patti, hand-painted Kalamkari and miniature paintings created in collaboration with skilled artisans. The collections also feature intricate detailing with semi-precious stones, alongside traditional and contemporary silhouettes. From bridal couture and occasionwear to statement ensembles, Mohit Falod's designs reflect a strong interest in preserving traditional crafts while creating pieces that can be treasured across generations.
+
+![](/assets/images/posts/apeksha.webp)
+
+**Apeksha Jain Label** is a Jaipur-based ethnic couture brand founded by designer Apeksha Jain. Rooted in the cultural heritage of Jaipur, the label takes inspiration from traditional Indian craftsmanship while approaching it through a contemporary design perspective. Its collections include sarees, lehengas, sharara sets, kurta sets and tunics, with Bandhej and Leheriya forming part of its offerings. The brand places importance on craftsmanship, comfort and individuality, creating clothing for women who enjoy incorporating traditional Indian elements into their wardrobes. Its designs bring together heritage-inspired detailing, contemporary silhouettes and an evolving approach to ethnic dressing.
+
+
+
+![](/assets/images/posts/arpita.png)
+
+
+
+**Arpita Sulakshana** is a house of couture and prêt founded by a women-led designer duo. The label specialises in hand-painted and artisanal fashion, with a focus on wedding and occasionwear. Hand-painting is central to its design process, with each creation featuring original artwork, intricate detailing and handcrafted elements. Its collections range from bohemian-inspired ensembles to more classic silhouettes, bringing together traditional artistry and contemporary design. The brand also incorporates sustainability into its approach, using materials such as organic cotton, linen and silk while supporting ethical manufacturing and fair labour practices. Its work places particular emphasis on wearable art and individuality.
+
+
+**The Questions Worth Asking**
 
 A renaissance of this kind comes with obligations, and the honest version of the story includes them.
 
 Craft that is used as marketing rather than practice is easy to spot, and increasingly easy to resist. The questions worth asking are simple. Are the artisans paid fairly and credited properly? Is the technique being developed, or merely borrowed for a season? Does the designer understand the material, or only its aesthetic? Does the process allow for the time that real craft requires?
 
 The brands that answer those questions well are the ones building something durable. The ones that do not are discovering that a more informed consumer notices.
+
+
 
 #### **An Aesthetic With Its Own Confidence**
 
