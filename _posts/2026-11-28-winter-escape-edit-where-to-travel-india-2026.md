@@ -22,12 +22,20 @@ The good rooms know it too. By the second week of December, the properties worth
 
 This is the edit: where to go, what each place offers, and why now is the right moment to choose.
 
+![](/assets/images/posts/screenshot-2026-11-28-at-6.14.10 pm.png)
 
+![](/assets/images/posts/screenshot-2026-11-28-at-6.10.15 pm.png)
+
+
+
+#### **The Six, Weligama, Sri Lanka**
+
+Located along the shores of Weligama, The Six is an exclusive collection of six luxury beachfront villas, each featuring four ensuite bedrooms, a private swimming pool and direct beach access. Drawing inspiration from six coastal destinations across the world, Bali, Hawaii, Greece, Australia, Italy and Spain, each villa has its own distinct design identity. With expansive indoor-outdoor living spaces, contemporary interiors and personalised hospitality, The Six brings together privacy, thoughtful design and the natural beauty of Sri Lanka’s southern coastline
 
 ![](/assets/images/posts/screenshot-2026-11-28-at-5.43.50 pm.png)
 
 ![](/assets/images/posts/screenshot-2026-11-28-at-5.43.20 pm.png)
 
-#### The Passport Hotel, Goa
+#### **The Passport Hotel, Goa**
 
 What if your next Goan getaway was planned around cocktails rather than just beaches? **The Passport Hotel, Assagao**, brings a fresh perspective to boutique hospitality as India’s first cocktail-forward travellers’ hotel, where the drinking experience is at the heart of the stay. This 27-key property invites guests to discover Goa through its cocktail culture, from the lobby’s **MINI BAR**, a social hub for travellers and locals, to **Layover**, the rooftop infinity pool and swim-up bar designed for leisurely afternoons and sundowner sessions. For those who prefer to play mixologist themselves, in-room DIY cocktail setups bring the bar experience into the privacy of their rooms. The experience extends beyond the hotel through its **Passport Stamping Programme**, encouraging guests to explore partner bars across Goa and collect stamps along the way. More than just a place to stay, The Passport Hotel turns cocktail discovery into an integral part of the Goan holiday.
